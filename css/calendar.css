@@ -1,0 +1,45 @@
+body {font-family: Arial; font-size: 15px;}
+.month {
+        color: white;
+        font-size: 15px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        width: 13.6%;
+}
+.cuerpoT {
+        background-color: #FAFAFA;
+}
+.cal_calendar th
+{
+        background-color:#A5273F;
+        color: white;
+        width:13.6%;
+}
+.cal_d_weeks th{
+        color:black;
+        margin: 0;
+        padding:10px 0;
+        background-color:#bbb;
+        width: 13.6%;
+        text-align: center;
+}
+.cal_calendar td
+{
+        background-color:#eee;
+        text-align:center;
+        width:13.6%;
+        padding:10px 0;
+}
+
+/* Dia actual
+.cal_today
+{
+        color:black;
+        font-weight:bold;
+} */
+
+.cal_days_bef_aft
+{
+        color:#aaa;
+        padding:10px 0;
+}

@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<head>
+	<title>Calendario DEPI</title>
+	<meta charset="utf-8">
+	<link rel='stylesheet' href="fullcalendar/fullcalendar.css">
+	<script src="js/jquery.js"></script>
+	<script src="js/moment.js"></script>
+	<script src="fullcalendar/fullcalendar.js"></script>
+	<script src="fullcalendar/locale/es.js"></script>
+	<script>
+	$(document).ready(function(){
+	$('#calendar').fullCalendar({
+		height: 640,
+		eventLimit: true,
+		eventSources: [{
+			events: [
+				{
+					title:"Re-inscripción de las maestrías de Posgrado",
+					start: "2017-01-23"
+				},
+				{
+					title:"Inscripción a alumnos de nuevo ingreso",
+					start:"2017-01-24"
+				},
+				{
+					title:"Inicio de clases",
+					start:"2017-01-30"
+				},
+				{
+					title:"Plática de Inducción Alumnos de primero de la Maestría en Sistemas Computacionales",
+					start:"2017-02-06"
+				},
+				{
+					title:"Segunda Jornada Académica de Posgrado",
+					start:"2017-03-16"
+				},
+				{
+					title:"Publicación Convocatoria",
+					start:"2017-04-29",
+					end:"2017-05-01"
+				},
+				{
+					title:"Coloquio de Maestría en Ingeniería Industrial",
+					start:"2017-04-25",
+					end:"2017-04-27"
+				},
+				{
+					title:"Coloquio de la Maestría en Sistemas Computacionales",
+					start:"2017-04-27",
+					end:"2017-04-29"
+				},
+				{
+					title:"Encuestas al desempeño Docente",
+					start:"2017-05-15",
+					end:"2017-05-20"
+				},
+				{
+					title:"Examen de conocimientos para las dos maestrías",
+					start:"2017-06-02",
+				},
+				{
+					title:"Examen de inglés",
+					start:"2017-06-03",
+				},
+				{
+					title:"Fin de cursos",
+					start:"2017-06-02",
+				},
+				{
+					title:"Entrevistas a candidatos de la Maestría en Ingenieria Industrial",
+					start:"2017-06-06",
+					end:"2017-06-08"
+				},
+				{
+					title:"Entrevistas a candidatos de la Maestría en Sistemas Computacionales",
+					start:"2017-06-06",
+					end:"2017-06-08"
+				},
+				{
+					title:"Entrega de calificaciones",
+					start:"2017-06-12",
+				},
+				{
+					title:"Publicación de resultado de ingreso al posgrado",
+					start:"2017-06-13",
+				},
+				{
+					title:"Preparación de tema de tesis para los dos programas de maestría",
+					start:"2017-06-20",
+				},
+//----------------------------------------------------------------------------------------------------------------------------------------------
+				{
+					title:"Preparación de tema de tesis para las dos maestrías",
+					start:"2017-08-16",
+				},
+				{
+					title:"Inicio de clases",
+					start:"2017-08-21",
+				},
+				{
+					title:"Plática de Inducción Alumnos de primer semestre de las dos Maestría",
+					start:"2017-08-22",
+				},
+				{
+					title:"Taller de Látex para alumnos de posgrado",
+					start:"2017-09-12",
+				},
+				{
+					title:"Taller de Látex para alumnos de posgrado",
+					start:"2017-09-14",
+				},
+				{
+					title:"Taller de Látex para alumnos de posgrado",
+					start:"2017-09-20",
+				},
+				{
+					title:"Taller de Látex para alumnos de posgrado",
+					start:"2017-09-22",
+				},
+				{
+					title:"Publicación Convocatoria",
+					start:"2017-10-07",
+					end:"2017-10-09"
+				},
+				{
+					title:"Coloquio de la Maestría en Sistemas Computacionales",
+					start:"2017-10-17",
+					end:"2017-10-19"
+				},
+				
+				{
+					title:"Coloquio de Maestría en Ingeniería Industrial",
+					start:"2017-10-19",
+					end:"2017-10-21"
+				},
+				{
+					title:"Encuestas al desempeño Docente",
+					start:"2017-11-06",
+					end:"2017-11-11"
+				},
+				{
+					title:"Segunda Jornada Académica de Posgrado",
+					start:"2017-11-16",
+				},
+				{
+					title:"Fin de cursos",
+					start:"2017-12-01",
+				},
+				{
+					title:"Examen de conocimiento para maestría en Sistemas Computacionales",
+					start:"2017-12-01",
+				},
+				{
+					title:"Examen de inglés para maestría en Sistemas Computacionales",
+					start:"2017-12-02",
+				},
+				{
+					title:"Entrevistas a aspirantes a la maestría en Sistemas Computacionales",
+					start:"2017-12-08",
+				},
+				{
+					title:"Entrega de calificaciones",
+					start:"2017-12-12",
+				},
+				{
+					title:"Publicación de resultado de ingreso al posgrado",
+					start:"2017-12-15",
+				},
+				{
+					title:"Inicio de Recepción de solicitudes para Posgrado (MPSCO-MPIIND)",
+					start:"2018-01-20",
+				},
+				{
+					title:"Fin de Recepción de solicitudes para Posgrado (MPSCO-MPIIND)",
+					start:"2018-05-18",
+				},
+				{
+					title:"Inicio de clases",
+					start:"2018-01-29",
+				},
+				{
+					title:"Jornadas académicas de posgrado",
+					start:"2018-04-26",
+				},
+				{
+					title:"Examen de admisión (MPSCO-MPIIND)",
+					start:"2018-05-23",
+				},
+				{
+					title:"Examen CENEVAL posgrado",
+					start:"2018-05-26",
+				},
+				{
+					title:"Coloquios MPSCO-MPIIND",
+					start:"2018-05-30",
+					end:"2018-06-01"
+				},
+				{
+					title:"Fin de cursos",
+					start:"2018-06-01",
+				},
+				{
+					title:"Examen de acreditación de inglés para posgrado",
+					start:"2018-06-02",
+				},
+				{
+					title:"Entrega de calificaciones del semestre",
+					start:"2018-06-11",
+				},
+				{
+					title:"Inicio de Cursos de actualización docente",
+					start:"2018-06-11",
+				},
+				{
+					title:"Fin de Cursos de actualización docente",
+					start:"2018-06-29",
+				},
+				{
+					title:"Inicio de Cursos de actualización docente",
+					start:"2018-07-29",
+				},
+				{
+					title:"Fin de Cursos de actualización docente",
+					start:"2018-08-17",
+				},
+				{
+					title:"Entrevistas a aspirantes  de las maestrías en sistemas computacionales e ingeniería industrial",
+					start:"2018-06-13",
+					end:"2018-06-15",
+				},
+				{
+					title:"Publicación de resultados de ingreso al posgrado",
+					start:"2018-06-22"
+				},
+				{
+					title:"Preinscripción posgrado",
+					start:"2018-06-27",
+					end:"2018-06-29",
+				},
+
+
+
+				],
+
+		color:"#a5273f",
+	}]
+	})
+	});
+	</script>
+</head>
+<body>
+	<div id="calendar"></div>
+</body>

@@ -1,0 +1,238 @@
+.modal-body {
+  border-top: solid 6px;
+  border-bottom: solid 6px;
+
+  border-color: #A5273F !important;
+}
+.carousel-indicators {
+    top: 20px!important;
+}
+.slider{
+  height: 331px !important;
+}
+.carousel-caption{
+      right: 52%;
+    left: 2%;
+    padding-bottom: 0px;
+    background-color: #AF2338;
+    color:#FAFAFA;
+}
+.carousel-caption h3{
+  color:#FAFAFA;
+}
+@font-face
+{
+    font-family: 'trajan' !important;
+    src: url("../fonts/trajan_pro_regular-webfont.eot");
+    src: url("../fonts/trajan_pro_regular-webfontd41d.eot?#iefix")
+    format("embedded-opentype"), url("../fonts/trajan_pro_regular-webfont.html")
+    format("woff"), url("../fonts/trajan_pro_regular-webfont.ttf")
+    format("truetype"), url("../fonts/trajan_pro_regular-webfont-2.html#TrajanProRegular")
+    format("svg");
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {    font-family: ‘Soberana Titular’;
+			src: url(/fonts/SoberanaTitular-Regular. eot);
+			 src: url(/fonts/SoberanaTitular-Regular.otf).format("opentype");
+			 font-weight: normal; }
+@font-face {    font-family: ‘Soberana Titular Bold’;
+			src: url(/fonts/SoberanaTitular-Regular. eot);
+			 src: url(/fonts/SoberanaTitular-Bold.otf) .format("opentype");
+			 font-weight: normal; }
+h1, h2, h3, h4, h5, h6{
+    font-family: 'trajan' !important;
+}
+h2 {
+    font-size: 30px;
+    line-height: 45px;
+}
+h1, h2 {
+    font-weight: 300 !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal !important;
+    margin: 2px 0px 5px;
+    padding: 2px 0px;
+    color: #666;
+}
+
+
+body{
+  font: 15px/1.2em "Times New Roman", Times, serif;
+  border-top: solid #A5273F;
+  background-color: #FAFAFA;
+  padding-top:30px ;
+}
+
+@media (max-width: 600px) {
+    .navbar-header {
+          background-color: #E8E8E8;
+          }
+    .icon-bar{
+        background-color: #fff;
+    }
+    .navbar-toggle {
+        border: 1px solid white;
+    }
+}
+@media (min-width: 767px) {
+    .navbar {
+        margin-top:   40px;
+        min-height: 39px !important;
+    }
+    #navbar {
+        background: #fafafa; /* Old browsers */
+        background: -moz-linear-gradient(left, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, right top, color-stop(0%,#fafafa), color-stop(7%,#e8e8e8), color-stop(93%,#e8e8e8), color-stop(100%,#fafafa)); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(left, #fafafa 0%,#e8e8e8 7%,#e8e8e8 93%,#fafafa 100%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(left, #fafafa 0%,#e8e8e8 7%,#e8e8e8 93%,#fafafa 100%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(left, #fafafa 0%,#e8e8e8 7%,#e8e8e8 93%,#fafafa 100%); /* IE10+ */
+        background: linear-gradient(to right, #fafafa 0%,#e8e8e8 7%,#e8e8e8 93%,#fafafa 100%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', endColorstr='#fafafa',GradientType=1 ); /* IE6-9 */
+        max-height: 35px;
+        margin-top: 1px;
+        margin-bottom: 1px;
+    }
+    .navbar .nav > li > a,
+    .navbar .nav > li > a:visited {
+        color: #666 !important;
+        padding: 8px  15px;
+        height: 34px;
+    }
+    .dropdown-menu a:hover,
+    .dropdown-menu a:focus {
+        background: none !important;
+    }
+    .dropdown-menu a {
+        background: fdfdf !important;
+    }
+
+}
+
+.navbar{
+	border-top: 1px solid #eee  !important;
+	border-bottom: 1px solid #eee !important;
+
+
+}
+.navbar .nav > li > a:hover{
+	background: #FFF !important;
+}
+.dropdown-menu a{
+	padding:9px 20px !important;
+	color:#666 !important;
+	text-shadow:none !important;
+	background:transparent !important;
+	border-bottom:1px solid #eee;
+}
+.dropdown-menu{
+  background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(top, #ffffff 35%, #c4c4c4 85%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(35%,#ffffff), color-stop(85%,#c4c4c4)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #ffffff 35%,#c4c4c4 85%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #ffffff 35%,#c4c4c4 85%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #ffffff 35%,#c4c4c4 85%); /* IE10+ */
+background: linear-gradient(to bottom, #ffffff 35%,#c4c4c4 85%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#c4c4c4',GradientType=0 ); /* IE6-9 */
+}
+/*------------------------------------------------------*/
+.bloque{
+  margin-top:   20px;
+  padding-top:   20px;
+  -webkit-border-top: solid 1px #EDEDED;
+  border-top: solid 1px #EDEDED;
+}
+
+/*------------------------------------*/
+#noticias{
+  margin-top: 80px;
+}
+
+#noticias h3{
+  font-size: 35px;
+  line-height: 35px;
+
+
+}
+
+#noticias h5 a{
+  color:#A5273F;
+  font-size: 25px;
+
+}
+.social{
+    background-color: #A62940;
+    padding: 20px  0px;
+    margin-top:   40px;
+}
+
+.social p{
+  font-size:   20px;
+  color:#FAFAFA;
+}
+.social span{
+  background-color: #98979C;
+  color:#FAFAFA;
+  text-decoration: inherit;
+  display: inline-block;
+  margin:  15px;
+  padding:   12px;
+  border-radius:100%;
+    text-decoration: none;
+}
+.f{
+  padding:  11px 16px !important;
+}
+
+.social a, .social a:visited, .social a:hover {
+    color: #FFF;
+    text-decoration: none;
+    display: inline-block;
+}
+#boton-menu{
+  box-shadow: 1px 1px 23px rgba(0, 0, 0, 0.17), -1px -1px 0 rgba(255, 255, 255, 0.85) inset;
+  background-color: #A5273F;
+  position: fixed;
+  z-index: 65000;
+  top:100px;
+  left: 0px;
+  /*padding-left: 20px;
+  padding-top: 7px;*/
+  width: 55px;
+  height: 160px;
+  font: 35px "Times New Roman",Times,serif;
+}
+#boton-menu:hover{
+  -webkit-transform:scale(1.1);
+  transform:scale(1.1);
+
+}
+#boton-menu a{
+  padding-left: 5px;
+}
+#boton-menu a, #boton-menu a:visited, #boton-menu a:hover{
+  color: #C4C4C4 !important;
+  text-decoration: none;
+}
+p, ol{
+  color:#5d5d5d;
+}
+.lista li{
+list-style: none;
+color:#5d5d5d;
+}
+.cv blockquote{
+  padding: 00px 20px;
+margin: 0px 0px 20px;
+font-size: 17.5px;
+border-left: 5px solid #A62940;
+color:#5d5d5d;
+
+}
+.documentos{
+  border-color: #F9DE00;
+  background-color:#F9DE00;
+  color: white!important;
+}

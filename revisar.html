@@ -1,0 +1,77 @@
+<div class="sidebar">
+    <div class="widget">
+        <ul>
+            <h4><a href="m_industrial_perfil.html">PERFIL DE EGRESO</a></h4>
+            <h4><a href="m_industrial_objetivos.html">OBJETIVO GENERAL Y OBJETIVOS ESPECÍFICOS</a></h4>
+            <h4><a href="m_industrial_plan.html">PLAN DE ESTUDIOS</a></h4>
+            <h4><a href="m_industrial_cohorte.html">NUMERO DE ALUMNOS POR COHORTE GENERACIONAL</a></h4>
+            <h4><a href="m_industrial_nucleo.html">NÚCLEO ACADÉMICO BÁSICO</a></h4>
+            <h4><a href="m_industrial_lineas.html">LÍNEAS DE GENERACION Y/O APLIC. DEL CONOCIMIENTO</a></h4>
+            <h4><a href="m_industrial_tutoria.html">TUTORIA</a></h4>
+            <h4><a href="m_industrial_productividad.html">PRODUCTIVIDAD ACADEMICA</a></h4>
+            <li>
+                <h4><a onClick="des()">VINCULACIÓN</a><span class="caret"></span></h4></li>
+            <ul id="menudesp">
+                <h4 role="presentation"> <a role="menuitem" tabindex="-1" href="m_industrial_colavoracioninstituciones.html">COLABORACION CON OTRAS INSTITUCIONES</a></h4>
+                <h4 role="presentation"> <a role="menuitem" tabindex="-1" href="m_industrial_colavoracionsectores.html">COLABORACION CON OTROS SECTORES DE LA SOCIEDAD</a></h4>
+            </ul>
+            <h4><a href="m_industrial_procesos.html">PROCESOS ADMINISTRATIVOS</a></h4>
+            <h4><a href="m_industrial_claustro.html">CLAUSTRO DE PROFESORES</a></h4>
+        </ul>
+    </div>
+    <style>
+    #menudesp {
+        top: 70px;
+        display: none;
+        transition: 2s;
+    }
+    
+    .sidebar {
+        background: none repeat scroll 0% 0% #F7F7F7;
+        border: 1px solid #E1E1E1;
+        padding: 8px;
+    }
+    
+    .sidebar .widget {
+        background: none repeat scroll 0% 0% #FFF;
+        padding: 8px;
+        font-size: 13px;
+        line-height: 23px;
+        border: 1px solid #E1E1E1;
+        margin-bottom: 10px;
+    }
+    
+    .sidebar h4 {
+        font-size: 11px;
+        color: #777;
+        line-height: 18px;
+        margin-bottom: 5px;
+        padding-bottom: 1px;
+        text-transform: uppercase;
+        border-bottom: 1px solid #EEE;
+    }
+    
+    a,
+    a:visited,
+    a:hover {
+        color: #A5273F !important;
+    }
+    
+    #slidepanel {
+        top: 74px !important;
+    }
+    </style>
+    <script>
+    var desplegar = false;
+
+    function des() {
+        if (desplegar) {
+            desplegar = false;
+            document.getElementById('menudesp').style.display = 'none';
+        } else {
+            desplegar = true;
+            document.getElementById('menudesp').style.display = 'block';
+        }
+    }
+    </script>
+</div>
