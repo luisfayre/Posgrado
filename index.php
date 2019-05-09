@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/font-awesome.css">
     <title>ITCH II: DEPI</title>
 </head>
@@ -15,7 +16,8 @@
     <!--<iframe frameborder=0 src='headerDEPI.html' width='100%' height='90px'></iframe> -->
     <!--Barra de navegacion-->
     <a id="ddmenuLink" href="barraDEPI.html"></a>
-    <!-- Slider -->
+    
+    <!-- SLIDERS -->
     <div class="container text-center">
         <div class="row">
             <div class="col-md-12 text-center">
@@ -30,11 +32,18 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner" role="listbox">
                             <div class="item active">
-                                <a href="convocatoria2017.html">
-                                    <img class="slider" src="img/reconocimiento_conacyt.jpg" alt="..." style="width: 100%;">
+                                <a href="convocatoria_base.html">
+                                    <img class="slider" src="img/Convocatoria-maestrias.jpg" alt="..." style="width: 100%;">
                                 </a>
                             </div>
-                            <!--<div class="item">
+
+                            <div class="item">
+                                <a href="convocatoria_base.html">
+                                    <img class="slider" src="img/Convocatoria-maestrias.jpg" alt="..." style="width: 100%;">
+                                </a>
+                            </div>
+                            
+                            <!-- <div class="item">
                                 <a href="m_sistemas_plan.html">
                                     <img class="slider" src="img\plan_sistemas.jpg" alt="..." style="width: 100%;">
                                 </a>
@@ -43,21 +52,23 @@
                                 <a href="m_industrial_plan.html">
                                     <img class="slider" src="img\plan_industrial.jpg" alt="..." style="width: 100%;">
                                 </a>
-                            </div>-->
+                            </div> -->
                         </div>
                         <!-- Controls -->
-                        <!--<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                        <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
                             <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
                             <span class="sr-only">Previous</span>
                         </a>
                         <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
                             <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
-                        </a>-->
+                        </a>
                     </div>
                 </div>
             </div>
-            <p style="text-align:center; margin:auto; color:gray">Presionar la imagen actual llevará a la página correspondiente</p>
+            <!-- Leyenda -->
+            <!-- <p style="text-align:center; margin:auto; color:gray">Presionar la imagen actual llevará a la página correspondiente</p> -->
+            
             <div id="noticias" class="col-md-12 bloque">
                 <div class="col-md-8">
                     <!-- <div class="media">
@@ -87,17 +98,19 @@
                     </div>
                     <hr> -->
                     <div class="col-md-12">
-                        <div class="thumbnail text-left img2">
+                        <div class="thumbnail text-left imagen-noticia">
+                        <a href="documentos/Información_Maestría-2019a.pdf">
                             <img src="img\pic08.jpg" alt="jornadaAcad4" class="media-object img-responsive imgNewsZoom">
+                        </a>
                             <div class="caption">
-                                <h2 style="color:#FF0000" ><b>Convocatoria Maestrías 2018-2</b></h2>
+                                <p class="titulo_noticia">Convocatoria Maestrías 2019-1</p>
                                 <p class="Estilo34" align="left">Aqui encontraras toda la información relacionada con la Convocatoria de Maestrías</p>
-                                <p class="Estilo34" align="left"><a href="documentos/Información_Maestría_Página_Web.pdf" class="rm">LEER NOTA</a></p>
+                                <p class="Estilo34" align="left"><a href="documentos/Información_Maestría-2019a.pdf" class="rm">LEER NOTA</a></p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="thumbnail text-left img2">
+                        <div class="thumbnail text-left imagen-noticia ">
                             <img src="img\Coloqui_Dic-2017\Sistemas\4.jpg" alt="jornadaAcad4" class="media-object img-responsive imgNewsZoom">
                             <div class="caption">
                                 <h2>Coloquio Diciembre 2017</h2>
@@ -117,7 +130,7 @@
                         </div>
                     </div>--> 
                     <div class="col-md-6">
-                        <div class="thumbnail text-left img2">
+                        <div class="thumbnail text-left imagen-noticia">
                             <img src="img\Jornada-4\jornada4 (4).jpg" alt="jornadaAcad4" class="media-object img-responsive imgNewsZoom">
                             <div class="caption">
                                 <h2>Cuarta Jornada Académica</h2>
@@ -131,13 +144,22 @@
                 <div class="col-md-4">
                     <div class="text-center">
                         <p>
-                            <iframe id="minical" scrolling="no" frameborder="0" src='calendar.html' width="258px" height='275px'></iframe>
-                        </p>
-                        <p>
                             <a href="http://sii.itchihuahuaii.edu.mx/ " target="_blank ">
-                                <img src="img/logos/sii.png " border="0 " height="105 " width="232 ">
+                                <img src="img/logos/depi.png" height="100 " width="195" style="max-width: 100%;">
                             </a>
                         </p>
+
+                        <p>
+                            <a href="http://sii.itchihuahuaii.edu.mx/ " target="_blank ">
+                                <img src="img/logos/SII.jpg " height="100 " width="195" style="max-width: 100%;">
+                            </a>
+                        </p>
+
+                         <!-- Calendario -->
+                         <p>
+                            <iframe id="minical" scrolling="no" frameborder="0" src='calendar.html' width="258px" height='275px'></iframe>
+                        </p>
+                        <!-- Fin calendario -->
                         <p>
                             <a href="http://www.conricyt.mx" target="_blank">
                                 <img src="img/logos/conricyt.jpg" border="0" height="105" width="232">

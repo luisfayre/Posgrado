@@ -1,0 +1,73 @@
+/**
+ * index.css
+ *
+ * Encontraras los estilos de la pagina principal de posgrado.
+ *
+ */
+
+ 
+.bloque {
+
+    margin-top: 20px;
+    padding-top: 20px;
+    -webkit-border-top: solid 1px #EDEDED;
+    border-top: solid 1px #EDEDED;
+}
+
+/*-------------------------------------------*\
+    Noticias
+\*-------------------------------------------*/
+
+#noticias {
+    margin-top: 30px;
+}
+
+/* #noticias h3 {
+    font-size: 35px;
+    line-height: 35px;
+}
+
+#noticias h5 a {
+    color: #A5273F;
+    font-size: 25px;
+} */
+
+div.imagen-noticia {
+    /*padding: 12px 0px 0px;
+    float: left;
+    display: inline-block;*/
+    overflow: hidden;
+}
+.titulo_noticia
+{
+	font-family: 'Trajan Pro Bold';
+	font-size:25px;
+	color:#C00;
+	text-align:left;
+}
+
+.decripcion_noticia {
+    color: #666;
+}
+
+p {
+	line-height: 24px;
+	margin-bottom: 15px;
+	/* font-family: 'Roboto', sans-serif; */
+	font-size: 16px;
+	font-weight: 300;
+}
+
+/* Aumentar imagen */
+.thumbnail .caption {
+    padding-top: 15%;
+}
+/* Zoom */
+.imgNewsZoom {
+    transform: scale(1.5);
+}
+
+
+/*-------------------------------------------*\
+    Fin Noticias
+\*-------------------------------------------*/

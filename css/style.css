@@ -247,9 +247,9 @@ div.img2 {
     /*height: 208px;*/
 }
 
-.imgNewsZoom {
+/* .imgNewsZoom {
     transform: scale(1.5);
-}
+} */
 
 img.fl {
     margin: 0px;
@@ -496,7 +496,7 @@ h6 {
 }
 
 
-/*------------------------------------------------------*/
+/* ------------------SECCION NOTICAS------------------------------------
 
 .bloque {
     margin-top: 20px;
@@ -505,8 +505,7 @@ h6 {
     border-top: solid 1px #EDEDED;
 }
 
-
-/*------------------------------------*/
+------------------------------------
 
 #noticias {
     margin-top: 30px;
@@ -520,7 +519,7 @@ h6 {
 #noticias h5 a {
     color: #A5273F;
     font-size: 25px;
-}
+} */
 
 .social {
     background-color: #A62940;
@@ -624,3 +623,5 @@ ol {
     line-height: 32px;
     background: transparent url("../img/iconos/add.png") no-repeat scroll 228px 1px / 29px auto;
 }
+
+
