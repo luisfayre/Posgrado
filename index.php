@@ -6,15 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style_tec.css">
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/font-awesome.css">
     <title>ITCH II: DEPI</title>
 </head>
 
 <body class="bodyIndex">
+    <!-- Hearder -->
     <a id="ddmenuHeader" href="headerDEPI.html"></a>
-    <!--<iframe frameborder=0 src='headerDEPI.html' width='100%' height='90px'></iframe> -->
-    <!--Barra de navegacion-->
+    <!-- <a id="ddmenuHeader" href="headerDEPI.html"></a> -->
+    <!-- <iframe src='headerDEPI.html' width='100%' height='100%'></iframe> -->
+    <!--Menus-->
     <a id="ddmenuLink" href="barraDEPI.html"></a>
     
     <!-- SLIDERS -->
@@ -144,7 +147,7 @@
                 <div class="col-md-4">
                     <div class="text-center">
                         <p>
-                            <a href="http://sii.itchihuahuaii.edu.mx/ " target="_blank ">
+                            <a href="#" target="_blank ">
                                 <img src="img/logos/depi.png" height="100 " width="195" style="max-width: 100%;">
                             </a>
                         </p>

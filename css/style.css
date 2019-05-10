@@ -408,9 +408,9 @@ h6 {
 }
 
 .bodyIndex {
-    border-top: solid #A5273F;
+    border-top: solid #8c8c8c;
     background-color: #FAFAFA;
-    padding-top: 30px;
+    /* padding-top: 30px; */
 }
 
 .bodyFoot {
@@ -625,3 +625,153 @@ ol {
 }
 
 
+
+
+/* -*-------------------------- */
+
+
+/* =RESPONSIVE STRUCTURE
+----------------------------------------------- */
+@media screen and (max-width: 1190px) {
+	#page {
+		width: 97%;
+	}
+	.wide #page {
+		width: 100%;
+	}
+	.inner-wrap {
+		width: 94%;
+	}
+	
+}
+@media screen and (max-width: 768px) {
+	.directorio-footer-column
+{
+	text-align:left;
+	font-size:12px;
+	color:#666;
+	width:100%;
+	max-width:100%;
+	float:left;
+	position:relative;
+
+}
+	#header-text-nav-wrap {
+		padding: 15px 0;
+	}
+	#header-left-section {
+		float: none;
+		max-width: 100%;
+		margin-right: 0;
+	}
+	#header-logo-image {
+		float: none;
+		text-align: center;
+		margin-bottom: 10px;
+		padding-right: 0;
+	}
+	#header-text {
+		float: none;
+		text-align: center;
+		padding: 0;
+		margin-bottom: 10px;
+	}
+	#site-description {
+		padding-bottom: 5px;
+	}
+	#header-right-section {
+		float: none;
+		max-width: 100%;
+	}
+	#header-right-section .widget {
+		padding: 0 0 10px 0;
+		float: none;
+		text-align: center;
+	}
+	.widget_recent_work .tg-one-fourth {
+		width: 50%;
+		float: left;
+	}
+	.footer-socket-wrapper .copyright {
+		float: none;
+		max-width: 100%;
+		text-align: center;
+		margin-bottom: 5px;
+	}
+	.footer-socket-wrapper .footer-menu {
+		float: none;
+		text-align: center;
+	}
+	.footer-socket-wrapper .footer-menu li {
+		float: none;
+		display: inline;
+	}
+	.footer-socket-wrapper .footer-menu a {
+		float: none;
+		display: inline;
+		padding: 5px 5px 0;
+	}
+}
+@media screen and (max-width: 767px) {
+	.menu-toggle,
+	.main-navigation.toggled .nav-menu {
+		display: block;
+	}
+	.main-navigation ul {
+		display: none;
+	}
+	.main-navigation {
+		float: none;
+	}
+	#featured-slider .entry-content {
+		display: none;
+	}
+	.slider-nav {
+		display: none;
+	}
+	#primary, #secondary {
+		float: none;
+		width: 100%;
+	}
+	.tg-one-half, .tg-one-third, .tg-one-fourth {
+		float: none;
+		width: 100%;
+		margin: 0;
+	}
+	.widget_image_service_block .tg-one-third {
+		padding-bottom: 20px;
+	}
+}
+@media only screen and (max-width: 600px) {
+   #featured-slider .slider-title-head .entry-title a {
+   	font-size: 16px;
+   	padding: 4px 12px;
+   }
+	.widget_recent_work .tg-one-fourth {
+		width: 100%;
+		text-align: center;
+		position: relative;
+	}
+	.widget_recent_work .recent_work_title {
+		right: 0;
+	}
+	.entry-meta .post-format {
+		padding: 0;
+		top: -18px;
+	}
+	.entry-meta .post-format i {
+		font-size: 12px;
+		padding: 2px 0 0;
+	}
+}
+@media only screen and (max-width: 400px) {
+	#featured-slider .slider-title-head .entry-title a {
+		font-size: 12px;
+		padding: 0 8px;
+	}
+}
+
+/* Remove the updated class from entry meta */
+.entry-meta .updated {
+  display: none;
+}
