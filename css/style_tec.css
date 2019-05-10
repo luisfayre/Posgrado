@@ -702,13 +702,13 @@ button:hover {
 }
 /* =LINKS
 ----------------------------------------------- */
-a {
+/* a {
 	color: #77CC6D;
 	text-decoration: none;
 }
 a:focus, a:active, a:hover {
 	text-decoration: none;
-}
+} */
 
 /* =IMAGES
 ----------------------------------------------- */
