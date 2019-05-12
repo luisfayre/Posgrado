@@ -149,8 +149,8 @@
                 <div class="col-md-4">
                     <div class="text-center">
                         <p>
-                            <a href="#" target="_blank ">
-                                <img src="img/logos/depi.png" height="100 " width="195" style="max-width: 100%;">
+                            <a href="php/depi.php" target="_blank">
+                                <img src="img/logos/depi.png" alt="depi "height="100 " width="195" style="max-width: 100%;">
                             </a>
                         </p>
 

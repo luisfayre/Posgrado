@@ -31,12 +31,12 @@ body {font-family: Arial; font-size: 15px;}
         padding:10px 0;
 }
 
-/* Dia actual
+/* Dia actual */
 .cal_today
 {
         color:black;
         font-weight:bold;
-} */
+}
 
 .cal_days_bef_aft
 {
