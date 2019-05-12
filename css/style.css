@@ -418,59 +418,6 @@ h6 {
     background-color: #FAFAFA;
 }
 
-@media (max-width: 600px) {
-    .navbar-header {
-        background-color: #E8E8E8;
-    }
-    .icon-bar {
-        background-color: #fff;
-    }
-    .navbar-toggle {
-        border: 1px solid white;
-    }
-}
-
-@media (min-width: 767px) {
-    .navbar {
-        margin-top: 40px;
-        min-height: 39px !important;
-    }
-    #navbar {
-        background: #fafafa;
-        background: -moz-linear-gradient(left, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);
-        background: -webkit-gradient(linear, left top, right top, color-stop(0%, #fafafa), color-stop(7%, #e8e8e8), color-stop(93%, #e8e8e8), color-stop(100%, #fafafa));
-        background: -webkit-linear-gradient(left, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);
-        background: -o-linear-gradient(left, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);
-        background: -ms-linear-gradient(left, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);
-        background: linear-gradient(to right, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);
-        filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', endColorstr='#fafafa', GradientType=1);
-        max-height: 35px;
-        margin-top: 1px;
-        margin-bottom: 1px;
-    }
-    .navbar .nav > li > a,
-    .navbar .nav > li > a:visited {
-        color: #666 !important;
-        /*padding: 8px 15px;*/
-        height: 34px;
-    }
-    .dropdown-menu a:hover,
-    .dropdown-menu a:focus {
-        background: none !important;
-    }
-    .dropdown-menu a {
-        background: fdfdf !important;
-    }
-}
-
-.navbar {
-    border-top: 1px solid #eee !important;
-    border-bottom: 1px solid #eee !important;
-}
-
-.navbar .nav > li > a:hover {
-    background: #FFF !important;
-}
 
 .dropdown-menu a {
     padding: 9px 20px !important;
@@ -521,43 +468,7 @@ h6 {
     font-size: 25px;
 } */
 
-.social {
-    background-color: #A62940;
-    padding: 20px 0px;
-    margin-top: 40px;
-}
 
-.social p {
-    font-size: 20px;
-    color: #FAFAFA;
-}
-
-.social span {
-    background-color: #98979C;
-    color: #FAFAFA;
-    text-decoration: inherit;
-    display: inline-block;
-    margin: 15px;
-    padding: 12px;
-    border-radius: 100%;
-    text-decoration: none;
-}
-
-.socialLinks a {
-    margin: 20px 20px;
-}
-
-.f {
-    padding: 11px 16px !important;
-}
-
-.social a,
-.social a:visited,
-.social a:hover {
-    color: #FFF;
-    text-decoration: none;
-    display: inline-block;
-}
 
 #boton-menu {
     box-shadow: 1px 1px 23px rgba(0, 0, 0, 0.17), -1px -1px 0 rgba(255, 255, 255, 0.85) inset;
