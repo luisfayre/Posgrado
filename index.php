@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/style.css">
+    <!--link rel="stylesheet" href="css/style.css"-->
     <link rel="stylesheet" href="css/style_tec.css">
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/font-awesome.css">
@@ -186,7 +186,7 @@
         </div>
     </div>
     <!--Pie de pagina-->
-    <a id="ddmenuLink2" href="footerDEPI.html"></a>
+    <!--a id="ddmenuLink2" href="footerDEPI.html"></a-->
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/javascript.js"></script>
@@ -195,6 +195,20 @@
     <script src="js/ddmenu.js" type="text/javascript"></script>
     <!-- iframe minicalendario -->
     <script src="js/minical.js"></script>
+    
+    <div class="container">
+        
+    <?php
+        require_once 'includes/reciente.php';
+    ?>
+    
+    <?php
+        require_once 'includes/footer.php';
+    ?>
+    
+    </div>
+    
+    
 </body>
 
 </html>
