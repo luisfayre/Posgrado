@@ -681,3 +681,11 @@ img#wpstats {
 	position:relative;
 	float:left;
 }
+
+.noticia
+{
+	font-family: 'Trajan Pro Bold';
+	font-size:25px;
+	color:#C00;
+	text-align:left;
+}

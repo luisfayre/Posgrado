@@ -74,7 +74,13 @@
             <!-- Leyenda -->
             <!-- <p style="text-align:center; margin:auto; color:gray">Presionar la imagen actual llevará a la página correspondiente</p> -->
             
+            
+            
+            
             <div id="noticias" class="col-md-12 bloque">
+                
+                <!-- Seccion de noticias-->
+                
                 <div class="col-md-8">
                     <!-- <div class="media">
                         <div class="media-left">
@@ -146,6 +152,10 @@
                     </div>
                     <hr>
                 </div>
+                
+                <!-- Seccion de widgets-->
+                
+
                 <div class="col-md-4">
                     <div class="text-center">
                         <p>
