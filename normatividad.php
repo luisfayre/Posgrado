@@ -2,16 +2,22 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/font-awesome.css">
-    <script src="js/jquery.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/javascript.js"></script>
-    <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Bootstrap-->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <!-- Estilos-->
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/style_tec.css">
+        <link rel="stylesheet" href="css/index.css">
+        <!-- Funete-->
+        <link rel="stylesheet" href="css/font-awesome.css">
+        <!-- Scripts-->
+        <script src="js/jquery.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/javascript.js"></script>
+        <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
+        <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
     <title>Normatividad</title>
     <script src="js/ddmenu.js" type="text/javascript"></script>
 </head>

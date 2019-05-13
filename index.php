@@ -37,13 +37,13 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner" role="listbox">
                             <div class="item active">
-                                <a href="convocatoria_base.html">
+                                <a href="convocatoria_base.php">
                                     <img class="slider" src="img/Convocatoria-maestrias.jpg" alt="..." style="width: 100%;">
                                 </a>
                             </div>
 
                             <div class="item">
-                                <a href="convocatoria_base.html">
+                                <a href="convocatoria_base.php">
                                     <img class="slider" src="img/Convocatoria-maestrias.jpg" alt="..." style="width: 100%;">
                                 </a>
                             </div>
