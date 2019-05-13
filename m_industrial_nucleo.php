@@ -1,18 +1,24 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/font-awesome.css">
-    <script src="js/jquery.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/javascript.js"></script>
-    <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
-    <title>Claustro Profesores de Industrial</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Bootstrap-->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <!-- Estilos-->
+        <link rel="stylesheet" href="css/style_tec.css">
+        <link rel="stylesheet" href="css/index.css">
+        <!-- Funete-->
+        <link rel="stylesheet" href="css/font-awesome.css">
+        <!-- Scripts-->
+        <script src="js/jquery.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/javascript.js"></script>
+        <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
+        <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
+        
+    <title>Nucleo</title>
     <script src="js/ddmenu.js" type="text/javascript"></script>
 </head>
 
@@ -20,21 +26,17 @@
     <a id="ddmenuHeader" href="headerDEPI.html"></a>
     <!--Barra de navegacion-->
     <a id="ddmenuLink2" href="barraMIndust.html"></a>
-    <!-- Aquí termina la sección de menú e imagenes de DEPI.-->
     <div class="container" style="text-align:justify;">
         <div class="row">
             <div class="col-md-12 text-center">
-                <h1>
-          MAESTRIA EN INGENIERÍA INDUSTRIAL
-          </h1>
                 <h2>
-          CLAUSTRO DE PROFESORES
+          NÚCLEO ACADÉMICO BÁSICO
           </h2>
             </div>
         </div>
         <div class="row">
             <div class="col-md-12 col-sm-12">
-                <p>El claustro está compuesto por los siguientes docentes:</p>
+                <p>El núcleo académico básico está compuesto por seis profesores, cuatro de ellos con doctorado y el resto con el grado de maestría. Los docentes son:</p>
             </div>
         </div>
         <div class="row">
@@ -58,10 +60,6 @@
                                 <td>24/01/1997</td>
                                 <td><strong>Maestria,</strong>en Administración, Universidad Autonoma de Chihuahua</td>
                             </tr>
-                            <!-- <tr>
-                  <td>-</td>
-                  <td><strong>Maestria,</strong>en Ciencias de la Ingeniería Indutrial, Universidad Autonoma de Ciudad Juarez</td>
-                </tr> -->
                         </table>
                     </p>
                 </div>
@@ -80,11 +78,11 @@
                         <table>
                             <tr>
                                 <td>01/2012 </td>
-                                <td><strong> Doctorado,</strong>en Ciencias en Ingeniería Industrial, Univesidad de Navarra, España</td>
+                                <td><strong> Doctorado,</strong>en Ciencias Ingeniería Industrial, Univesidad de Navarra, España</td>
                             </tr>
                             <tr>
                                 <td>2001 </td>
-                                <td><strong>Maestria,</strong>en ciencias en Ingeniería Industrial, New Mexico State Universiy, U.S.A.</td>
+                                <td><strong>Maestria,</strong>en Ciencias en Ingeniería Industrial, New Mexico State Universiy, U.S.A.</td>
                             </tr>
                         </table>
                     </p>
@@ -134,57 +132,6 @@
                 </p>
             </div>
         </div>
-        <!--<div class="media marcos thumbnail">
-      <div class="media-left media-middle">
-        <a href="#">
-          <img class="media-object" src="img/cv/Sin roberto.jpg" alt="Amaya">
-        </a>
-      </div>
-      <div class="media-body">
-        <h4 class="media-heading">Roberto Villapando López</h4>
-        <p>CORREO: posgradomii@hotmail.com</p>
-        <p>05/2007 - 2016 Tecnológico Nacional De México / Instituto Tecnológico De
-        Chihuahua II, Profesor de tiempo completo</p>
-      </div>
-    </div>-->
-        <div class="media marcos thumbnail">
-            <div class="media-left media-middle">
-                <a href="#">
-                    <img class="media-object" src="img/cv/gonzalesn.jpg" alt="González" width=100 height=162>
-                </a>
-            </div>
-            <div class="media-body">
-                <h4 class="media-heading">Jesús Elías González Nájera</h4>
-                <p>CORREO: jesus.gonzalezn@gmail.com</p>
-                <p>01/02/1992 - 2016 Tecnológico Nacional De México / Instituto Tecnológico De Chihuahua II, Profesor de 3/4</p>
-                <p>
-                    <table>
-                        <td>08/1995</td>
-                        <td><strong>Maestria,</strong>en ciencias en Ingeniería Industrial, Instituto Tecnológico de Cd. Juárez.</td>
-                        </tr>
-                    </table>
-                </p>
-            </div>
-        </div>
-        <div class="media marcos thumbnail">
-            <div class="media-left media-middle">
-                <a href="#">
-                    <img class="media-object" src="img/cv/escarcega.jpg" alt="Escarcega" width=100 height=162>
-                </a>
-            </div>
-            <div class="media-body">
-                <h4 class="media-heading">Nohemi Escarcega Portillo</h4>
-                <p>CORREO: nescarcega.itchii@yahoo.com.mx</p>
-                <p>03/1991 - 2016 Tecnológico Nacional De México / Instituto Tecnológico De Chihuahua II, Profesor de 3/4</p>
-                <p>
-                    <table>
-                        <td>12/1995</td>
-                        <td><strong>Maestria,</strong> en Ingeniería Industrial, Instituto Tecnológico de Cd. Juárez.</td>
-                        </tr>
-                    </table>
-                </p>
-            </div>
-        </div>
         <div class="media marcos thumbnail">
             <div class="media-left media-middle">
                 <a href="#">
@@ -226,9 +173,87 @@
             </div>
         </div>
     </div>
+    <!--
+    <div class="row ">
+        <div class="col-md-12 bloque col-sm-12">
+            <table style="width: 100%">
+                <tbody>
+                    <tr>
+                        <td> <span class="glyphicon glyphicon-cog"></span> <span style="font-weight: bold; color:#A5273F">Martha
+          Patricia García Martínez</span>, Dr. </td>
+                    </tr>
+                    <tr>
+                        <td> <span style="font-weight: bold;">correo</span>:
+                            <span style=" color: #000099;">patytec2@yahoo.com<br>
+            <br>
+          </span> </td>
+                    </tr>
+                    <tr>
+                        <td> <span class="glyphicon glyphicon-cog"></span> <span style="font-weight: bold;color:#A5273F">Mario
+        Antonio Makita Aguilar</span>, Dr.</td>
+                    </tr>
+                    <tr>
+                        <td><span style="font-weight: bold;">correo</span>:
+                            <span style=" color: #000099;">makitaj@prodigy.net.mx<br>
+          <br>
+        </span> </td>
+                    </tr>
+                    <tr>
+                        <td> <span class="glyphicon glyphicon-cog"></span> <span style="font-weight: bold;color:#A5273F">Susana
+      Flores Payán</span>, M.C. </td>
+                    </tr>
+                    <tr>
+                        <td> <span style="font-weight: bold;">correo</span>:
+                            <span style=" color: #000099;"><br>
+        <br>
+      </span> </td>
+                    </tr>
+                    <tr>
+                        <td> <span class="glyphicon glyphicon-cog"></span> <span style="font-weight: bold;color:#A5273F">Luis
+    Maldonado Chávez</span>, M.C. </td>
+                    </tr>
+                    <tr>
+                        <td> <span style="font-weight: bold;">correo</span>:
+                            <span style=" color: #000099;"><br>
+      <br>
+    </span></td>
+                    </tr>
+                    <tr>
+                        <td> <span class="glyphicon glyphicon-cog"></span> <span style="font-weight: bold;color:#A5273F">Diana
+  Burciaga Valencia</span>, M.C. </td>
+                    </tr>
+                    <tr>
+                        <td> <span style="font-weight: bold;">correo</span>:
+                            <span style=" color: #000099;"><br><br></span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td> <span class="glyphicon glyphicon-cog"></span> <span style="font-weight: bold;color:#A5273F">Nohemí
+Escárcega Portillo</span>, M.C. </td>
+                    </tr>
+                    <tr>
+                        <td> <span style="font-weight: bold;">correo</span>:
+                            <span style=" color: #000099;"></span>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
     </div>
-    <!--Pie de pagina-->
-    <iframe scrolling="no" frameborder=0 src='footerDEPI.html' width='100%' height='350px'></iframe>
+    </div>-->
+    
+         <div class="container">
+            <!-- Noticas-->
+
+            <?php
+            require_once 'includes/reciente.php';
+            ?>
+            <!--Pie de pagina-->
+            <?php
+            require_once 'includes/footer.php';
+            ?>
+        </div> 
+    
 </body>
 
 </html>
