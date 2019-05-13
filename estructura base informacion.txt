@@ -1,0 +1,56 @@
+En este archivo encontraras la estructura geneneral reducida del 'container' de los archivos html.
+
+Codigo SIN OH
+ <div class="container"> <!-- Inicia container-->
+    <div class="col-md-12">   
+
+               <!-- Inicia contenido -->
+                <div class="col-md-8">
+                   
+                </div> 
+                <!-- Termina contenido -->
+
+		<!-- Inicia widgets-->
+		
+		<div class="col-md-4">
+                    <!-- Aqui se incuye todo el codigo que se encuentra en el directorio "includes/widgets.php"-->
+                </div>
+                <!-- Termina widgets-->
+
+        </div>
+   </div> <!-- Termina container-->
+
+
+Se decide quitar el codigo sigiente:
+
+<!-- Inicia widgets-->	
+    <div class="col-md-4">
+
+    </div>
+<!-- Termina widgets-->
+
+para sustituirlo por el codigo siguiente
+<?php
+    require_once 'includes/widgets.php';
+?>
+
+Esto con el fin de que la simple modificacion del archivo "widgets.php" en el directorio "includes.php"
+
+ <div class="container"> <!-- Inicia container-->
+    <div class="col-md-12">   
+
+               <!-- Inicia contenido -->
+                <div class="col-md-8">
+                   
+                </div> 
+                <!-- Termina contenido -->
+
+
+		<!-- Inicia widgets-->
+           	<?php
+                    require_once 'includes/widgets.php';
+                ?>
+                <!-- Termina widgets-->
+
+    </div>
+   </div> <!-- Termina container-->
