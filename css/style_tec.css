@@ -732,7 +732,7 @@ img.size-full, img.size-large {
 	padding: 0;
 }
 img.alignleft, img.alignright, img.aligncenter {
-	margin-bottom: 1.625em;
+	//margin-bottom: 1.625em;
 }
 p img {
 }
