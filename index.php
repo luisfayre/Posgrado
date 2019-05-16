@@ -122,11 +122,11 @@
                     </div>
                     <div class="col-md-6">
                         <div class="thumbnail text-left imagen-noticia ">
-                            <img src="img\Coloqui_Dic-2017\Sistemas\4.jpg" alt="jornadaAcad4" class="media-object img-responsive imgNewsZoom">
+                            <img src="img\Coloqui_Dic-2017\Sistemas\4.jpg" alt="Coloquio Diciembre 2017" class="media-object img-responsive imgNewsZoom">
                             <div class="caption">
                                 <h2>Coloquio Diciembre 2017</h2>
                                 <p class="Estilo34" align="left">Aqui encontraras toda la información relacionada con el coloquio.</p>
-                                <p class="Estilo34" align="left"><a href="coloquio_Dic-2017.html" class="rm">LEER NOTA</a></p>
+                                <p class="Estilo34" align="left"><a href="coloquio_Dic-2017.php" class="rm">LEER NOTA</a></p>
                             </div>
                         </div>
                     </div>
@@ -142,11 +142,11 @@
                     </div>--> 
                     <div class="col-md-6">
                         <div class="thumbnail text-left imagen-noticia">
-                            <img src="img\Jornada-4\jornada4 (4).jpg" alt="jornadaAcad4" class="media-object img-responsive imgNewsZoom">
+                            <img src="img\Jornada-4\jornada4 (4).jpg" alt="Cuarta Jornada Academica" class="media-object img-responsive imgNewsZoom">
                             <div class="caption">
                                 <h2>Cuarta Jornada Académica</h2>
                                 <p class="Estilo34" align="left">Aqui encontraras toda la información relacionada con la cuarta jornada académica.</p>
-                                <p class="Estilo34" align="left"><a href="jornadaAcad4ta.html" class="rm">LEER NOTA</a></p>
+                                <p class="Estilo34" align="left"><a href="jornadaAcad4ta.php" class="rm">LEER NOTA</a></p>
                             </div>
                         </div>
                     </div>
