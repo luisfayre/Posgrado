@@ -24,7 +24,7 @@
           <h2>COLOQUIO AGO-DIC 2016</h2>
         </div>
       </div>
-      <p style="text-align:center";>Maestría en Sistemas Computacionales.</p>
+      <p style="text-align:center">Maestría en Sistemas Computacionales.</p>
       <div class="row ">
         <div class="row ">
           <div class="col-md-12">
@@ -43,7 +43,7 @@
                 <li data-target="#carousel-example-generic1" data-slide-to="9"></li>
               </ol>
               <!-- Wrapper for slides -->
-              <div class="carousel-inner" role="listbox" style="width=100%; height=100%">
+              <div class="carousel-inner" role="listbox" style="width:100%; height:100%">
                 <div class="item active ">
                   <img src="img/Coloquio_Ago-Dic-2016/Sistemas/1.jpg" alt="...">
                 </div>
