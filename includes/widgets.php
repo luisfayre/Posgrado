@@ -44,7 +44,7 @@
             </a>
         </p>
         <p>
-            <a href="http://capacitacion.conricyt.mx/ " target="_blank ">
+            <a href="http://capacitacion.conricyt.mx/" target="_blank ">
                 <img src="img/logos/conricytcap.jpg " border="0 " height="105 " width="232 ">
             </a>
         </p>
