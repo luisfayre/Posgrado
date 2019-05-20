@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/font-awesome.css">
     
-    <title>ITCH II: DEPI</title>
+    <title>División de estudios de posgrado e investigación</title>
 </head>
 
 <body class="bodyIndex">
