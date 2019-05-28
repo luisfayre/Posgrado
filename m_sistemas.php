@@ -11,13 +11,13 @@
         <link rel="stylesheet" href="css/index.css">
         <!-- Funete-->
         <link rel="stylesheet" href="css/font-awesome.css">
-        
+
         <script src="js/jquery.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/javascript.js"></script>
         <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
         <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
-        
+
         <title>M.Sistemas</title>
         <script src="js/ddmenu.js" type="text/javascript"></script>
     </head>
@@ -32,11 +32,11 @@
 
         <div class="container">
             <div class="col-md-12">
-                
+
                 <!--Contenido-->
-                
+
                 <div class="col-md-8">
-                    
+
                     <div class="row">
 
                         <div class="col-md-12 text-center">
@@ -90,51 +90,35 @@
                             <li>Promedio mínimo de ochenta (80) o equivalente (80/100) en estudios de Licenciatura.</li>
                             <li>Cumplir con el perfil de ingreso.</li>
                         </ul>
-                        <!--<div class="row ">
-                            <div class="col-md-12 bloque col-sm-12">
-                                <h4> PERFIL DE INGRESO </h4>
-                                <p>El perfil requerido para el ingreso de los estudiantes al programa es sujeto a los siguientes criterios:
-                                    <br>
-                                    <br> I. Ser egresado de una licenciatura afín al programa de Ingeniería Industrial, como son: </p>
-                            </div>
-                            <br>
-                            <div class="col-md-12 col-sm-12">
-                                <table style="width: 100%">
-                                    <tbody>
-                                        <tr>
-                                            <td>
-                                                <ul>
-                                                    <li> Ingeniería Industrial.</li>
-                                                    <li> Ingeniería Aeroespacial.</li>
-                                                    <li> Ingeniería en Procesos Industriales.</li>
-                                                    <li> Ingeniería Industrial y de Sistemas. </li>
-                                                    <li> Ingeniería en Logística.</li>
-                                                    <li> Licenciatura en Informática.</li>
-                                                    <li> Licenciatura en Sistemas Computacionales.</li>
-                                                    <li> Licenciatura en Administración.</li>
-                                                    <li> Ingeniería Industrial y de Calidad.</li>
-                                                    <li> Administración Industrial. </li>
-                                                    <li> Ingeniería en Gestión Empresarial.</li>
-                                                </ul>
-                                            </td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                                <p>El listado anterior no es exhaustivo, los egresados de otro tipo de licenciatura no considerada en este último, que pretendan ingresar al programa de maestría, estarán sujetos a ser aprobados por parte del <span style="font-style: italic; font-weight: bold;">Consejo de Posgrado</span>.</p>
-                                <br>
-                                <p>II. Los candidatos deberán mostrar el dominio de los conocimientos considerados como antecedentes, es decir: Conocimientos básicos de matemáticas: Álgebra, Álgebra lineal, Cálculo Diferencial, Integral y Vectorial, Probabilidad y Estadística, Investigación de Operaciones, Dirección de Operaciones, Estudio del Trabajo, Simulación, Ergonomía y Metrología.</p>
-                            </div>
-                        </div>-->
+
+
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <div class="col-sm-4">
+                            <button class="btn btn-default center-block" style="border-color: #da9999; color: #e06666 "  
+                                    data-toggle="collapse" data-target="#admision">Proceso de
+                                Admisión</button>
+                        </div>
+                        <div class="col-sm-4">
+                            <a href="convocatoria_base.php" class="btn btn-link center-block">
+                                <button class="btn btn-default center-block" style="border-color: #da9999; color: #e06666 ">
+                                   Solicitud para maestría
+                                </button> 
+                            </a>
+                        </div>
+                        <div class="col-sm-4">
+                            <button class="btn btn-default center-block" style="border-color: #da9999; color: #e06666 " data-toggle="collapse" data-target="#inscripcion">Proceso de
+                                Inscripción</button>
+                        </div>
+
                         <div class="container" style="text-align:justify;">
                             <div class="row ">
                                 <div class="col-md-12 bloque col-sm-12"> </div>
                                 <div class="col-md-12 col-sm-12">
-                                    <a href="convocatoria2017.html" class="btn btn-link">Solicitud para maestría</a>
-                                    <button class="btn btn-primary" data-toggle="collapse" data-target="#admision">Proceso de
-                                        Admisión</button>
-                                    <button class="btn btn-primary" data-toggle="collapse" data-target="#inscripcion">Proceso de
-                                        Inscripción</button>
                                     <br>
+
                                     <div class="collapse" id="admision">
                                         <br>
                                         <h4>Proceso de admisión</h4>
@@ -186,8 +170,9 @@
                                         <br>
                                         <br>
                                         <br>
-                                        <div class="col-lg-offset-3 col-lg-6 text-center"> <img id=logoresp src="img/imagen3.1.png"
-                                                                                                class="img-responsive" alt="Responsive image"> </div>
+                                        <div class="col-lg-offset-3 col-lg-6 text-center"> 
+                                            <img id=logoresp src="img/imagen3.1.png"
+                                                 class="img-responsive" alt="Responsive image"> </div>
 
                                     </div>
 
@@ -248,16 +233,21 @@
                                     </div>
                                     <br class="bloque">
                                 </div>
+
+
                             </div>
+
                         </div>
+
                     </div>
+
                 </div>
-                
+
                 <!-- Widget-->
                 <?php
-                    require_once 'includes/widgets.php';
+                require_once 'includes/widgets.php';
                 ?>
-                
+
             </div>
         </div>
 

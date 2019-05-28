@@ -44,22 +44,22 @@
         <div class="col-md-4">
 
                 <!-- Formulario Bootrap -->
-                <form class="fomulario">
+                <form class="fomulario" action="validar.php" method="POST">
 
                 <!-- Usuario -->
                 <div class="form-group">
                     <label for="user">Usuario</label>
-                    <input type="text" class="form-control" id="user" placeholder="Ingrese su usuario">
+                    <input type="text" name="user" class="form-control" id="user" placeholder="Ingrese su usuario">
                 </div>
 
                 <!-- Contraseña -->
                 <div class="form-group">
                     <label for="password">Contraseña</label>
-                    <input type="password" class="form-control" id="password" placeholder="Ingrese su contraseña">
+                    <input type="password" name="password" class="form-control" id="password" placeholder="Ingrese su contraseña">
                 </div>
 
                 <p class="text-center">
-                    <button type="submit" class="btn btn-outline-dark text-center">Enviar</button>
+                    <button type="submit" name="Enviar" class="btn btn-outline-dark text-center">Enviar</button>
                 </p>
                     
                 
