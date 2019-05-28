@@ -13,10 +13,10 @@
             <div class="tg-one-third">
                 <aside id="text-5" class="widget widget_text">
                     <div class="textwidget">
-                        <a href="https://www.facebook.com/ITChihuahuaII/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage( & #39; Imagen1 & #39; , & #39; & #39; , & #39; http://www.itchihuahuaii.edu.mx/img/facebook_color.png&#39;,1)" target="_blank">
+                        <a href="https://www.facebook.com/itchii.posgrados/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage( & #39; Imagen1 & #39; , & #39; & #39; , & #39; http://www.itchihuahuaii.edu.mx/img/facebook_color.png&#39;,1)" target="_blank">
                             <img src="img/logos/redes_sociales/facebook_btn.png" name="Imagen1" width="40" height="37" border="0" id="Imagen1" title="Facebook">
                         </a>
-                        <a href="https://twitter.com/_itchihuahuaii" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage( & #39; Imagen2 & #39; , & #39; & #39; , & #39; http://www.itchihuahuaii.edu.mx/img/tweet_color.png&#39;,1)" target="_blank">
+                        <a href="https://twitter.com/posgradositch2" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage( & #39; Imagen2 & #39; , & #39; & #39; , & #39; http://www.itchihuahuaii.edu.mx/img/tweet_color.png&#39;,1)" target="_blank">
                             <img src="img/logos/redes_sociales/twitter_btn.png" name="Imagen2" width="40" height="37" border="0" id="Imagen2" title="Twitter">
                         </a>
                         <br>
