@@ -1,3 +1,35 @@
+<?php
+
+//echo "Today is " . date("Y-m-d") . "<br>";
+//echo "Today is " . date("h:i:sa") . "<br>";
+
+function verifica_rango($date_inicio, $date_fin, $date_nueva) {
+    $date_inicio = strtotime($date_inicio);
+    $date_fin = strtotime($date_fin);
+    $date_nueva = strtotime($date_nueva);
+
+    if (($date_nueva >= $date_inicio) && ($date_nueva <= $date_fin)) {
+        return true;
+    } else {
+        return false;
+    }
+}
+
+$date_nueva = date('Y-m-d');
+$date_inicio = date('Y-06-01');
+$date_fin = date('Y-06-06 ');
+
+$date_inicio2 = date('Y-06-07');
+$date_fin2 = date('Y-06-07');
+
+//echo "Today is " . $date_inicio2 . "<br>";
+//echo "Today is " . $date_fin2 . "<br>";
+
+$mensaje1 = 'Recuerda que el examen será el 7 de junio del 2019 en la plataforma moodle.';
+$mensaje2 = 'Recuerda que el examen será hoy a las 18:00 horas.';
+?>
+
+
 <!DOCTYPE html>
 <html lang="es">
 
@@ -15,6 +47,26 @@
     </head>
 
     <body class="bodyIndex">
+
+        <!--Mensaje del dia-->
+        <?php
+        if (verifica_rango($date_inicio, $date_fin, $date_nueva)) {
+            echo "<a href=\"http://moodle.itchihuahuaii.edu.mx/\" style=\"    display: block;
+            padding: 15px 20px;
+            color: #a94442;
+            text-align: center;
+            background-color: #f2dede;
+            \" class=\"alert-danger\">$mensaje1</a>";
+        } else if (verifica_rango($date_inicio2, $date_fin2, $date_nueva)) {
+            echo "<a href=\"http://moodle.itchihuahuaii.edu.mx/\" style=\"    display: block;
+            padding: 15px 20px;
+            color: #a94442;
+            text-align: center;
+            background-color: #f2dede;
+            \" class=\"alert-danger\">$mensaje2</a>";
+        }
+        ?>
+
         <!-- Hearder -->
         <a id="ddmenuHeader" href="headerDEPI.html"></a>
         <!-- <a id="ddmenuHeader" href="headerDEPI.html"></a> -->
@@ -108,7 +160,7 @@
                             </div>
                         </div>
                         <hr> -->
-                        <div class="col-md-6">
+                        <div class="col-md-12">
                             <div class="thumbnail text-left imagen-noticia">
                                 <a href="documentos/Información_Maestría-2019a.pdf">
                                     <img src="img\pic08.jpg" alt="jornadaAcad4" class="media-object img-responsive imgNewsZoom">
@@ -120,7 +172,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="col-md-6">
                             <div class="thumbnail text-left imagen-noticia ">
                                 <img src="img\Coloqui_Dic-2017\Sistemas\4.jpg" alt="Coloquio Diciembre 2017" class="media-object img-responsive imgNewsZoom">
@@ -160,7 +211,7 @@
                     <div class="col-md-4">
                         <div class="text-center">
                             <p>
-                                <a href="php/depi.php" target="_blank">
+                                <a href="" target="_blank">
                                     <img src="img/logos/depi.png" alt="depi "height="100 " width="195" style="max-width: 100%;">
                                 </a>
                             </p>

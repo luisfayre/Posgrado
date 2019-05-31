@@ -15,15 +15,19 @@
             <br>			
             <div class="textwidget">
                 <li class="listado">
+                    <a href="http://moodle.itchihuahuaii.edu.mx/">Examen
+                    </a>
+                </li>
+                <li class="listado">
                     <a href="convocatoria_base.php">Maestría en Sistemas Computacionales
                     </a>
                 </li>
-                
+
                 <li class="listado">
                     <a href="jornadaAcad4ta.php">Cuarta Jornada Académica
                     </a>
                 </li>
-                
+
                 <li class="listado">
                     <a href="tercerjornadaacad.php">Tercer Jornada Académica
                     </a>

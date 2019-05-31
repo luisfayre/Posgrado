@@ -1,5 +1,15 @@
 <?php
 
+    //Iniciar la session y la conexio a la base de datos
+    require_once '../includes/conexion.php';
+    
+    if(isset($_POST)){
+        $usuario = trim($_POST('user'));
+        $contrasena = $_POST('password');
+        
+        
+    }
+    
 ?>
 
 
@@ -48,7 +58,7 @@
 
                 <!-- Usuario -->
                 <div class="form-group">
-                    <label for="user">Usuario</label>
+                    <label for="u">Usuario</label>
                     <input type="text" name="user" class="form-control" id="user" placeholder="Ingrese su usuario">
                 </div>
 
