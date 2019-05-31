@@ -791,7 +791,7 @@ img#wpstats {
 /* =BODY
 ----------------------------------------------- */
 body {
-	padding-top: 15px;
+	/*padding-top: 15px;*/
 	padding-bottom: 15px;
 }
 #page {
