@@ -16,7 +16,7 @@
         <script src="js/javascript.js"></script>
         <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
         <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
-        
+
         <title>Coloquio</title>
         <script src="js/ddmenu.js" type="text/javascript"></script>
     </head>
@@ -124,7 +124,7 @@
                                 <li data-target="#carousel-example-generic2" data-slide-to="18"></li>
                             </ol>
                             <!-- Wrapper for slides -->
-                            <div class="carousel-inner" role="listbox" style="width=100%; height=100%">
+                            <div class="carousel-inner" role="listbox" style="width: 100%; height: 100%">
                                 <div class="item active ">
                                     <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/1.jpg" alt="...">
                                 </div>
@@ -199,7 +199,7 @@
                 <br>
             </div>
             <br><br><br>
-            <p style="text-align:center";>Maestría de Alumnos de Parral.</p>
+            <p style="text-align:center;">Maestría de Alumnos de Parral.</p>
             <div class="row ">
                 <div class="row ">
                     <div class="col-md-12">
@@ -219,7 +219,7 @@
                                 <li data-target="#carousel-example-generic3" data-slide-to="10"></li>
                             </ol>
                             <!-- Wrapper for slides -->
-                            <div class="carousel-inner" role="listbox" style="width=100%; height=100%">
+                            <div class="carousel-inner" role="listbox" style="width:100%; height:100%">
                                 <div class="item active ">
                                     <img src="img/Coloquio_Ago-Dic-2016/Parral/1.jpg" alt="...">
                                 </div>
