@@ -7,7 +7,7 @@
 ?>
 
 <div class="footer-widgets-wrapper">
-    
+
     <div class="inner-wrap">
         <div class="footer-widgets-area clearfix">
             <div class="tg-one-third">
@@ -31,13 +31,13 @@
                     </div>
                 </aside>			
             </div>
-            
+
             <div class="tg-one-third tg-one-third-last">
-                
+
             </div>
         </div>
     </div>
-    
+
 </div>
 
 <div class="footer-socket-wrapper clearfix">
