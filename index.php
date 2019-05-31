@@ -1,4 +1,5 @@
 <?php
+
 //echo "Today is " . date("Y-m-d") . "<br>";
 //echo "Today is " . date("h:i:sa") . "<br>";
 function verifica_rango($date_inicio, $date_fin, $date_nueva) {
@@ -11,6 +12,7 @@ function verifica_rango($date_inicio, $date_fin, $date_nueva) {
         return false;
     }
 }
+
 $date_nueva = date('Y-m-d');
 $date_inicio = date('Y-06-01');
 $date_fin = date('Y-06-06 ');
@@ -31,9 +33,26 @@ $mensaje2 = 'Recuerda que el examen será hoy a las 18:00 horas.';
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <!--link rel="stylesheet" href="css/style.css"-->
-        <link rel="stylesheet" href="css/style_tec.css">
-        <link rel="stylesheet" href="css/index.css">
+        <!--link rel="stylesheet" href="css/style_tec.css"-->
+        <!--link rel="stylesheet" href="css/index.css"-->
         <link rel="stylesheet" href="css/font-awesome.css">
+
+
+        <script src="../js/jquery.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
+
+        <style>
+            /* Note: Try to remove the following lines to see the effect of CSS positioning */
+            .affix {
+                top: 0;
+                width: 100%;
+                z-index: 9999 !important;
+            }
+
+            .affix + .container-fluid {
+                padding-top: 70px;
+            }
+        </style>
 
         <title>División de estudios de posgrado e investigación</title>
     </head>
