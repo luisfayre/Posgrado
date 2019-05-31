@@ -25,7 +25,7 @@ $date_fin2 = date('Y-06-07');
 //echo "Today is " . $date_inicio2 . "<br>";
 //echo "Today is " . $date_fin2 . "<br>";
 
-$mensaje1 = 'Recuerda que el examen será el 7 de junio del 2019.';
+$mensaje1 = 'Recuerda que el examen será el 7 de junio del 2019 en la plataforma moodle.';
 $mensaje2 = 'Recuerda que el examen será hoy a las 18:00 horas.';
 ?>
 
