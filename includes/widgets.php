@@ -22,7 +22,7 @@
 
     <div class="text-center">
         <p>
-            <a href="#" target="_blank">
+            <a href="#">
                 <img src="img/logos/depi.png" alt="depi "height="100 " width="195" style="max-width: 100%;">
             </a>
         </p>
