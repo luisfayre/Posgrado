@@ -120,7 +120,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="col-md-6">
                             <div class="thumbnail text-left imagen-noticia ">
                                 <img src="img\Coloqui_Dic-2017\Sistemas\4.jpg" alt="Coloquio Diciembre 2017" class="media-object img-responsive imgNewsZoom">
