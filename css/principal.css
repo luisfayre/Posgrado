@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 27, 2019, 11:41:35 PM
+    Author     : Angel
+*/
+#subenlaces ul li a{
+    color: #000000;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 10.5;
+    height: 55px;
+
+}
+
+body {
+    font-family: "Open Sans","Helvetica Neue","Helvetica","Arial","sans-serif";
+}
