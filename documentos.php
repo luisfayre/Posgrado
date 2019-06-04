@@ -90,7 +90,7 @@
                         </a>
                     </div>
                     <div class="col-sm-6 col-md-4">
-                        <a class="ResetLink" href="documentos/FSolIngresoMaestriaFSI-01.docx">
+                        <a class="ResetLink" href="documentos/FORMATO-INGRESO-MAESTRIA-FSI-2019.docx">
                             <div class="documentos">
                                 <div class="caption text-center ">
                                     <p>Formato Solicitud de Ingreso Maestría</p>

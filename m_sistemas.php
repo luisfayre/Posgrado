@@ -129,7 +129,7 @@
                             <div class="row ">
                                 <div class="col-md-12 bloque col-sm-12"> </div>
                                 <div class="col-md-12 col-sm-12">
-                                    <a href="convocatoria_base.php" class="btn btn-danger">Solicitud para maestría</a>
+                                    <a href="documentos/FORMATO-INGRESO-MAESTRIA-FSI-2019.docx" class="btn btn-danger">Solicitud para maestría</a>
                                     <button class="btn btn-warning" data-toggle="collapse" data-target="#admision">Proceso de
                                         Admisión</button>
                                     <button class="btn btn-warning" data-toggle="collapse" data-target="#inscripcion">Proceso de
