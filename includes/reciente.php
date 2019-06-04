@@ -4,6 +4,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+require_once './includes/mensaje_dia.php';
 ?>
 <div class="divisor_sombra">
 </div> 
@@ -14,10 +15,17 @@
             <br>
             <br>			
             <div class="textwidget">
-                <li class="listado">
-                    <a href="http://moodle.itchihuahuaii.edu.mx/">Examen
-                    </a>
-                </li>
+                <!--Examen-->
+                <?php
+                if (verifica_rango($date_inicio, $date_fin2, $date_nueva)) {
+                    echo "
+                        <li class=\"listado\">
+                            <a href=\"http://moodle.itchihuahuaii.edu.mx/mod/quiz/view.php?id=10677\"target=\"_blank\">Examen
+                            </a>
+                        </li>";
+                }
+                ?>
+
                 <li class="listado">
                     <a href="convocatoria_base.php">Maestría en Sistemas Computacionales
                     </a>
