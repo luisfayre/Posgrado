@@ -18,7 +18,7 @@
         <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
         <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
 
-        <title>M.Sistemas</title>
+        <title>Maestría en sistemas computacionales</title>
         <script src="js/ddmenu.js" type="text/javascript"></script>
     </head>
 
@@ -40,7 +40,7 @@
                     <div class="row">
 
                         <div class="col-md-12 text-center">
-                            <h2>MAESTRÍA EN SISTEMAS COMPUTACIONALES</h2>
+                            <h1>MAESTRÍA EN SISTEMAS COMPUTACIONALES</h1>
                         </div>
                         <br>
                         <div class="row text-justify">

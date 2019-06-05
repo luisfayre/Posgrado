@@ -19,6 +19,10 @@ require_once './includes/mensaje_dia.php';
         <script src="../js/jquery.js"></script>
         <script src="../js/bootstrap.min.js"></script>
 
+        
+        <meta name="description" content="División de estudios de posgrado e investigación">
+        <meta name="keywords" content="ITCHI II,DEPI,Posgrato tec 2, Posgrado ITCHI II">
+
         <style>
             /* Note: Try to remove the following lines to see the effect of CSS positioning */
             .affix {
@@ -79,13 +83,15 @@ require_once './includes/mensaje_dia.php';
                             <div class="carousel-inner" role="listbox">
                                 <div class="item active">
                                     <a href="convocatoria_base.php">
-                                        <img class="slider" src="img/Convocatoria-maestrias.jpg" alt="..." style="width: 100%;">
+                                        <img title="Convocatoria Maestria sistemas computacionales itchii" class="slider" src="img/Convocatoria-maestrias.jpg" 
+                                             alt="Convocatoria Maestria sistemas computacionales itchii" style="width: 100%;">
                                     </a>
                                 </div>
 
                                 <div class="item">
                                     <a href="convocatoria_base.php">
-                                        <img class="slider" src="img/Convocatoria-maestrias.jpg" alt="..." style="width: 100%;">
+                                        <img title="Convocatoria Maestria sistemas computacionales itchii" class="slider" src="img/Convocatoria-maestrias.jpg" 
+                                             alt="Convocatoria Maestria sistemas computacionales itchii" style="width: 100%;">
                                     </a>
                                 </div>
 
@@ -152,7 +158,7 @@ require_once './includes/mensaje_dia.php';
                         <div class="col-md-12">
                             <div class="thumbnail text-left imagen-noticia">
                                 <a href="documentos/Información_Maestría-2019a.pdf">
-                                    <img src="img\pic08.jpg" alt="jornadaAcad4" class="media-object img-responsive imgNewsZoom">
+                                    <img src="img\pic08.jpg" alt="Maestria Sistemas Computacionales depi itchi ii" class="media-object img-responsive imgNewsZoom">
                                 </a>
                                 <div class="caption">
                                     <p class="titulo_noticia">Convocatoria Maestrías 2019-1</p>
@@ -163,7 +169,7 @@ require_once './includes/mensaje_dia.php';
                         </div>
                         <div class="col-md-6">
                             <div class="thumbnail text-left imagen-noticia ">
-                                <img src="img\Coloqui_Dic-2017\Sistemas\4.jpg" alt="Coloquio Diciembre 2017" class="media-object img-responsive imgNewsZoom">
+                                <img src="img\Coloqui_Dic-2017\Sistemas\4.jpg" alt="Coloquio Diciembre 2017 depi itchi ii" class="media-object img-responsive imgNewsZoom">
                                 <div class="caption">
                                     <h2>Coloquio Diciembre 2017</h2>
                                     <p class="Estilo34" align="left">Aqui encontraras toda la información relacionada con el coloquio.</p>
@@ -212,13 +218,13 @@ require_once './includes/mensaje_dia.php';
                             ?>
                             <p>
                                 <a href="" target="">
-                                    <img src="img/logos/depi.png" alt="depi "height="100 " width="195" style="max-width: 100%;">
+                                    <img title="DEPI ITCH II" src="img/logos/depi.png" alt="depi "height="100 " width="195" style="max-width: 100%;">
                                 </a>
                             </p>
 
                             <p>
                                 <a href="http://sii.itchihuahuaii.edu.mx/ " target="_blank ">
-                                    <img src="img/logos/SII.jpg " height="100 " width="195" style="max-width: 100%;">
+                                    <img title="sii itchihuahuaii"src="img/logos/SII.jpg " height="100 " width="195" style="max-width: 100%;" alt="sii itchi ii">
                                 </a>
                             </p>
 
