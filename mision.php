@@ -26,11 +26,7 @@
         <div class="container" style="text-align:justify;">
 
         </div>
-
-
-
-
-
+        
         <div class="container">
             <div class="col-md-12">
 
@@ -39,9 +35,9 @@
                 <div class="col-md-8">
                     <div class="row ">
                         <div class="col-md-12 bloque col-sm-12">
-                            <h4 class="noticia">
+                            <h1 class="noticia" >
                                 Misión
-                            </h4>
+                            </h1>
                             <br>
 
                         </div>
@@ -65,7 +61,7 @@
                             <br>
                             <div class="imgDEPI" style="text-align: center;">
 
-                                <img id="imgDEPI" src="img/organigrama/organigrama_2019.png" alt="Organigrama" />
+                                <img title="Organigrama depi" id="imgDEPI" src="img/organigrama/organigrama_depi.png" alt="Organigrama depi ITCHI II" />
 
 
                             </div>
@@ -84,7 +80,7 @@
                                     <p>Correo: 
                                         <a href="mailto:ilyasanchez@hotmail.com">ilyasanchez@hotmail.com</a>
                                     </p>
-                                    <p> 16/09/1998 - 2016 Tecnológico Nacional De México / Instituto Tecnológico De Chihuahua II,
+                                    <p> 16/09/1998 - 2019 Tecnológico Nacional De México / Instituto Tecnológico De Chihuahua II,
                                         Coordinadora de la Maesría en Sistemas Computacionales, Tiempo completo</p>
                                     <p>
                                     </p>
@@ -104,14 +100,11 @@
                                         <a href="mailto:posgradomii@hotmail.com">posgradomii@hotmail.com</a>
                                     </p>
 
-                                    <p>05/2007 - 2016 Tecnológico Nacional De México / Instituto Tecnológico De Chihuahua II, Coordinador de
+                                    <p>05/2007 - 2019 Tecnológico Nacional De México / Instituto Tecnológico De Chihuahua II, Coordinador de
                                         la Maesría en Ing. Ind. Tiempo completo
                                     </p>
                                 </div>
                             </div>
-
-
-
 
                         </div>
 
