@@ -1,5 +1,5 @@
 <?php
-
+date_default_timezone_set ('America/Chihuahua');
 //echo "Today is " . date("Y-m-d") . "<br>";
 //echo "Today is " . date("h:i:sa") . "<br>";
 function verifica_rango($date_inicio, $date_fin, $date_nueva) {
