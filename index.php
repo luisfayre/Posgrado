@@ -19,9 +19,9 @@ require_once './includes/mensaje_dia.php';
         <script src="../js/jquery.js"></script>
         <script src="../js/bootstrap.min.js"></script>
 
-        
-        <meta name="description" content="División de estudios de posgrado e investigación">
-        <meta name="keywords" content="ITCHI II,DEPI,Posgrato tec 2, Posgrado ITCHI II">
+        <meta name="description" content="🎓 El Tecnológico de Chihuahua II a través de la División de Estudios de Posgrado (DEPI), hace una atenta invitación a que cursen nuestros programas de maestría.">
+        <meta name="keywords" content="ITCHI II,DEPI,Posgrato tec 2, Posgrado ITCHI II,Posgrado, tec 2">
+        <meta name="author" content="Instituto Tecnologico de Chihuahua II">
 
         <style>
             /* Note: Try to remove the following lines to see the effect of CSS positioning */
