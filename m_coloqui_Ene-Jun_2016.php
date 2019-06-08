@@ -17,7 +17,7 @@
         <script src="js/javascript.js"></script>
         <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
         <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
-        
+
         <title>Coloquio</title>
         <script src="js/ddmenu.js" type="text/javascript"></script>
     </head>
@@ -387,6 +387,9 @@
             ?>
 
         </div>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
     </body>
 
 </html>

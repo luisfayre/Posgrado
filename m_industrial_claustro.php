@@ -234,18 +234,19 @@
         </div>
     </div>
 
-     <div class="container">
-            <!-- Noticas-->
+    <div class="container">
+        <!-- Noticas-->
 
-            <?php
-            require_once 'includes/reciente.php';
-            ?>
-            <!--Pie de pagina-->
-            <?php
-            require_once 'includes/footer.php';
-            ?>
-        </div> 
-    
+        <?php
+        require_once 'includes/reciente.php';
+        ?>
+        <!--Pie de pagina-->
+        <?php
+        require_once 'includes/footer.php';
+        ?>
+    </div> 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
 </body>
 
 </html>

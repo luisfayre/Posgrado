@@ -19,7 +19,7 @@ require_once './includes/mensaje_dia.php';
         <script src="../js/jquery.js"></script>
         <script src="../js/bootstrap.min.js"></script>
 
-        
+
         <meta name="description" content="División de estudios de posgrado e investigación">
         <meta name="keywords" content="ITCHI II,DEPI,Posgrato tec 2, Posgrado ITCHI II">
 
@@ -275,6 +275,20 @@ require_once './includes/mensaje_dia.php';
             ?>
 
         </div>
+
+
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-141677500-1');
+        </script>
 
 
     </body>
