@@ -21,7 +21,7 @@
         <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
 
         <title>Historia</title>
-        
+
         <script src="js/ddmenu.js" type="text/javascript"></script>
     </head>
 
@@ -35,20 +35,20 @@
             <div class="col-md-12">
 
                 <!-- Contenido -->
-                
+
                 <div class="col-md-8">
 
                     <div class="row ">
-                        
+
                         <div class="col-md-12 bloque col-sm-12">
-                            
+
                             <h4 class="noticia">
                                 Historia
                             </h4>
-                            
+
                             <br>
                         </div>
-                        
+
                         <div class="col-md-12 col-sm-12" style="text-align: justify">
 
                             <p>La inquietud de abrir un programa de Maestría en Ingeniería Industrial, en el Instituto Tecnológico de Chihuahua II (ITCHII), inicio desde el año de 1993, cuando se estableció un convenio con el Instituto Tecnológico de Ciudad Juárez (ITCJ), para capacitar personal docente del ITCHII, mediante la impartición del programa de Maestría en Ingeniería Industrial del ITCJ, en la figura conceptual de Maestría Itinerante, con la finalidad de formar los cuadros académicos básicos, con el objetivo de que en un futuro se abriera este programa de Maestría en el ITCHII.</p>
@@ -59,15 +59,15 @@
                             <p>Por fin en Septiembre de 2012, en la ceremonia conmemorativa de los 25 años del ITCHII, las autoridades de la DGEST, que asistieron como invitadas a dicho evento, hicieron lectura del oficio de autorización del programa de Maestría en Ingeniería Industrial.</p>
                             <p>En Septiembre de 2013, inicio operaciones formales el Programa de Maestría en Ingeniería Industrial del ITCHII, con un primer ingreso de 14 alumnos.</p>
                             <p>Actualmente se han presentado tres primeros ingresos anuales, 2013, 2014 y 2015, todos ellos dados en los semestres académicos Agosto - Diciembre. Cabe destacar que en el semestre académico de Agosto del 2015, el ITCHII firmó un convenio con la Universidad Tecnológica de Parral, para impartir la el programa de Maestría en Ingeniería Industrial en la modalidad itinerante, con el objetivo de formar recursos humanos académicos en esa institución. Actualmente la población escolar de este programa en particular es de 18 alumnos.</p>
-                       
+
                         </div>
-                        
+
                     </div>
 
                 </div>
-                
+
                 <?php
-                    require_once 'includes/widgets.php';
+                require_once 'includes/widgets.php';
                 ?>
             </div>
         </div>
@@ -85,6 +85,17 @@
             ?>
         </div>
 
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-141677500-1');
+        </script>
     </body>
 
 </html>

@@ -119,71 +119,71 @@
                                 mencionados en los puntos del 1 al 5.</p>
 
 
-                                <table class="table">
-                                    <thead>
-                                        <tr>
+                            <table class="table">
+                                <thead>
+                                    <tr>
 
-                                            <th>Original para cotejar y copia</th>
-                                            <th>Documentos solicitados</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>1</td>
-                                            <td>COPIA DE COMPROBANTE DE CUOTA POR CONCEPTO DE INSCRIPCIÓN</td>
-                                        </tr>
-                                        <tr>
-                                            <td>1</td>
-                                            <td>CARTA DE ACEPETACIÓN AL PROGRAMA DE MAESTRÍA</td>
-                                        </tr>
-                                        <tr>
-                                            <td>1</td>
-                                            <td>TITULO Y CÉLUDA DE PROESIONAL O ACTA DE ÉXAMEN PROFESIONAL</td>
-                                        </tr>
-                                        <tr>
-                                            <td>1</td>
-                                            <td>COPIA DEL CERTIFICADO DE ESTDIOS DE LICENCIATURA</td>
-                                        </tr>
-                                        <tr>
-                                            <td>1</td>
-                                            <td>CARTA DE PASANTE Y CARTA DE COMPROMISO PARA TITULACAIÓN (Titulación por estudios de
-                                                maestría
-                                                exclusivamente).
-                                            </td>
-                                        </tr>
+                                        <th>Original para cotejar y copia</th>
+                                        <th>Documentos solicitados</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>COPIA DE COMPROBANTE DE CUOTA POR CONCEPTO DE INSCRIPCIÓN</td>
+                                    </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>CARTA DE ACEPETACIÓN AL PROGRAMA DE MAESTRÍA</td>
+                                    </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>TITULO Y CÉLUDA DE PROESIONAL O ACTA DE ÉXAMEN PROFESIONAL</td>
+                                    </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>COPIA DEL CERTIFICADO DE ESTDIOS DE LICENCIATURA</td>
+                                    </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>CARTA DE PASANTE Y CARTA DE COMPROMISO PARA TITULACAIÓN (Titulación por estudios de
+                                            maestría
+                                            exclusivamente).
+                                        </td>
+                                    </tr>
 
-                                        <tr>
-                                            <td>1</td>
-                                            <td>IMPRESIÓN DE CURP
-                                            </td>
-                                        </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>IMPRESIÓN DE CURP
+                                        </td>
+                                    </tr>
 
-                                        <tr>
-                                            <td>1</td>
-                                            <td>COPIA DE CREDENCIAL DE ELECTOR POR AMBOS LADOS
-                                            </td>
-                                        </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>COPIA DE CREDENCIAL DE ELECTOR POR AMBOS LADOS
+                                        </td>
+                                    </tr>
 
-                                        <tr>
-                                            <td>1</td>
-                                            <td>ACTA DE NACIMIENTO</td>
-                                        </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>ACTA DE NACIMIENTO</td>
+                                    </tr>
 
-                                        <tr>
-                                            <td>1</td>
-                                            <td>DOS FOTOGRAFIAS RECIENTES, TAMALO CREDENCIAL</td>
-                                        </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>DOS FOTOGRAFIAS RECIENTES, TAMALO CREDENCIAL</td>
+                                    </tr>
 
-                                        <tr>
-                                            <td>1</td>
-                                            <td>
-                                                COPIA FORMATO FM9 (En caso de ser extranjero)</td>
-                                        </tr>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>
+                                            COPIA FORMATO FM9 (En caso de ser extranjero)</td>
+                                    </tr>
 
-                                    </tbody>
-                                </table>
+                                </tbody>
+                            </table>
 
-                          
+
 
                             <!-- Costos -->
                             <h3>Costos</h3>
@@ -234,35 +234,35 @@
 
         <!-- Informes -->
         <!--a id="ddmenuLink3" href="informes.html"></a-->
-    
+
 
 
 
         <div class="container">
-             <p style="text-align:center"><b>INFORMES:<br>M.C. Rebeca Castillo</b>
-            <br>Correo: posgrado@itchihuahuaii.edu.mx
-            <br>
-            <br>
-            <b>Dra. Luisa Yolanda Quiñones Montenegro</b>
-            <br>Correo: posgradomii@hotmail.com
-            <br>
-            <br>
-            <b>M.S.I. Ilya Lorena Sánchez Rivera</b>
-            <br>Correo: ilyasanchez@hotmail.com
-            <br>
-            <br>
-            <br>Web: <a href="http://www.sistemasycomputacion.mx/">www.sistemasycomputacion.mx</a>
-            <br>Facebook: <a href="https://www.facebook.com/itchii.posgrados">www.facebook.com/itchii.posgrados</a>
-            <br>Twitter: <a href="https://twitter.com/posgradositch2">@posgradositch2</a>
-            <br>
-            <br>
-            <b>División de Estudios de Posgrado e Investigación.</b>
-            <br>Coordinación de Posgrado Sistemas Computacionales.
-            <br>
-            <br>Av. De las Industrias #11101, Complejo Industrial Chihuahua. Tel: 442-50-00 ext. 132.</p>
+            <p style="text-align:center"><b>INFORMES:<br>M.C. Rebeca Castillo</b>
+                <br>Correo: posgrado@itchihuahuaii.edu.mx
+                <br>
+                <br>
+                <b>Dra. Luisa Yolanda Quiñones Montenegro</b>
+                <br>Correo: posgradomii@hotmail.com
+                <br>
+                <br>
+                <b>M.S.I. Ilya Lorena Sánchez Rivera</b>
+                <br>Correo: ilyasanchez@hotmail.com
+                <br>
+                <br>
+                <br>Web: <a href="http://www.sistemasycomputacion.mx/">www.sistemasycomputacion.mx</a>
+                <br>Facebook: <a href="https://www.facebook.com/itchii.posgrados">www.facebook.com/itchii.posgrados</a>
+                <br>Twitter: <a href="https://twitter.com/posgradositch2">@posgradositch2</a>
+                <br>
+                <br>
+                <b>División de Estudios de Posgrado e Investigación.</b>
+                <br>Coordinación de Posgrado Sistemas Computacionales.
+                <br>
+                <br>Av. De las Industrias #11101, Complejo Industrial Chihuahua. Tel: 442-50-00 ext. 132.</p>
         </div>
-        
-       
+
+
 
         <div class="container">
             <?php
@@ -273,6 +273,20 @@
             require_once 'includes/footer.php';
             ?>
         </div>
+
+
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-141677500-1');
+        </script>
     </body>
 
 </html>

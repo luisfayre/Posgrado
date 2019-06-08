@@ -282,6 +282,7 @@
             ?>
 
         </div>
-
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
     </body>
 </html>

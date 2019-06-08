@@ -1,0 +1,156 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 8, 2019, 4:41:56 AM
+    Author     : Angel
+*/
+
+
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+    padding-top: 60px;
+}
+
+
+.center-copy-footer
+{
+    width:100%;
+    font-size:13px;
+    text-align:center;
+    font-family: 'Trajan Pro Bold';
+    color:#333;
+
+}
+.links_footer
+{
+    width:100%;
+    font-size:11px;
+    text-align:center;
+    font-family: Tahoma, Geneva, sans-serif;
+    color:#333;
+    padding-bottom:10px;
+
+}
+
+/* =FOOTER WIDGET AREA
+----------------------------------------------- */
+.footer-widgets-wrapper {
+    background-color: #fff;
+    border-top: 1px solid #F2F2F2;
+}
+.footer-widgets-area {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    color: #AAAAAA;
+}
+.footer-widgets-area .widget-title {
+    text-align: left;
+}
+.footer-widgets-area h3.widget-title {
+    color: #FFFFFF;
+}
+.footer-widgets-area p {
+    text-align: left;
+    color: #AAAAAA;
+}
+.footer-widgets-area a {
+    color: #FFFFFF;
+}
+.footer-widgets-area a:hover {
+    color: #EEEEEE;
+}
+#colophon .widget {
+    padding-bottom: 25px;
+}
+#colophon .widget-title {
+    font-size: 22px;
+    line-height: 32px;
+}
+#colophon, #colophon p {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+/* =FOOTER SOCKET AREA
+----------------------------------------------- */
+.footer-socket-wrapper {
+    padding: 10px 0px;
+    background-color: #F8F8F8;
+    border-top: 3px solid #77CC6D;
+}
+.footer-socket-area {
+    width: 100%;
+}
+.footer-socket-wrapper .copyright {
+    color: #666666;
+    max-width: 50%;
+    float: left;
+    font-size: 12px;
+}
+.footer-socket-wrapper .copyright a {
+    color: #666666;
+}
+.footer-socket-wrapper .copyright a:hover {
+    color: #77CC6D;
+}
+.footer-socket-wrapper .footer-menu {
+    float: right;
+}
+.footer-socket-wrapper .footer-menu a {
+    padding-top: 0;
+}
+.footer-socket-wrapper .footer-menu ul li ul {
+    top: 21px;
+}
+/* =FOOTER MENU
+----------------------------------------------- */
+.footer-menu {
+    float: right;
+}
+.footer-menu li {
+    float: left;
+    position: relative;
+}
+.footer-menu li.default-menu,
+li.default-menu {
+    display: none;
+}
+.footer-menu a {
+    color: #666666;
+    display: block;
+    float: left;
+    font-size: 10px;
+    height: 21px;
+    padding: 5px 0 0 16px;
+    font-size: 12px;
+}
+.footer-menu a:hover,
+.footer-menu ul li.current-menu-item a,
+.footer-menu ul li.current_page_ancestor a,
+.footer-menu ul li.current-menu-ancestor a,
+.footer-menu ul li.current_page_item a,
+.footer-menu ul li:hover > a {
+    color: #77CC6D;
+}
+.lista{
+    list-style: none;
+    padding-left: 0;
+}
+.lista-item{
+    color: #6c757d;
+}
