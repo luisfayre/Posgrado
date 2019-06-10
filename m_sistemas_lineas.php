@@ -20,6 +20,9 @@
 
         <title>Líneas de investigación</title>
         <script src="js/ddmenu.js" type="text/javascript"></script>
+
+        <meta name="description" content="🎓 Desarrolla competencias específicas de creación de productos de software utilizando tecnologías de objetos de aprendizaje, e-learning, inteligencia artificial y almacenamiento y recuperación de conocimiento, que ofrecen las ciencias computacionales." <meta name="keywords" content="ITCHI II,DEPI,sistemas inteligentes, Posgrado ITCHI II,Posgrado,tecnologías aplicadas,educación,Chihuhua,Maestria">
+        <meta name="author" content="DEPI Instituto Tecnologico de Chihuahua II">
     </head>
 
     <body class="bodyIndex">

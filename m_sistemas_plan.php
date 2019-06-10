@@ -20,6 +20,11 @@
 
         <title>Plan de Estudios</title>
         <script src="js/ddmenu.js" type="text/javascript"></script>
+
+
+        <meta name="description" content="🎓 El programa de la maestría, está diseñado bajo los “Lineamientos para la Elaboración del Programa de Desarrollo para la Apertura de Programas de Maestría y Especialización en el Sistema Nacional de Educación Superior Tecnológica”">
+        <meta name="keywords" content="ITCHI II,DEPI,Chihuhua,plan de estudios, maestría en sistemas computacionales,sistemas computacionales">
+        <meta name="author" content="DEPI Instituto Tecnologico de Chihuahua II">
     </head>
 
     <body class="bodyIndex">
@@ -41,8 +46,8 @@
                     </div>
                     <div class="row">
                         <div class="col-md-9 col-md-offset-2">
-                            <a href="img/sistemas/plan_estudios/plan_estudios_sitemas.png">
-                                <img class="img-responsive" src="img/sistemas/plan_estudios/plan_estudios_sitemas.png" alt="">
+                            <a href="img/sistemas/plan_estudios/plan_estudios_sistemas.png">
+                                <img class="img-responsive" src="img/sistemas/plan_estudios/plan_estudios_sistemas.png" alt="plan de estudios maestría en sistemas computacionales">
                             </a>
 
                         </div>
@@ -148,8 +153,8 @@
                                 </tbody>
                             </table>
                         </div>
-                   
-                  
+
+
                         <div class="col-md-6 col-sm-12">
                             <table style="width: 100%;">
                                 <tbody>

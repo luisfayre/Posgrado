@@ -15,8 +15,13 @@
         <script src="js/javascript.js"></script>
         <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
         <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
-        <title>DEPI</title>
+        <title>Misión y Visión</title>
         <script src="js/ddmenu.js" type="text/javascript"></script>
+
+        <meta name="description" content="🎓 Contribuir a la formación del capital humano analítico, creativo, ético y competitivo, con una óptica
+                                global, responsabilidad social y congruencia con las necesidades del entorno.">
+        <meta name="keywords" content="Misión, Visión,ITCHI II,DEPI,Posgrato tec 2, Posgrado ITCHI II,Posgrado, tec 2">
+        <meta name="author" content="Instituto Tecnologico de Chihuahua II">
     </head>
 
     <body class="bodyIndex">
@@ -129,7 +134,7 @@
             require_once 'includes/footer.php';
             ?>
         </div>
-        
+
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
         <script>
