@@ -32,6 +32,15 @@ require_once './includes/mensaje_dia.php';
             .affix + .container-fluid {
                 padding-top: 70px;
             }
+
+
+            /*.carousel {
+                position:absolute;  
+            }*/
+
+            .navbar {
+                z-index: 9999 !important;
+            }
         </style>
 
         <title>División de estudios de posgrado e investigación</title>
@@ -58,30 +67,20 @@ require_once './includes/mensaje_dia.php';
         }
         ?>
 
-        <!-- Hearder -->
-        <header>
-            <div class="container-fluid">
-                <div class="">
-                    <a href="https://www.gob.mx/" id="" target="_self" class="widget_sp_image-image-link" title="">
-                        <img width="100" height="31" alt="" class="attachment-100x31 alignleft" style="max-width: 100%;"
-                             src="img/logos/gob.png">
-                    </a>
-                </div>
-
-                <div>
-                    <img title="División de estudios de posgrado e investigación del Instituto tecnologico de chihuhua II" src="img/banner_principal2-mod.png" width="100%"
-                         alt="DEPI ITCH II">
-                </div>
-            </div>
-        </header>
-        <!--Final Header-->
-
+        <div class="container text-center">
+            <img title="División de estudios de posgrado e investigación del Instituto tecnologico de chihuhua II" src="img/banner_principal2-mod.png" width="90%"
+                 alt="DEPI ITCH II">
+        </div>
         <!--Menus-->
         <header>
-            <nav  id="navbar" class="navbar navbar-expand-lg navbar-light" style="background:  linear-gradient(to right, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);">
+            <nav  id="navbar" class="navbar navbar-expand-lg navbar-light" style="
+                  /*background:  linear-gradient(to right, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);*/
+                  /*background: linear-gradient(#d2d1d1 0%, #e0e0e0 50%, #d2d1d1 100%);*/
+                  background:  linear-gradient(#ececec 0%, #e8e8e8 50%, #ececec 100%);
+                  ">
                 <div class="container"> 
                     <a class="navbar-brand" href="index.php">
-                        DEPI
+                        <h1 style="font-size: 1.5rem">DEPI</h1>
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
@@ -183,11 +182,167 @@ require_once './includes/mensaje_dia.php';
     </header>
     <!--Final Navbar-->
 
+    <div class="master" style="margin-top: 20px">
+
+        <div class="container" >
+            <hr>
+            <div id="control-principal" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <a href="convocatoria_base.php">
+                            <img src="img/Convocatoria-maestrias.jpg" class="d-block w-100" alt="Convocatoria Maestria sistemas computacionales itchii" alt="Convocatoria Maestria sistemas computacionales itchii">
+                            <div class="carousel-caption d-none d-md-block align-items-center">
+                                <h3></h3>
+                                <p></div>
+                        </a>
+                    </div>
+                    <div class="carousel-item">
+                        <a href="convocatoria_base.php">
+                            <img src="img/Convocatoria-maestrias.jpg" class="d-block w-100" alt="Convocatoria Maestria sistemas computacionales itchii" alt="Convocatoria Maestria sistemas computacionales itchii">
+                            <div class="carousel-caption d-none d-md-block align-items-center">
+                                <h3></h3>
+                                <p></div>
+                        </a>
+                    </div>
+                </div>
+
+                <a class="carousel-control-prev" href="#control-principal" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#control-principal" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div><!--Fin Slide-->
+        </div>
+
+
+        <div class="container" style="margin-top: 20px">
+            <hr>
 
 
 
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            <div class="row ">
+                <div class="col-md-8"> <!--Noticias-->
+                    <div class="row">
 
+                        <div class="col-12">
+                            <div class="card mb-3">
+                                <div class="row no-gutters">
+                                    <div class="col-md-4 col-sm-12">
+                                        <img src="img/1gen.jpg" class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-md-8">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Card title</h5>
+                                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-12">
+                            <div class="card mb-3">
+                                <div class="row no-gutters">
+                                    <div class="col-md-4">
+                                        <img src="img/1gen.jpg" class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-md-8">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Card title</h5>
+                                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-12">
+                            <div class="card mb-3">
+                                <div class="row no-gutters">
+                                    <div class="col-md-4">
+                                        <img src="img/1gen.jpg" class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-md-8">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Card title</h5>
+                                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+
+                </div><!--Fin Noticias-->
+
+                <div class="col-md-4 text-center"><!--Widgets--> 
+
+                    <div class="row">
+                        <div class="col-6 col-md-12">
+                            <p>
+                                <a href="#">
+                                    <img src="img/logos/depi.png" alt="depi "height="100 " width="195" style="max-width: 100%;">
+                                </a>
+                            </p>
+                        </div>
+                        <div class="col-6 col-md-12"> 
+                            <p>
+                                <a href="http://sii.itchihuahuaii.edu.mx/ " target="_blank ">
+                                    <img src="img/logos/SII.jpg " height="100 " width="195" style="max-width: 100%;">
+                                </a>
+                            </p>
+                        </div>
+
+                        <!-- Calendario -->
+                        <div class="col-6 col-md-12">
+                            <p>
+                                <iframe id="minical" scrolling="no" frameborder="0" src='calendar.html' width="258px" height='275px'></iframe>
+                            </p>
+                        </div>
+                        <!-- Fin calendario -->
+                        <div class="col-12 col-md-12">
+                            <p>
+                                <a href="http://www.conricyt.mx" target="_blank">
+                                    <img src="img/logos/conricyt.jpg" border="0" height="105" width="232">
+                                </a>
+                            </p>
+                        </div>
+                        <div class="col-6 col-md-12">
+                            <p>
+                                <a href="http://capacitacion.conricyt.mx/" target="_blank ">
+                                    <img src="img/logos/conricytcap.jpg " border="0 " height="105 " width="232 ">
+                                </a>
+                            </p>
+                        </div>
+                        <div class="col-6 col-md-12">
+                            <p>
+                                <a href="http://www.cnbes.sep.gob.mx/">
+                                    <img src="img/logos/cnbes.png" border="0" height="105" width="232">
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+
+                </div><!--Fin Widgets-->
+            </div>
+        </div>
+
+    </div>
+
+    <hr>
 
     <footer>
         <div class="container"> 
@@ -264,6 +419,8 @@ require_once './includes/mensaje_dia.php';
         </div>
 
     </footer>
+    <hr>
+
     <div class="container">
         <div class="col-12 col-md">
             <div class="textwidget">
@@ -284,6 +441,7 @@ require_once './includes/mensaje_dia.php';
             </div>
         </div>
     </div>
+
     <div class="footer-socket-wrapper clearfix">
         <div class="inner-wrap">
             <div class="footer-socket-area">
@@ -320,12 +478,12 @@ require_once './includes/mensaje_dia.php';
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
     <script>
-                                        window.dataLayer = window.dataLayer || [];
-                                        function gtag() {
-                                        dataLayer.push(arguments);
-                                        }
-                                gtag('js', new Date());
-                                        gtag('config', 'UA-141677500-1');</script>
+                                            window.dataLayer = window.dataLayer || [];
+                                            function gtag() {
+                                            dataLayer.push(arguments);
+                                            }
+                                    gtag('js', new Date());
+                                            gtag('config', 'UA-141677500-1');</script>
 
 
 
