@@ -1,0 +1,9 @@
+# robots.txt de webmaestria
+
+User-agent: Mediapartners-Google*
+Disallow:
+
+User-agent: *
+Disallow: /includes/
+
+Sitemap: sitemap1.xml
