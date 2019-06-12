@@ -5,21 +5,21 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Bootstrap-->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
         <!-- Estilos-->
-        <link rel="stylesheet" href="css/style_tec.css">
-        <link rel="stylesheet" href="css/index.css">
+        <link rel="stylesheet" href="../css/style_tec.css">
+        <link rel="stylesheet" href="../css/index.css">
         <!-- Funete-->
-        <link rel="stylesheet" href="css/font-awesome.css">
+        <link rel="stylesheet" href="../css/font-awesome.css">
         <!-- Scripts-->
-        <script src="js/jquery.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/javascript.js"></script>
-        <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
-        <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
+        <script src="../js/jquery.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
+        <script src="../js/javascript.js"></script>
+        <script type="text/javascript" src="../js/jquery.slidepanel.js"></script>
+        <link rel="stylesheet" type="text/css" href="../css/jquery.slidepanel.css">
 
         <title>Claustro Sistemas Computacionales</title>
-        <script src="js/ddmenu.js" type="text/javascript"></script>
+        <script src="../js/ddmenu.js" type="text/javascript"></script>
 
         <meta name="description" content="🎓 El personal académico básico está compuesto por catorce profesores, seis de ellos con doctorado y el resto con el grado de maestría.">
         <meta name="keywords" content="Maestrìa, Sistemas Computacionales, DEPI,Claustro,profesores">
@@ -55,7 +55,7 @@
 
                                 <div class="media-left media-middle">
                                     <a href="cv_camacho.html">
-                                        <img class="media-object" src="img/cv/camacho (copia).jpg" alt="Alberto Camacho Rios">
+                                        <img class="media-object" src="../img/cv/camacho (copia).jpg" alt="Alberto Camacho Rios">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -87,7 +87,7 @@
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="cv_alvarado.html">
-                                        <img class="media-object" src="img/cv/granadino (copia).jpg" alt="Arturo Alvarado Granadino">
+                                        <img class="media-object" src="../img/cv/granadino (copia).jpg" alt="Arturo Alvarado Granadino">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -122,7 +122,7 @@
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="cv_legarda.html">
-                                        <img class="media-object" src="img/cv/ALS (copia).jpg" alt="Arturo Legarda Saenz">
+                                        <img class="media-object" src="../img/cv/ALS (copia).jpg" alt="Arturo Legarda Saenz">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -154,7 +154,7 @@
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="cv_nevarez.html">
-                                        <img class="media-object" src="img/cv/leo (copia).jpg" alt="Leonardo Nevárez Chavez">
+                                        <img class="media-object" src="../img/cv/leo (copia).jpg" alt="Leonardo Nevárez Chavez">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -185,7 +185,7 @@
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="#">
-                                        <img class="media-object" src="img/cv/hernan (copia).jpg" alt="Hernan de la Garza Gutierrez">
+                                        <img class="media-object" src="../img/cv/hernan (copia).jpg" alt="Hernan de la Garza Gutierrez">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -215,7 +215,7 @@
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="cv_cuevas.html">
-                                        <img class="media-object" src="img/cv/cuevas.jpg" alt="Dr. Jesús Humberto Cuevas Acosta ">
+                                        <img class="media-object" src="../img/cv/cuevas.jpg" alt="Dr. Jesús Humberto Cuevas Acosta ">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -250,7 +250,7 @@
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="#">
-                                        <img class="media-object" src="img/cv/caldera.png" alt="Marisela Ivette Caldera Franco">
+                                        <img class="media-object" src="../img/cv/caldera.png" alt="Marisela Ivette Caldera Franco">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -272,7 +272,7 @@
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="#">
-                                        <img class="media-object" src="img/cv/ronquillo (copia).jpg" alt="Gregorio Ronquillo Máynez">
+                                        <img class="media-object" src="../img/cv/ronquillo (copia).jpg" alt="Gregorio Ronquillo Máynez">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -296,7 +296,7 @@
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="#">
-                                        <img class="media-object" style="width: 100px; height: 162px" src="img/cv/ilya_3.jpg" alt="Ilya Lorena Sánchez Rivera">
+                                        <img class="media-object" style="width: 100px; height: 162px" src="../img/cv/ilya_3.jpg" alt="Ilya Lorena Sánchez Rivera">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -316,33 +316,7 @@
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="#">
-                                        <img class="media-object" src="img/cv/gonzalez (copia).jpg" alt="Ricardo Alonso González Valenzuela">
-                                    </a>
-                                </div>
-                                <div class="media-body">
-                                    <h4 class="media-heading">Ricardo Alonso González Valenzuela</h4>
-                                    <p>CORREO: 
-                                        <a href="mailto:richard1727@yahoo.com">
-                                            richard1727@yahoo.com
-                                        </a>
-                                    </p>
-                                    <table>
-                                        <tr>
-                                            <td>06/06/2011</td>
-                                            <td><strong>Doctorado,</strong>en Ciencia de Materiales, Centro de Investigacion en Materiales Avanzados</td>
-                                        </tr>
-                                        <tr>
-                                            <td>01/06/2005</td>
-                                            <td><strong>Maestria,</strong>en Ciencia de Materiales, Centro de Investigacion en Materiales Avanzados</td>
-                                        </tr>
-                                    </table>
-                                </div>
-                            </div>
-
-                            <div class="thumbnail marcos">
-                                <div class="media-left media-middle">
-                                    <a href="#">
-                                        <img class="media-object" src="img/cv/Rafael_Sandoval.jpg" alt="Rafael Sandoval Rodriguez" width="100" height="160">
+                                        <img class="media-object" src="../img/cv/Rafael_Sandoval.jpg" alt="Rafael Sandoval Rodriguez" width="100" height="160">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -383,7 +357,7 @@
 
                 <!-- Inicia widgets-->
                 <?php
-                require_once 'includes/widgets.php';
+                #require_once './includes/widgets.php';
                 ?>
                 <!-- Termina widgets-->
 
