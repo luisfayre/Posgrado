@@ -23,6 +23,9 @@ require_once './includes/mensaje_dia.php';
         <meta name="keywords" content="Chihuhua,ITCHI II,DEPI,Posgrato tec 2, Posgrado ITCHI II,Posgrado, tec 2">
         <meta name="author" content="Instituto Tecnologico de Chihuahua II">
 
+
+        <link href="icon.png" rel="icon"/>
+
         <style>
             /* Note: Try to remove the following lines to see the effect of CSS positioning */
             .affix {
@@ -36,7 +39,7 @@ require_once './includes/mensaje_dia.php';
             }
         </style>
 
-        <title>División de estudios de posgrado e investigación</title>
+        <title>ITCH II: DEPI División de estudios de posgrado e investigación</title>
     </head>
 
     <body class="bodyIndex">
