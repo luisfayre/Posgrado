@@ -35,7 +35,7 @@
             <div class="col-md-12">   
 
                 <!-- Inicia contenido -->
-                <div class="col-md-8">
+                <div class="col-md-12">
                     <div class="row">
                         <div class="col-md-12 text-center">
                             <h1>
@@ -81,19 +81,22 @@
                                             <td><strong>Maestria</strong>, Maestria En Matemática Educativa.Centro De Investigación Y Estudios Avanzados Del Instituto Politécnico Nacional. </td>
                                         </tr>
                                     </table>
+                                    <p>
+                                        <a href="alberto_camacho.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                    </p>
                                 </div>
                             </div>
 
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
-                                    <a href="cv_alvarado.html">
+                                    <a href="jesus_alvarado.php">
                                         <img class="media-object" src="../img/cv/granadino (copia).jpg" alt="Arturo Alvarado Granadino">
                                     </a>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">
-                                        <a href="cv_alvarado.html">
-                                            Arturo Alvarado Granadino
+                                        <a href="jesus_alvarado.php.html">
+                                            Jesús Arturo Alvarado Granadino
                                         </a>
                                     </h4>
                                     <p>CORREO: 
@@ -115,19 +118,22 @@
                                             <td>28/06/1991</td>
                                             <td><strong>LICENCIATURA, </strong>LICENCIATURA EN SISTEMAS DE COMPUTACIÓN ADMINISTRATIVA. UNIVERSIDAD AUTÓNOMA DE CHIHUAHUA.</td>
                                         </tr>
-                                    </table>                  
+                                    </table>    
+                                    <p>
+                                        <a href="jesus_alvarado.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                    </p>
                                 </div>
                             </div>
 
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
-                                    <a href="cv_legarda.html">
-                                        <img class="media-object" src="../img/cv/ALS (copia).jpg" alt="Arturo Legarda Saenz">
+                                    <a href="arturo_legarda.php">
+                                        <img class="media-object" src="../img/cv/arturo_legarda.jpg" alt="Arturo Legarda Saenz">
                                     </a>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">
-                                        <a href="cv_legarda.html">
+                                        <a href="arturo_legarda.php">
                                             Arturo Legarda Saenz
                                         </a>
                                     </h4>
@@ -147,14 +153,17 @@
                                             <td><strong>LICENCIATURA</strong>Ingeniero Industrial en Electrónica, 2431439, Tecnológico Nacional de México / Instituto Tecnológico de Chihuahua / Subdireccion Academica / Departamento de Electrica y Electronica, México , Chihuahua , Gobierno Federal Centralizado</td>
                                         </tr>
                                     </table>
+                                    <p>
+                                        <a href="arturo_legarda.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                    </p>
 
                                 </div>
                             </div>
 
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
-                                    <a href="cv_nevarez.html">
-                                        <img class="media-object" src="../img/cv/leo (copia).jpg" alt="Leonardo Nevárez Chavez">
+                                    <a href="leonardo_nevarez.php">
+                                        <img class="media-object" src="../img/cv/leonardo_nevárez.jpg" alt="Leonardo Nevárez Chavez">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -178,14 +187,17 @@
                                             <td><strong>LICENCIATURA</strong>Ingeniero Agrónomo en Suelos. Universidad Autonoma de Chihuahua. Cédula: 1840846.</td>
                                         </tr>
                                     </table>
+                                    <p>
+                                        <a href="leonardo_nevarez.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                    </p>
 
                                 </div>
                             </div>
 
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
-                                    <a href="#">
-                                        <img class="media-object" src="../img/cv/hernan (copia).jpg" alt="Hernan de la Garza Gutierrez">
+                                    <a href="hernan_de_la_garza.php">
+                                        <img class="media-object" src="../img/cv/hernan_de_la_Garza.jpg" alt="Hernan de la Garza Gutierrez">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -209,18 +221,21 @@
                                             <td><strong>Maestria</strong>, Maestria Materiales Avanzados.Centro De Investigación En Materiales Avanzados.</td>
                                         </tr>
                                     </table>
+                                    <p>
+                                        <a href="hernan_de_la_garza.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                    </p>
                                 </div>
                             </div>
 
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
-                                    <a href="cv_cuevas.html">
-                                        <img class="media-object" src="../img/cv/cuevas.jpg" alt="Dr. Jesús Humberto Cuevas Acosta ">
+                                    <a href="jesus_cuevas.php">
+                                        <img class="media-object" src="../img/cv/jesus_cuevas.jpg" alt="Dr. Jesús Humberto Cuevas Acosta ">
                                     </a>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">
-                                        <a href="cv_cuevas.html">
+                                        <a href="jesus_cuevas.php">
                                             Dr. Jesús Humberto Cuevas Acosta
                                         </a>
                                     </h4>
@@ -243,14 +258,17 @@
                                             <td><strong>Licenciatura</strong>, Ingenieria Industrial.</td>
                                         </tr>
                                     </table>
+                                    <p>
+                                        <a href="jesus_cuevas.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                    </p>
 
                                 </div>
                             </div>
 
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
-                                    <a href="#">
-                                        <img class="media-object" src="../img/cv/caldera.png" alt="Marisela Ivette Caldera Franco">
+                                    <a href="marisela_caldera.php">
+                                        <img class="media-object" src="../img/cv/marisela_caldera.png" alt="Marisela Ivette Caldera Franco">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -266,12 +284,15 @@
                                             <td><strong>Maestría</strong>, En Educacion Superior . Universidad Autónoma de Chihuahua. </td>
                                         </tr>
                                     </table>
+                                    <p>
+                                        <a href="marisela_caldera.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                    </p>
                                 </div>
                             </div>
 
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
-                                    <a href="#">
+                                    <a href="gregorio_ronquillo.php">
                                         <img class="media-object" src="../img/cv/ronquillo (copia).jpg" alt="Gregorio Ronquillo Máynez">
                                     </a>
                                 </div>
@@ -290,6 +311,9 @@
                                             <td><strong>Maestria</strong>, En Sistemas de Información, Universidad Autonoma de Chihuahua</td>
                                         </tr>
                                     </table>
+                                    <p>
+                                        <a href="gregorio_ronquillo.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                    </p>
                                 </div>
                             </div>
 
@@ -326,7 +350,7 @@
                                             rafael.sandoval@itchihuahuaii.edu.mx
                                         </a>
                                     </p>
-                                    <p>
+
                                     <table>
                                         <tr>
                                             <td> 05/2005 </td>
@@ -341,10 +365,11 @@
                                             <td><strong> Ingeniería</strong>, Industrial en Electrónica, Instituto Tecnológico de Chihuahua.</td>
                                         </tr>
                                     </table>
+                                    <p>
+                                        <a href="rafael_sandoval.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
                                     </p>
                                 </div>
                             </div>
-
 
                         </div>
                         <!-- Termia class col -->
