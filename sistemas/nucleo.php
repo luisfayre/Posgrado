@@ -46,14 +46,16 @@
             <!-------------------------------------------------------------------------->
             <div class="thumbnail marcos">
                 <div class="media-left media-middle">
-                    <a href="#">
+                    <a href="alberto_camacho.php">
                         <img class="media-object" src="../img/cv/camacho (copia).jpg" alt="Camacho" width="100" height="160">
                     </a>
                 </div>
                 <div class="media-body">
-                    <h4 class="media-heading">Alberto Camacho Rios</h4>
-                    <p>camachoalberto@hotmail.com </p>
-                    <p>
+                    <h4 class="media-heading">Alberto Camacho Rios</h4> 
+                    <p>CORREO: 
+                        <a href="mailto:camachoalberto@hotmail.com">
+                            camachoalberto@hotmail.com
+                        </a>
                     <table>
                         <tr>
                             <td>19/07/2000 </td>
@@ -64,19 +66,20 @@
                             <td><strong>Maestria</strong>, Maestria En Matemática Educativa.Centro De Investigación Y Estudios Avanzados Del Instituto Politécnico Nacional. </td>
                         </tr>
                     </table>
+                    <p>
+                        <a href="alberto_camacho.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
                     </p>
                 </div>
             </div>
             <div class="thumbnail marcos">
                 <div class="media-left media-middle">
-                    <a href="#">
-                        <img class="media-object" src="../img/cv/granadino (copia).jpg" alt="Arturo Alvarado" width="100" height="160">
+                    <a href="jesus_alvarado.php">
+                        <img class="media-object" src="../img/cv/arturo_alvarado.jpg" alt="Arturo Alvarado" width="100" height="160">
                     </a>
                 </div>
                 <div class="media-body">
-                    <h4 class="media-heading">Arturo Alvarado Granadino</h4>
+                    <h4 class="media-heading">Jesus Arturo Alvarado Granadino</h4>
                     <p>alvaradogranadino@yahoo.com.mx </p>
-                    <p>
                     <table>
                         <tr>
                             <td valign=top>25/03/2005</td>
@@ -92,19 +95,20 @@
                             <td><strong>LICENCIATURA, </strong>LICENCIATURA EN SISTEMAS DE COMPUTACIÓN ADMINISTRATIVA. UNIVERSIDAD AUTÓNOMA DE CHIHUAHUA.</td>
                         </tr>
                     </table>
+                    <p>
+                        <a href="jesus_alvarado.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
                     </p>
                 </div>
             </div>
             <div class="thumbnail marcos">
                 <div class="media-left media-middle">
-                    <a href="#">
+                    <a href="arturo_legarda.php">
                         <img class="media-object" src="../img/cv/ALS (copia).jpg" alt="Arturo Legarda" width="230" height="160">
                     </a>
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Arturo Legarda Sáenz</h4>
                     <p>alfpolitico@yahoo.com.mx </p>
-                    <p>
                     <table>
                         <tr>
                             <td valign=top>16/08/2002</td>
@@ -115,19 +119,20 @@
                             <td><strong>LICENCIATURA</strong>Ingeniero Industrial en Electrónica, 2431439, Tecnológico Nacional de México / Instituto Tecnológico de Chihuahua / Subdireccion Academica / Departamento de Electrica y Electronica, México , Chihuahua , Gobierno Federal Centralizado</td>
                         </tr>
                     </table>
+                    <p>
+                        <a href="arturo_legarda.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
                     </p>
                 </div>
             </div>
             <div class="thumbnail marcos">
                 <div class="media-left media-middle">
-                    <a href="#">
-                        <img class="media-object" src="../img/cv/leo (copia).jpg" alt="Camacho" width="155" height="160">
+                    <a href="leonardo_nevarez.php">
+                        <img class="media-object" src="../img/cv/leonardo_nevárez.jpg" alt="Leonardo Nevárez" width="155" height="160">
                     </a>
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Leonardo Nevárez Chávez</h4>
                     <p> leonevarez71@hotmail.com </p>
-                    <p>
                     <table>
                         <tr>
                             <td valign=top>12/06/1992</td>
@@ -139,13 +144,15 @@
                             <td><strong>LICENCIATURA</strong>Ingeniero Agrónomo en Suelos. Universidad Autonoma de Chihuahua. Cédula: 1840846.</td>
                         </tr>
                     </table>
+                    <p>
+                        <a href="leonardo_nevarez.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
                     </p>
                 </div>
             </div>
             <div class="thumbnail marcos">
                 <div class="media-left media-middle">
-                    <a href="#">
-                        <img class="media-object" src="../img/cv/hernan (copia).jpg" alt="Hernan" width="100" height="160">
+                    <a href="hernan_de_la_garza.php">
+                        <img class="media-object" src="../img/cv/hernan_de_la_Garza.jpg" alt="Hernan de la Garza" width="100" height="160">
                     </a>
                 </div>
                 <div class="media-body">
@@ -168,29 +175,35 @@
                     </table>
                     </p>
                 </div>
+                <p>
+                    <a href="hernan_de_la_garza.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                </p>
             </div>
             <div class="thumbnail marcos">
                 <div class="media-left media-middle">
-                    <a href="#">
-                        <img class="media-object" src="../img/cv/caldera.png" alt="Caldera" width="100" height="160">
+                    <a href="marisela_caldera.php">
+                        <img class="media-object" src="../img/cv/marisela_caldera.png" alt="Marisela Caldera" width="100" height="160">
                     </a>
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Marisela Ivette Caldera Franco</h4>
                     <p>marisela_caldera_franco@yahoo.com.mx</p>
-                    <p>
                     <table>
                         <tr>
                             <td>30/12/2001 </td>
-                            <td><strong>Maestría</strong>, En Educacion Superior . Universidad Autónoma de Chihuahua. </td>
+                            <td>
+                                <strong>Maestría</strong>, En Educacion Superior . Universidad Autónoma de Chihuahua. 
+                            </td>
                         </tr>
-                    </table>
+                    </table> 
+                    <p>
+                        <a href="marisela_caldera.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
                     </p>
                 </div>
             </div>
             <div class="thumbnail marcos">
                 <div class="media-left media-middle">
-                    <a href="#">
+                    <a href="rafael_sandoval.php">
                         <img class="media-object" src="../img/cv/Rafael_Sandoval.jpg" alt="Rafael Sandoval" width="100" height="160">
                     </a>
                 </div>
@@ -214,21 +227,24 @@
                     </table>
                     </p>
                 </div>
+                <p>
+                    <a href="rafael_sandoval.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                </p>
             </div>
 
             <div class="thumbnail marcos">
                 <div class="media-left media-middle">
-                    <a href="cv_cuevas.html">
-                        <img class="media-object" src="../img/cv/cuevas.jpg" alt="Dr. Jesús Humberto Cuevas Acosta ">
+                    <a href="jesus_cuevas.php">
+                        <img class="media-object" src="../img/cv/jesus_cuevas.jpg" alt="Dr. Jesús Humberto Cuevas Acosta ">
                     </a>
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">
-                        <a href="cv_cuevas.html">
+                        <a href="jesus_cuevas.php">
                             Dr. Jesús Humberto Cuevas Acosta
                         </a>
                     </h4>
-
+                    <p>jesus.humberto.cuevas@outlook.com</p>
                     <table>
                         <tr>
                             <td>01/01/2011 </td>
@@ -247,7 +263,9 @@
                             <td><strong>Licenciatura</strong>, Ingenieria Industrial.</td>
                         </tr>
                     </table>
-
+                    <p>
+                        <a href="jesus_cuevas.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                    </p>
                 </div>
             </div>
         </div>
