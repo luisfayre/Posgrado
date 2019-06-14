@@ -85,14 +85,14 @@ require_once './includes/mensaje_dia.php';
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner" role="listbox">
                                 <div class="item active">
-                                    <a href="convocatoria_base.php">
+                                    <a href="convocatoria.php">
                                         <img title="Convocatoria Maestria sistemas computacionales itchii" class="slider" src="img/Convocatoria-maestrias.jpg" 
                                              alt="Convocatoria Maestria sistemas computacionales itchii" style="width: 100%;">
                                     </a>
                                 </div>
 
                                 <div class="item">
-                                    <a href="convocatoria_base.php">
+                                    <a href="convocatoria.php">
                                         <img title="Convocatoria Maestria sistemas computacionales itchii" class="slider" src="img/Convocatoria-maestrias.jpg" 
                                              alt="Convocatoria Maestria sistemas computacionales itchii" style="width: 100%;">
                                     </a>
