@@ -548,8 +548,8 @@ li > ol {
 blockquote {
     padding: 30px 30px 20px 50px;
     margin-bottom: 20px;
-    background-color: #77CC6D;
-    color: #FFFFFF;
+    /*background-color: #77CC6D;
+    color: #FFFFFF;*/
     border-radius: 5px;
 }
 blockquote p {
