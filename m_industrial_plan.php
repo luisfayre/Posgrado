@@ -52,10 +52,10 @@
                     <table style="width: 50%;">
                         <tbody>
                             <tr>
-                                <td style="background-color: #007D32;"><span style="color: white;"><span
+                                <td style="background-color: #AC243A;"><span style="color: white;"><span
                                             style="font-weight: bold;">ESTRUCTURA </span></span>
                                 </td>
-                                <td style="background-color: #007D32;"><span style="color: white;"><span
+                                <td style="background-color: #AC243A;"><span style="color: white;"><span
                                             style="font-weight: bold;">CRÉDITOS</span></span>
                                 </td>
                             </tr>
