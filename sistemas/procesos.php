@@ -5,21 +5,21 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Bootstrap-->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
         <!-- Estilos-->
-        <link rel="stylesheet" href="css/style_tec.css">
-        <link rel="stylesheet" href="css/index.css">
+        <link rel="stylesheet" href="../css/style_tec.css">
+        <link rel="stylesheet" href="../css/index.css">
         <!-- Funete-->
-        <link rel="stylesheet" href="css/font-awesome.css">
+        <link rel="stylesheet" href="../css/font-awesome.css">
         <!-- Scripts-->
-        <script src="js/jquery.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/javascript.js"></script>
-        <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
-        <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
+        <script src="../js/jquery.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
+        <script src="../js/javascript.js"></script>
+        <script type="text/javascript" src="../js/jquery.slidepanel.js"></script>
+        <link rel="stylesheet" type="text/css" href="../css/jquery.slidepanel.css">
 
         <title>Procesos Administrativos</title>
-        <script src="js/ddmenu.js" type="text/javascript"></script>
+        <script src="../js/ddmenu.js" type="text/javascript"></script>
     </head>
 
     <body class="bodyIndex">
@@ -36,7 +36,7 @@
             </div>
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-12">
-                    <img class="img-responsive" src="img/depi_organigrama_n.gif" alt="">
+                    <img class="img-responsive" src="../img/organigrama/procesos_administrativos_organigrama.png" alt="">
                 </div>
             </div>
             <div class="row">
@@ -46,7 +46,7 @@
             </div>
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-12">
-                    <img class="img-responsive" src="img/comite_organigrama_n.gif" alt="">
+                    <img class="img-responsive" src="../img/organigrama/comite_procesos_administrativos.png" alt="">
                 </div>
             </div>
             <div class="row bloque">
@@ -86,7 +86,7 @@
                         <h4>Maestría en Sistemas
                             Computacionales</h4>
                         <div class="thumbnail">
-                            <img src="img/cv/Ilya.jpg" alt="...">
+                            <img src="../img/cv/Ilya.jpg" alt="...">
                             <div class="caption ">
                                 <h4>M.S.I Ilya Sánchez</h4>
                             </div>
