@@ -19,7 +19,7 @@
         <script src="js/ddmenu.js" type="text/javascript"></script>
 
         <meta name="description" content="🎓 Contribuir a la formación del capital humano analítico, creativo, ético y competitivo, con una óptica
-                                global, responsabilidad social y congruencia con las necesidades del entorno.">
+              global, responsabilidad social y congruencia con las necesidades del entorno.">
         <meta name="keywords" content="Misión, Visión,ITCHI II,DEPI,Posgrato tec 2, Posgrado ITCHI II,Posgrado, tec 2">
         <meta name="author" content="Instituto Tecnologico de Chihuahua II">
     </head>
@@ -72,44 +72,10 @@
                             </div>
 
 
+                            <?php
+                            require_once 'includes/coordinadores.php';
+                            ?>
 
-                            <div class="media marcos thumbnail">
-                                <div class="media-left media-middle">
-                                    <a href="#">
-                                        <img class="media-object" src="img/cv/Ilya_2.jpg" alt="Ilya" width=100 height=162>
-                                    </a>
-                                </div>
-                                <div class="media-body">
-                                    <h4 class="media-heading">Ilya Lorena Sánchez Rivera</h4>
-
-                                    <p>Correo: 
-                                        <a href="mailto:ilyasanchez@hotmail.com">ilyasanchez@hotmail.com</a>
-                                    </p>
-                                    <p> 16/09/1998 - 2019 Tecnológico Nacional De México / Instituto Tecnológico De Chihuahua II,
-                                        Coordinadora de la Maesría en Sistemas Computacionales, Tiempo completo</p>
-                                    <p>
-                                    </p>
-                                </div>
-                            </div>
-
-
-                            <div class="media marcos thumbnail">
-                                <div class="media-left media-middle">
-                                    <a href="#">
-                                        <img class="media-object" src="img/img_perfil.jpg" alt="Villapando" width=100 height=162>
-                                    </a>
-                                </div>
-                                <div class="media-body">
-                                    <h4 class="media-heading">Dra. Luisa Yolanda Quiñones Montenegro</h4>
-                                    <p>Correo: 
-                                        <a href="mailto:posgradomii@hotmail.com">posgradomii@hotmail.com</a>
-                                    </p>
-
-                                    <p>05/2007 - 2019 Tecnológico Nacional De México / Instituto Tecnológico De Chihuahua II, Coordinador de
-                                        la Maesría en Ing. Ind. Tiempo completo
-                                    </p>
-                                </div>
-                            </div>
 
                         </div>
 

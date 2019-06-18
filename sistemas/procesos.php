@@ -29,34 +29,36 @@
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h1>MAESTRIA EN SISTEMAS COMPUTACIONALES</h1>
-                    <h2>PROCESOS ADMINISTRATIVOS</h2>
-                    <h3>DIVISIÓN DE ESTUDIOS DE POSGRADO E INVESTIGACIÓN <br>ORGANIGRAMA</h3>
+                    <h1 class="principal">MAESTRIA EN SISTEMAS COMPUTACIONALES</h1>
+                    <h2>Procesos Administrativos</h2>
+                    <h2>Organigrama</h2>
+                    <h3>División de Estudios de Posgrado e Investigación</h3>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-12">
-                    <img class="img-responsive" src="../img/organigrama/procesos_administrativos_organigrama.png" alt="">
+                    <img class="img-responsive" src="../img/organigrama/procesos_administrativos_organigrama.png" alt="Organigrama de División de Estudios de Posgrado e Investigación">
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h3>COMITÉ INSTITUCIONAL DE POSGRADO E INVESTIGACIÓN <br>ORGANIGRAMA</h3>
+                    <h2>Organigrama</h2>
+                    <h3>Comité Institucional de Posgrado e Investigación</h3>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-12">
-                    <img class="img-responsive" src="../img/organigrama/comite_procesos_administrativos.png" alt="">
+                    <img class="img-responsive" src="../img/organigrama/comite_procesos_administrativos.png" alt="Organigrama del Comité Institucional de Posgrado e Investigación">
                 </div>
             </div>
-            <div class="row bloque">
+            <!--div class="row bloque">
                 <div class="col-md-12 col-sm-12 text-center">
                     <h2>Jefa de depto. de posgrado e investigación</h2>
                     <div class="col-sm-6 col-md-4 col-md-offset-4">
                         <div class="thumbnail">
-                            <!--img src="img/cv/blanca.png" alt="..."-->
+                            <img src="" alt="...">
                             <div class="caption ">
-                                <h4>Lic. Olga Rebeca Castillo Cruz</h4>
+                                <h4></h4>
                             </div>
                             <div class="caption">
                                 <p>Correo: posgrado@itchihuahuaii.edu.mx</p>
@@ -65,39 +67,12 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row ">
-                <div class="col-md-12 col-sm-12 text-center">
-                    <h2>Cordinadores</h2>
-                    <div class="col-sm-6 col-md-5 col-md-offset-1">
-                        <h4>Maestría en Ingeniería Industrial</h4>
-                        <div class="thumbnail">
-                            <img src="" alt="...">
-                            <div class="caption ">
-                                <h4>Dra. Luisa Yolanda Quiñones Montenegro</h4>
-                            </div>
-                            <div class="caption">
-                                <p>posgradomii@hotmail.com</p>
-                                <p>Teléfono:52 (614) 442-5032</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-5">
-                        <h4>Maestría en Sistemas
-                            Computacionales</h4>
-                        <div class="thumbnail">
-                            <img src="../img/cv/Ilya.jpg" alt="...">
-                            <div class="caption ">
-                                <h4>M.S.I Ilya Sánchez</h4>
-                            </div>
-                            <div class="caption">
-                                <p>ilyasanchez@hotmail.com
-                                <p>Teléfono:52 (614) 442-5032</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            </div-->
+ 
+            <?php
+            require_once 'includes/coordinadores.php';
+            ?>
+            
         </div>
 
         <div class="container">
@@ -110,7 +85,7 @@
             require_once 'includes/footer.php';
             ?>
         </div>
-        
+
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
         <script>
