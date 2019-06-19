@@ -51,7 +51,7 @@
                         </a>
                     </div>
                     <div class="col-sm-6 col-md-4">
-                        <a class="ResetLink" href="documentos/FormatoConstanciaNoAdeudos(FCNA-09).docx">
+                        <a class="ResetLink" href="docs/FormatoConstanciaNoAdeudos(FCNA-09).docx">
                             <div class="documentos">
                                 <div class="caption text-center ">
                                     <p>Formato Constancia No Adeudos</p>
@@ -60,7 +60,7 @@
                         </a>
                     </div>
                     <div class="col-sm-6 col-md-4">
-                        <a class="ResetLink" href="documentos/FormatoAceptacionPropuestaTesisFAP-04Act.docx">
+                        <a class="ResetLink" href="docs/FormatoAceptacionPropuestaTesisFAP-04Act.docx">
                             <div class="documentos">
                                 <div class="caption text-center ">
                                     <p>Formato Aceptacion Propuesta Tesis</p>
@@ -69,7 +69,7 @@
                         </a>
                     </div>
                     <div class="col-sm-6 col-md-4">
-                        <a class="ResetLink" href="documentos/FormatoPropuestaTemaTesisFTT-02Act.docx">
+                        <a class="ResetLink" href="docs/FormatoPropuestaTemaTesisFTT-02Act.docx">
                             <div class="documentos">
                                 <div class="caption text-center ">
                                     <p>Formato Propuesta Tema Tesis</p>
@@ -87,7 +87,7 @@
                         </a>
                     </div>
                     <div class="col-sm-6 col-md-4">
-                        <a class="ResetLink" href="documentos/FormatoEntregaAvancedeTesisFRAT-05.docx">
+                        <a class="ResetLink" href="docs/FormatoEntregaAvancedeTesisFRAT-05.docx">
                             <div class="documentos">
                                 <div class="caption text-center ">
                                     <p>Formato Entrega Avance De Tesis </p>
@@ -96,7 +96,7 @@
                         </a>
                     </div>
                     <div class="col-sm-6 col-md-4">
-                        <a class="ResetLink" href="documentos/FORMATO-INGRESO-MAESTRIA-FSI-2019.docx">
+                        <a class="ResetLink" href="docs/FORMATO-INGRESO-MAESTRIA-FSI-2019.docx">
                             <div class="documentos">
                                 <div class="caption text-center ">
                                     <p>Formato Solicitud de Ingreso Maestría</p>
@@ -105,7 +105,7 @@
                         </a>
                     </div>
                     <div class="col-sm-6 col-md-4">
-                        <a class="ResetLink" href="documentos/FormatoSeguimientoTesisSemFSTE-003.docx">
+                        <a class="ResetLink" href="docs/FormatoSeguimientoTesisSemFSTE-003.docx">
                             <div class="documentos">
                                 <div class="caption text-center ">
                                     <p>Formato Seguimiento Tesis</p>
@@ -114,7 +114,7 @@
                         </a>
                     </div>
                     <div class="col-sm-6 col-md-4">
-                        <a class="ResetLink" href="documentos/FormatoSeguimientoTutoriasFST-10A.docx">
+                        <a class="ResetLink" href="docs/FormatoSeguimientoTutoriasFST-10A.docx">
                             <div class="documentos">
                                 <div class="caption text-center ">
                                     <p>Formato Seguimiento Tutorias</p>

@@ -74,9 +74,9 @@ d) CVU de CONACyT</pre>
                 </li>
                 <br>
                 <pre>
-<a href="../documentos/GuiaExaConocmaestriaSC2.pdf" target="_blank">Guía para la Maestría de Sistemas Computacionales.</a>
+<a href="../docs/GuiaExaConocmaestriaSC2.pdf" target="_blank">Guía para la Maestría de Sistemas Computacionales.</a>
                 <br>
-<a href="../documentos/GuiaExamAdmonMII15-02.docx" target="_blank">Guía para la Maestría de Ingeniería Industrial.</a></pre>
+<a href="../docs/GuiaExamAdmonMII15-02.docx" target="_blank">Guía para la Maestría de Ingeniería Industrial.</a></pre>
                 <br>
                 <li>Examen de inglés.
                     <mark>2 de junio 2018</mark>
