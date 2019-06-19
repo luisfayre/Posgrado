@@ -53,7 +53,7 @@
                 <div class="row bloque">
                     <div class="col-md-12 col-sm-12">
                         <div class="col-sm-6 col-md-4">
-                            <a class="ResetLink" href="../docs/Curso_Induccion_Investigacion_Mod_A.pdf">
+                            <a class="ResetLink" href="../documentos/Curso_Induccion_Investigacion_Mod_A.pdf">
                                 <div class="documentos">
                                     <div class="caption text-center ">
                                         <h4>Curso Inducción Investigación Mod A</h4>
@@ -62,7 +62,7 @@
                             </a>
                         </div>
                         <div class="col-sm-6 col-md-4">
-                            <a class="ResetLink" href="../docs/Curso_Induccion_Investigacion_Mod_B.pdf">
+                            <a class="ResetLink" href="../documentos/Curso_Induccion_Investigacion_Mod_B.pdf">
                                 <div class="documentos">
                                     <div class="caption text-center ">
                                         <h4>Curso Inducción Investigación Mod B</h4>
@@ -71,7 +71,7 @@
                             </a>
                         </div>
                         <div class="col-sm-6 col-md-4">
-                            <a class="ResetLink" href="../docs/Curso_Induccion_Investigacion_Mod_C.pdf">
+                            <a class="ResetLink" href="../documentos/Curso_Induccion_Investigacion_Mod_C.pdf">
                                 <div class="documentos">
                                     <div class="caption text-center ">
                                         <h4>Curso Inducción Investigación Mod C</h4>

@@ -61,7 +61,7 @@
                             <div style="padding-left: 15px">
                                 <li>
                                     Llenar solicitud, está la encuentran en la página de Posgrado del ITCHI: 
-                                    <a class="btn bg-info"href="docs/FORMATO-INGRESO-MAESTRIA-FSI-2019.docx">Solicitud</a></li>
+                                    <a class="btn bg-info"href="documentos/FORMATO-INGRESO-MAESTRIA-FSI-2019.docx">Solicitud</a></li>
                                 <li>
                                     Dos cartas de recomendación de sus maestros de Licenciatura.
                                 </li>

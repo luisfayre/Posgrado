@@ -37,7 +37,7 @@
             <h3>ciiit@itchihuahuaii.edu.mx</h3>
             <br>
             <br>
-            <a class="btn btn-primary btn-lg" href="docs/formulario_de_inventario_de_habilidades.docx">Descargar formulario</a>
+            <a class="btn btn-primary btn-lg" href="documentos/formulario_de_inventario_de_habilidades.docx">Descargar formulario</a>
         </div>
 
 
