@@ -62,55 +62,55 @@
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner" role="listbox" style="width=100%; height=100%">
                                 <div class="item active ">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02881.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02881.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02882.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02882.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02883.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02883.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02884.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02884.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02885.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02885.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02886.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02886.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02887.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02887.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02888.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02888.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02889.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02889.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02890.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02890.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02891.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02891.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02892.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02892.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02893.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02893.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02894.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02894.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02895.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02895.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02896.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02896.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/coloquio ago dic 2015/FotosColoquioMP/CAM02897.jpg" alt="...">
+                                    <img src="../img/coloquio ago dic 2015/FotosColoquioMP/CAM02897.jpg" alt="...">
                                 </div>
                             </div>
                             <!-- Controls -->

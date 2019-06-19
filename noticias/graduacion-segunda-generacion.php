@@ -36,12 +36,12 @@
                 <div class="row ">
                     <div class="responsive">
                         <div class="img-galeria">
-                            <img id="myImg2" alt="..." src="img\graduacion\2.jpg">
+                            <img id="myImg2" alt="..." src="../img\graduacion\2.jpg">
                         </div>
                     </div>
                     <div class="responsive">
                         <div class="img-galeria">
-                            <img id="myImg" alt="..." src="img\graduacion\1.jpg">
+                            <img id="myImg" alt="..." src="../img\graduacion\1.jpg">
                             <div id="myModal" class="modal">
                                 <span class="close">x</span>
                                 <img class="modal-content" id="img01">
@@ -64,7 +64,7 @@
 
                     <div class="responsive">
                         <div class="img-galeria">
-                            <img id="myImg4" alt="..." src="img\graduacion\4.jpg">
+                            <img id="myImg4" alt="..." src="../img\graduacion\4.jpg">
                             <div id="myModal4" class="modal">
                                 <span class="close">x</span>
                                 <img class="modal-content" id="img04">
@@ -87,7 +87,7 @@
 
                     <div class="responsive">
                         <div class="img-galeria">
-                            <img id="myImg7" alt="..." src="img\graduacion\7.jpg">
+                            <img id="myImg7" alt="..." src="../img\graduacion\7.jpg">
                             <div id="myModal7" class="modal">
                                 <span class="close">x</span>
                                 <img class="modal-content" id="img07">
@@ -109,17 +109,17 @@
                     </div>
                     <div class="responsive">
                         <div class="img-galeria">
-                            <img id="myImg5" alt="..." src="img\graduacion\5.jpg">
+                            <img id="myImg5" alt="..." src="../img\graduacion\5.jpg">
                         </div>
                     </div>
                     <div class="responsive">
                         <div class="img-galeria">
-                            <img id="myImg6" alt="..." src="img\graduacion\6.jpg">
+                            <img id="myImg6" alt="..." src="../img\graduacion\6.jpg">
                         </div>
                     </div>
                     <div class="responsive">
                         <div class="img-galeria">
-                            <img id="myImg8" alt="..." src="img\graduacion\8.jpg">
+                            <img id="myImg8" alt="..." src="../img\graduacion\8.jpg">
                             <div id="myModal8" class="modal">
                                 <span class="close">x</span>
                                 <img class="modal-content" id="img08">
@@ -141,7 +141,7 @@
                     </div>
                     <div class="responsive">
                         <div class="img-galeria">
-                            <img id="myImg9" alt="..." src="img\graduacion\9.jpg">
+                            <img id="myImg9" alt="..." src="../img\graduacion\9.jpg">
                             <div id="myModal9" class="modal">
                                 <span class="close">x</span>
                                 <img class="modal-content" id="img09">

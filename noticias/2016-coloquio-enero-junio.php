@@ -60,13 +60,13 @@
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner" role="listbox" style="width=100%; height=100%">
                                 <div class="item active ">
-                                    <img src="img/Coloqui_2016_Ene-Jun/Sistemas/1.jpg" alt="...">
+                                    <img src="../img/Coloqui_2016_Ene-Jun/Sistemas/1.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloqui_2016_Ene-Jun/Sistemas/2.jpg" alt="...">
+                                    <img src="../img/Coloqui_2016_Ene-Jun/Sistemas/2.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloqui_2016_Ene-Jun/Sistemas/3.jpg" alt="...">
+                                    <img src="../img/Coloqui_2016_Ene-Jun/Sistemas/3.jpg" alt="...">
                                 </div>
                                 <div class="item">
                                     <img src="img/Coloqui_2016_Ene-Jun/Sistemas/4.jpg" alt="...">

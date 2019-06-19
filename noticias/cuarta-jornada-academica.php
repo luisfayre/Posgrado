@@ -113,16 +113,16 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner" role="listbox" style=" width:100%;">
                             <div class="item active ">
-                                <img src="img\Jornada-4\jornada4 (1).jpg" alt="...">
+                                <img src="../img\Jornada-4\jornada4 (1).jpg" alt="...">
                             </div>
                             <div class="item">
-                                <img src="img\Jornada-4\jornada4 (2).jpg" alt="...">
+                                <img src="../img\Jornada-4\jornada4 (2).jpg" alt="...">
                             </div>
                             <div class="item">
-                                <img src="img\Jornada-4\jornada4 (3).jpg" alt="...">
+                                <img src="../img\Jornada-4\jornada4 (3).jpg" alt="...">
                             </div>
                             <div class="item">
-                                <img src="img\Jornada-4\jornada4 (4).jpg" alt="...">
+                                <img src="../img\Jornada-4\jornada4 (4).jpg" alt="...">
                             </div>
                             <div class="item">
                                 <img src="img\Jornada-4\jornada4 (5).jpg" alt="...">

@@ -72,45 +72,45 @@
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">NOTICIAS</a>
                     <ul class="dropdown-menu">
-                        <li><a href="convocatoria2017.php">Convocatoria 2018-1</a></li>
+                        <li>
+                            <a href="convocatoria-2018-2">Convocatoria 2018-1</a>
+                        </li>
+                        <li role="separator" class="divider"></li>
+                        <li>
+                            <a href="2017-coloquio-agosto-diciembre.php">Coloquio Diciembre 2017</a>
+                        </li>
                         <li role="separator" class="divider">
-
                         </li>
                         <li>
-                            <a href="coloquio_Ene-Jun-2017.php">Coloquio Enero-Junio 2017</a>
-                        </li>
-                        <li role="separator" class="divider">
-                        </li>
-                        <li>
-                            <a href="coloquio_Dic-2017.php">Coloquio Diciembre 2017</a>
+                            <a href="2017-coloquio-enero-junio.php">Coloquio Enero-Junio 2017</a>
                         </li>
                         <li role="separator" class="divider"></li>
                         <li>
-                            <a href="coloquio_Ago-Dic-2016.php">Coloquio Ago-Dic 2016</a>
+                            <a href="2016-coloquio-agosto-diciembre.php">Coloquio Ago-Dic 2016</a>
                         </li>
                         <li role="separator" class="divider"></li>
                         <li>
-                            <a href="m_coloqui_Ene-Jun_2016.php">Coloquio Ene-Jun 2016</a>
+                            <a href="2016-coloquio-enero-junio.php">Coloquio Ene-Jun 2016</a>
                         </li>
                         <li role="separator" class="divider"></li>
                         <li>
-                            <a href="tercerjornadaacad.php">Tercer Jornada Academica</a>
+                            <a href="tercer-jornada-academica.php">Tercer Jornada Academica</a>
                         </li>
                         <li role="separator" class="divider"></li>
                         <li>
-                            <a href="inducainv.php">Inducción a Investigación</a>
+                            <a href="induccion-a-la-investigacion.php">Inducción a Investigación</a>
                         </li>
                         <li role="separator" class="divider"></li>
                         <li>
-                            <a href="graduacion2g.php">Graduación 2<sup>a</sup> Gen.</a>
+                            <a href="graduacion-segunda-generacion.php">Graduación 2<sup>a</sup> Gen.</a>
                         </li>
                         <li role="separator" class="divider"></li>
                         <li>
-                            <a href="m_convocatoria16_En-Jun.php">Convocatoria Ene-Jun 2016</a>
+                            <a href="convocatoria-2016-2.php">Convocatoria Ene-Jun 2016</a>
                         </li>
                         <li role="separator" class="divider"></li>
                         <li>
-                            <a href="m_coloquio201.php">Coloquio Ago-Dic 2015</a>
+                            <a href="2015-coloquio-agosto-diciembre.php">Coloquio Ago-Dic 2015</a>
                         </li>
                         <li role="separator" class="divider"></li>
                         <li>

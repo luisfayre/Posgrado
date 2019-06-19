@@ -42,7 +42,7 @@
                 <h1 style="text-align:center">MAESTRÍA EN SISTEMAS COMPUTACIONALES<br>Y<br> MAESTRÍA EN INGENIERÍA INDUSTRIAL</h1>
                 <br>
                 <p><b>Fechas</b>:
-                <li> Recepción de <a href="documentos/FSolIngresoMaestriaFSI-01.docx">solicitudes</a> ASPIRANTES: <b>15 de febrero  al  26 de mayo</b>, acudir al Instituto para completar y registrar la solicitud en oficinas de Posgrado ITCH II o enviarlas al correo posgrado@itchihuahuaii.edu.mx , incluir:
+                <li> Recepción de <a href="../documentos/FSolIngresoMaestriaFSI-01.docx">solicitudes</a> ASPIRANTES: <b>15 de febrero  al  26 de mayo</b>, acudir al Instituto para completar y registrar la solicitud en oficinas de Posgrado ITCH II o enviarlas al correo posgrado@itchihuahuaii.edu.mx , incluir:
                     <br> a) Carta de EXPOSICION DE MOTIVOS (por qué desea estudiar un posgrado).
                     <br> b) Dos cartas de RECOMENDACIÓN (de profesores de nivel licenciatura exclusivamente).</li>
                 <li>Asistir al curso taller “Preparación de la propuesta del tema de tesis” en las Instalaciones del ITCH II el día 9 de agosto del 2016 (cambio de fecha).</li>
@@ -55,8 +55,8 @@
                     <br>
                 </li>
                 <li>Examen de conocimientos: 27 de mayo.</li>
-                <a href="documentos/GuiaExamAdmonMII16-01.pdf" target="_blank">Guía para la Maestría de Ingeniería Industrial.</a>
-                <a href="documentos/GuiaExaConocmaestriaSC2.pdf" target="_blank">Guía para la Maestría de Sistemas Compuacionales.</a>
+                <a href="../documentos/GuiaExamAdmonMII16-01.pdf" target="_blank">Guía para la Maestría de Ingeniería Industrial.</a>
+                <a href="../documentos/GuiaExaConocmaestriaSC2.pdf" target="_blank">Guía para la Maestría de Sistemas Compuacionales.</a>
                 <li>Examen de inglés: 28 de mayo.</li>
                 <li>Entrevistas a candidatos de la Maestría en Ingeniería Industrial: 30 y 31 de Mayo.</li>
                 <li>Entrevistas a candidatos de la Maestría en Sistemas Computacionales: 1 y 2 de Junio.</li>

@@ -46,88 +46,88 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner" role="listbox">
                     <div class="item active ">
-                        <img src="img/toastmasters/1.jpg" alt="...">
+                        <img src="../img/toastmasters/1.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/2.jpg" alt="...">
+                        <img src="../img/toastmasters/2.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/3.jpg" alt="...">
+                        <img src="../img/toastmasters/3.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/4.jpg" alt="...">
+                        <img src="../img/toastmasters/4.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/5.jpg" alt="...">
+                        <img src="../img/toastmasters/5.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/6.jpg" alt="...">
+                        <img src="../img/toastmasters/6.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/7.jpg" alt="...">
+                        <img src="../img/toastmasters/7.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/8.jpg" alt="...">
+                        <img src="../img/toastmasters/8.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/9.jpg" alt="...">
+                        <img src="../img/toastmasters/9.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/10.jpg" alt="...">
+                        <img src="../img/toastmasters/10.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/11.jpg" alt="...">
+                        <img src="../img/toastmasters/11.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/12.jpg" alt="...">
+                        <img src="../img/toastmasters/12.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/13.jpg" alt="...">
+                        <img src="../img/toastmasters/13.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/14.jpg" alt="...">
+                        <img src="../img/toastmasters/14.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/15.jpg" alt="...">
+                        <img src="../img/toastmasters/15.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/16.jpg" alt="...">
+                        <img src="../img/toastmasters/16.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/17.jpg" alt="...">
+                        <img src="../img/toastmasters/17.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/18.jpg" alt="...">
+                        <img src="../img/toastmasters/18.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/19.jpg" alt="...">
+                        <img src="../img/toastmasters/19.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/20.jpg" alt="...">
+                        <img src="../img/toastmasters/20.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/21.jpg" alt="...">
+                        <img src="../img/toastmasters/21.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/22.jpg" alt="...">
+                        <img src="../img/toastmasters/22.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/23.jpg" alt="...">
+                        <img src="../img/toastmasters/23.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/24.jpg" alt="...">
+                        <img src="../img/toastmasters/24.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/25.jpg" alt="...">
+                        <img src="../img/toastmasters/25.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/26.jpg" alt="...">
+                        <img src="../img/toastmasters/26.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/27.jpg" alt="...">
+                        <img src="../img/toastmasters/27.jpg" alt="...">
                     </div>
                     <div class="item">
-                        <img src="img/toastmasters/28.jpg" alt="...">
+                        <img src="../img/toastmasters/28.jpg" alt="...">
                     </div>
                     Imagenes de las platicas Toastmasters
                 </div>
