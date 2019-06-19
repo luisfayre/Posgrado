@@ -179,7 +179,7 @@ require_once './includes/mensaje_dia.php';
                                 <div class="caption">
                                     <h2>Coloquio Diciembre 2017</h2>
                                     <p class="Estilo34" align="left">Aqui encontraras toda la información relacionada con el coloquio.</p>
-                                    <p class="Estilo34" align="left"><a href="coloquio_Dic-2017.php" class="rm">LEER NOTA</a></p>
+                                    <p class="Estilo34" align="left"><a href="noticias/2017-coloquio-agosto-diciembre.php" class="rm">LEER NOTA</a></p>
                                 </div>
                             </div>
                         </div>
@@ -199,7 +199,7 @@ require_once './includes/mensaje_dia.php';
                                 <div class="caption">
                                     <h2>Cuarta Jornada Académica</h2>
                                     <p class="Estilo34" align="left">Aqui encontraras toda la información relacionada con la cuarta jornada académica.</p>
-                                    <p class="Estilo34" align="left"><a href="jornadaAcad4ta.php" class="rm">LEER NOTA</a></p>
+                                    <p class="Estilo34" align="left"><a href="noticias/cuarta-jornada-academica.php" class="rm">LEER NOTA</a></p>
                                 </div>
                             </div>
                         </div>
