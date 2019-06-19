@@ -39,7 +39,7 @@ require_once './includes/mensaje_dia.php';
             }
         </style>
 
-        <title>ITCH II: DEPI División de estudios de posgrado e investigación</title>
+        <title>🎓 ITCH II: DEPI División de estudios de posgrado e investigación</title>
     </head>
 
     <body class="bodyIndex">
@@ -163,13 +163,13 @@ require_once './includes/mensaje_dia.php';
                         <hr> -->
                         <div class="col-md-12">
                             <div class="thumbnail text-left imagen-noticia">
-                                <a href="documentos/Información_Maestría-2019a.pdf">
+                                <a href="docs/Información_Maestría-2019a.pdf">
                                     <img src="img\pic08.jpg" alt="Maestria Sistemas Computacionales depi itchi ii" class="media-object img-responsive imgNewsZoom">
                                 </a>
                                 <div class="caption">
                                     <p class="titulo_noticia">Convocatoria Maestrías 2019-1</p>
                                     <p class="Estilo34" align="left">Aqui encontraras toda la información relacionada con la Convocatoria de Maestrías</p>
-                                    <p class="Estilo34" align="left"><a href="documentos/Información_Maestría-2019a.pdf" class="rm">LEER NOTA</a></p>
+                                    <p class="Estilo34" align="left"><a href="docs/Información_Maestría-2019a.pdf" class="rm">LEER NOTA</a></p>
                                 </div>
                             </div>
                         </div>
