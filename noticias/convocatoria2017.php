@@ -22,9 +22,9 @@
     </head>
 
     <body class="bodyIndex">
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
+        <a id="ddmenuHeader" href="header_depi.html"></a>
         <!--Barra de navegacion-->
-        <a id="ddmenuLink" href="barraDEPI.html"></a>
+        <a id="ddmenuLink" href="navbar_depi.html"></a>
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">

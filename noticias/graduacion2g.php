@@ -22,9 +22,9 @@
         <script src="js/ddmenu.js" type="text/javascript"></script>
     </head>
     <body class="bodyIndex">
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
+        <a id="ddmenuHeader" href="header_depi.html"></a>
         <!--Barra de navegacion-->
-        <a id="ddmenuLink" href="barraDEPI.html"></a>
+        <a id="ddmenuLink" href="navbar_depi.html"></a>
         <!--Fin de menú-->
         <!-- Texto, fotos, slider, etc. -->
         <div class="container" style="text-align:justify;">

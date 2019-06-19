@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -20,17 +21,21 @@
         <title>Coloquio</title>
         <script src="js/ddmenu.js" type="text/javascript"></script>
     </head>
+
     <body class="bodyIndex">
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
+        <a id="ddmenuHeader" href="header_depi.html"></a>
         <!--Barra de navegacion-->
-        <a id="ddmenuLink" href="barraDEPI.html"></a>
+        <a id="ddmenuLink" href="navbar_depi.html"></a>
+
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2>COLOQUIO AGO-DIC 2016</h2>
+                    <h2><big>Coloquio Diciembre 2017</big></h2>
                 </div>
             </div>
-            <p style="text-align:center">Maestría en Sistemas Computacionales.</p>
+            <hr>
+            <br>
+            <p style="text-align:center"><b>Maestría en Sistemas Computacionales.</b></p>
             <div class="row ">
                 <div class="row ">
                     <div class="col-md-12">
@@ -47,38 +52,86 @@
                                 <li data-target="#carousel-example-generic1" data-slide-to="7"></li>
                                 <li data-target="#carousel-example-generic1" data-slide-to="8"></li>
                                 <li data-target="#carousel-example-generic1" data-slide-to="9"></li>
+                                <li data-target="#carousel-example-generic1" data-slide-to="10"></li>
+                                <li data-target="#carousel-example-generic1" data-slide-to="11"></li>
+                                <li data-target="#carousel-example-generic1" data-slide-to="12"></li>
+                                <li data-target="#carousel-example-generic1" data-slide-to="13"></li>
+                                <li data-target="#carousel-example-generic1" data-slide-to="14"></li>
+                                <li data-target="#carousel-example-generic1" data-slide-to="15"></li>
+                                <li data-target="#carousel-example-generic1" data-slide-to="16"></li>
+                                <li data-target="#carousel-example-generic1" data-slide-to="17"></li>
+                                <li data-target="#carousel-example-generic1" data-slide-to="18"></li>
+                                <li data-target="#carousel-example-generic1" data-slide-to="19"></li>
+                                <li data-target="#carousel-example-generic1" data-slide-to="20"></li>
+                                <li data-target="#carousel-example-generic1" data-slide-to="21"></li>
                             </ol>
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner" role="listbox" style="width:100%; height:100%">
                                 <div class="item active ">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Sistemas/1.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/1.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Sistemas/2.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/2.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Sistemas/3.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/3.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Sistemas/4.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/4.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Sistemas/5.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/5.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Sistemas/6.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/6.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Sistemas/7.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/7.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Sistemas/8.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/8.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Sistemas/9.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/9.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Sistemas/10.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/10.jpg" alt="...">
+                                </div>
+                                <div class="item">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/11.jpg" alt="...">
+                                </div>
+                                <div class="item">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/12.jpg" alt="...">
+                                </div>
+                                <div class="item">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/13.jpg" alt="...">
+                                </div>
+                                <div class="item">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/14.jpg" alt="...">
+                                </div>
+                                <div class="item">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/15.jpg" alt="...">
+                                </div>
+                                <div class="item">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/16.jpg" alt="...">
+                                </div>
+                                <div class="item">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/17.jpg" alt="...">
+                                </div>
+                                <div class="item">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/18.jpg" alt="...">
+                                </div>
+                                <div class="item">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/19.jpg" alt="...">
+                                </div>
+                                <div class="item">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/20.jpg" alt="...">
+                                </div>
+                                <div class="item">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/21.jpg" alt="...">
+                                </div>
+                                <div class="item">
+                                    <img src="img/Coloqui_Dic-2017/Sistemas/22.jpg" alt="...">
                                 </div>
                             </div>
                             <!-- Controls -->
@@ -95,8 +148,10 @@
                     <br>
                 </div>
                 <br>
+                <hr>
+                <br>
             </div>
-            <p style="text-align:center";>Maestría en Ingeniería Industrial. (Chihuahua)</p>
+            <p style="text-align:center"><b>Maestría en Ingeniería Industrial.</b></p>
             <div class="row ">
                 <div class="row ">
                     <div class="col-md-12">
@@ -120,67 +175,59 @@
                                 <li data-target="#carousel-example-generic2" data-slide-to="14"></li>
                                 <li data-target="#carousel-example-generic2" data-slide-to="15"></li>
                                 <li data-target="#carousel-example-generic2" data-slide-to="16"></li>
-                                <li data-target="#carousel-example-generic2" data-slide-to="17"></li>
-                                <li data-target="#carousel-example-generic2" data-slide-to="18"></li>
                             </ol>
                             <!-- Wrapper for slides -->
-                            <div class="carousel-inner" role="listbox" style="width: 100%; height: 100%">
+                            <div class="carousel-inner" role="listbox" style="width:100%; height:100%">
                                 <div class="item active ">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/1.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/1.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/2.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/2.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/3.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/3.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/4.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/4.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/5.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/5.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/6.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/6.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/7.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/7.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/8.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/8.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/9.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/9.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/10.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/10.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/11.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/11.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/12.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/12.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/13.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/13.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/14.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/14.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/15.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/15.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/16.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/16.jpg" alt="...">
                                 </div>
                                 <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/17.jpg" alt="...">
-                                </div>
-                                <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/18.jpg" alt="...">
-                                </div>
-                                <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Ind_Chi/19.jpg" alt="...">
+                                    <img src="img/Coloqui_Dic-2017/Industrial/17.jpg" alt="...">
                                 </div>
                             </div>
                             <!-- Controls -->
@@ -199,90 +246,19 @@
                 <br>
             </div>
             <br><br><br>
-            <p style="text-align:center;">Maestría de Alumnos de Parral.</p>
-            <div class="row ">
-                <div class="row ">
-                    <div class="col-md-12">
-                        <div id="carousel-example-generic3" class="carousel slide slide col-md-offset-3 col-md-6 text-center" data-ride="carousel">
-                            <!-- Indicators -->
-                            <ol class="carousel-indicators">
-                                <li data-target="#carousel-example-generic3" data-slide-to="0" class="active"></li>
-                                <li data-target="#carousel-example-generic3" data-slide-to="1"></li>
-                                <li data-target="#carousel-example-generic3" data-slide-to="2"></li>
-                                <li data-target="#carousel-example-generic3" data-slide-to="3"></li>
-                                <li data-target="#carousel-example-generic3" data-slide-to="4"></li>
-                                <li data-target="#carousel-example-generic3" data-slide-to="5"></li>
-                                <li data-target="#carousel-example-generic3" data-slide-to="6"></li>
-                                <li data-target="#carousel-example-generic3" data-slide-to="7"></li>
-                                <li data-target="#carousel-example-generic3" data-slide-to="8"></li>
-                                <li data-target="#carousel-example-generic3" data-slide-to="9"></li>
-                                <li data-target="#carousel-example-generic3" data-slide-to="10"></li>
-                            </ol>
-                            <!-- Wrapper for slides -->
-                            <div class="carousel-inner" role="listbox" style="width:100%; height:100%">
-                                <div class="item active ">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Parral/1.jpg" alt="...">
-                                </div>
-                                <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Parral/2.jpg" alt="...">
-                                </div>
-                                <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Parral/3.jpg" alt="...">
-                                </div>
-                                <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Parral/4.jpg" alt="...">
-                                </div>
-                                <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Parral/5.jpg" alt="...">
-                                </div>
-                                <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Parral/6.jpg" alt="...">
-                                </div>
-                                <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Parral/7.jpg" alt="...">
-                                </div>
-                                <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Parral/8.jpg" alt="...">
-                                </div>
-                                <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Parral/9.jpg" alt="...">
-                                </div>
-                                <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Parral/10.jpg" alt="...">
-                                </div>
-                                <div class="item">
-                                    <img src="img/Coloquio_Ago-Dic-2016/Parral/11.jpg" alt="...">
-                                </div>
-                            </div>
-                            <!-- Controls -->
-                            <a class="left carousel-control" href="#carousel-example-generic3" role="button" data-slide="prev">
-                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                                <span class="sr-only">Previous</span>
-                            </a>
-                            <a class="right carousel-control" href="#carousel-example-generic3" role="button" data-slide="next">
-                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                                <span class="sr-only">Next</span>
-                            </a>
-                        </div><br>
-                    </div>
-                    <br>
-                </div>
-                <br>
-            </div>
         </div>
-        <
-        <div class="container">
 
-            <?php
-            require_once 'includes/reciente.php';
-            ?>
 
-            <?php
-            require_once 'includes/footer.php';
-            ?>
 
-        </div>
+        <?php
+        require_once './includes/reciente.php';
+        ?>
+        <?php
+        require_once './includes/footer.php';
+        ?>
+
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
     </body>
+
 </html>

@@ -23,9 +23,9 @@
     </head>
 
     <body class="bodyIndex">
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
+        <a id="ddmenuHeader" href="header_depi.html"></a>
         <!--Barra de navegacion-->
-        <a id="ddmenuLink" href="barraDEPI.html"></a>
+        <a id="ddmenuLink" href="navbar_depi.html"></a>
         <div class="col-md-12">
             <div id="carousel-example-generic" class="carousel slide slide col-md-offset-3 col-md-6 text-center" data-ride="carousel">
                 <!-- Indicators -->
