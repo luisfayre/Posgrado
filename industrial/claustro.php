@@ -9,24 +9,25 @@
         <!-- Estilos-->
         <link rel="stylesheet" href="../css/style_tec.css">
         <link rel="stylesheet" href="../css/index.css">
-        <!-- Funete-->
-        <link rel="stylesheet" href="../css/font-awesome.css">
         <!-- Scripts-->
         <script src="../js/jquery.js"></script>
         <script src="../js/bootstrap.min.js"></script>
-        <script src="../js/javascript.js"></script>
-        <script type="text/javascript" src="../js/jquery.slidepanel.js"></script>
-        <link rel="stylesheet" type="text/css" href="../css/jquery.slidepanel.css">
 
         <title>Claustro Profesores de Industrial</title>
-        <script src="../js/ddmenu.js" type="text/javascript"></script>
     </head>
 
     <body class="bodyIndex">
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
-        <!--Barra de navegacion-->
-        <a id="ddmenuLink2" href="barraMIndust.html"></a>
-        <!-- Aquí termina la sección de menú e imagenes de DEPI.-->
+        <!--Header-->
+        <?php
+        require_once 'includes/header.php';
+        ?>
+        <!--Navbar-->
+        <div class="container">
+            <?php
+            require_once 'includes/navbar_industrial.php';
+            ?>
+        </div>
+
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -47,7 +48,7 @@
                 <div class="media marcos thumbnail">
                     <div class="media-left media-middle">
                         <a href="#">
-                            <img class="media-object" src="img/cv/ontiveroz (copia).jpg" alt="Ontiveros">
+                            <img class="media-object" src="../img/cv/ontiveroz (copia).jpg" alt="Ontiveros">
                         </a>
                     </div>
                     <div class="media-body">
@@ -75,7 +76,7 @@
                 <div class="media marcos thumbnail">
                     <div class="media-left media-middle">
                         <a href="#">
-                            <img class="media-object" src="img/cv/paty.jpg" alt="García">
+                            <img class="media-object" src="../img/cv/paty.jpg" alt="García">
                         </a>
                     </div>
                     <div class="media-body">
@@ -100,7 +101,7 @@
             <div class="media marcos thumbnail">
                 <div class="media-left media-middle">
                     <a href="#">
-                        <img class="media-object" src="img/cv/makita.jpg" alt="Makita">
+                        <img class="media-object" src="../img/cv/makita.jpg" alt="Makita">
                     </a>
                 </div>
                 <div class="media-body">
@@ -124,7 +125,7 @@
             <div class="media marcos thumbnail">
                 <div class="media-left media-middle">
                     <a href="#">
-                        <img class="media-object" src="img/cv/amaya (copia).jpg" alt="Amaya">
+                        <img class="media-object" src="../img/cv/amaya (copia).jpg" alt="Amaya">
                     </a>
                 </div>
                 <div class="media-body">
@@ -156,7 +157,7 @@
             <div class="media marcos thumbnail">
                 <div class="media-left media-middle">
                     <a href="#">
-                        <img class="media-object" src="img/cv/gonzalesn.jpg" alt="González" width=100 height=162>
+                        <img class="media-object" src="../img/cv/gonzalesn.jpg" alt="González" width=100 height=162>
                     </a>
                 </div>
                 <div class="media-body">
@@ -175,7 +176,7 @@
             <div class="media marcos thumbnail">
                 <div class="media-left media-middle">
                     <a href="#">
-                        <img class="media-object" src="img/cv/escarcega.jpg" alt="Escarcega" width=100 height=162>
+                        <img class="media-object" src="../img/cv/escarcega.jpg" alt="Escarcega" width=100 height=162>
                     </a>
                 </div>
                 <div class="media-body">
@@ -194,7 +195,7 @@
             <div class="media marcos thumbnail">
                 <div class="media-left media-middle">
                     <a href="#">
-                        <img class="media-object" src="img/cv/Antonia.jpg" alt="Ortega" width=100 height=162>
+                        <img class="media-object" src="../img/cv/Antonia.jpg" alt="Ortega" width=100 height=162>
                     </a>
                 </div>
                 <div class="media-body">
@@ -214,7 +215,7 @@
             <div class="media marcos thumbnail">
                 <div class="media-left media-middle">
                     <a href="#">
-                        <img class="media-object" src="img/cv/velia.jpg" alt="Ruiz" width=100 height=162>
+                        <img class="media-object" src="../img/cv/velia.jpg" alt="Ruiz" width=100 height=162>
                     </a>
                 </div>
                 <div class="media-body">
@@ -232,21 +233,21 @@
                 </div>
             </div>
         </div>
-    </div>
 
-    <div class="container">
-        <!-- Noticas-->
+        <div class="container">
+            <!-- Noticas-->
 
-        <?php
-        require_once 'includes/reciente.php';
-        ?>
-        <!--Pie de pagina-->
-        <?php
-        require_once 'includes/footer.php';
-        ?>
-    </div> 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
-</body>
+            <?php
+            require_once 'includes/reciente.php';
+            ?>
+            <!--Pie de pagina-->
+            <?php
+            require_once 'includes/footer.php';
+            ?>
+        </div> 
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
+    </body>
 
 </html>

@@ -5,27 +5,29 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Bootstrap-->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
         <!-- Estilos-->
-        <link rel="stylesheet" href="css/style_tec.css">
-        <link rel="stylesheet" href="css/index.css">
-        <!-- Funete-->
-        <link rel="stylesheet" href="css/font-awesome.css">
+        <link rel="stylesheet" href="../css/style_tec.css">
+        <link rel="stylesheet" href="../css/index.css">
         <!-- Scripts-->
-        <script src="js/jquery.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/javascript.js"></script>
-        <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
-        <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
+        <script src="../js/jquery.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
 
         <title>Nucleo</title>
-        <script src="js/ddmenu.js" type="text/javascript"></script>
     </head>
 
     <body class="bodyIndex">
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
-        <!--Barra de navegacion-->
-        <a id="ddmenuLink2" href="barraMIndust.html"></a>
+        <!--Header-->
+        <?php
+        require_once 'includes/header.php';
+        ?>
+        <!--Navbar-->
+        <div class="container">
+            <?php
+            require_once 'includes/navbar_industrial.php';
+            ?>
+        </div>
+        
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -43,7 +45,7 @@
                 <div class="media marcos thumbnail">
                     <div class="media-left media-middle">
                         <a href="#">
-                            <img class="media-object" src="img/cv/ontiveroz (copia).jpg" alt="Ontiveros">
+                            <img class="media-object" src="../img/cv/ontiveroz (copia).jpg" alt="Ontiveros">
                         </a>
                     </div>
                     <div class="media-body">
@@ -67,7 +69,7 @@
                 <div class="media marcos thumbnail">
                     <div class="media-left media-middle">
                         <a href="#">
-                            <img class="media-object" src="img/cv/paty.jpg" alt="García">
+                            <img class="media-object" src="../img/cv/paty.jpg" alt="García">
                         </a>
                     </div>
                     <div class="media-body">
@@ -92,7 +94,7 @@
             <div class="media marcos thumbnail">
                 <div class="media-left media-middle">
                     <a href="#">
-                        <img class="media-object" src="img/cv/makita.jpg" alt="Makita">
+                        <img class="media-object" src="../img/cv/makita.jpg" alt="Makita">
                     </a>
                 </div>
                 <div class="media-body">
@@ -116,7 +118,7 @@
             <div class="media marcos thumbnail">
                 <div class="media-left media-middle">
                     <a href="#">
-                        <img class="media-object" src="img/cv/amaya (copia).jpg" alt="Amaya">
+                        <img class="media-object" src="../img/cv/amaya (copia).jpg" alt="Amaya">
                     </a>
                 </div>
                 <div class="media-body">
@@ -135,7 +137,7 @@
             <div class="media marcos thumbnail">
                 <div class="media-left media-middle">
                     <a href="#">
-                        <img class="media-object" src="img/cv/Antonia.jpg" alt="Ortega" width=100 height=162>
+                        <img class="media-object" src="../img/cv/Antonia.jpg" alt="Ortega" width=100 height=162>
                     </a>
                 </div>
                 <div class="media-body">
@@ -155,7 +157,7 @@
             <div class="media marcos thumbnail">
                 <div class="media-left media-middle">
                     <a href="#">
-                        <img class="media-object" src="img/cv/velia.jpg" alt="Ruiz" width=100 height=162>
+                        <img class="media-object" src="../img/cv/velia.jpg" alt="Ruiz" width=100 height=162>
                     </a>
                 </div>
                 <div class="media-body">

@@ -5,33 +5,35 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Bootstrap-->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
         <!-- Estilos-->
-        <link rel="stylesheet" href="css/style_tec.css">
-        <link rel="stylesheet" href="css/index.css">
-        <!-- Funete-->
-        <link rel="stylesheet" href="css/font-awesome.css">
+        <link rel="stylesheet" href="../css/style_tec.css">
+        <link rel="stylesheet" href="../css/index.css">
         <!-- Scripts-->
-        <script src="js/jquery.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/javascript.js"></script>
-        <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
-        <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
+        <script src="../js/jquery.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
 
-        <title>Perfil</title>
-        <script src="js/ddmenu.js" type="text/javascript"></script>
+        <title>Perfil Maestría en Ingeniería Industrial</title>
     </head>
 
     <body class="bodyIndex">
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
-        <!--Barra de navegacion-->
-        <a id="ddmenuLink2" href="barraMIndust.html"></a>
+        <!--Header-->
+        <?php
+        require_once 'includes/header.php';
+        ?>
+        <!--Navbar-->
+        <div class="container">
+            <?php
+            require_once 'includes/navbar_industrial.php';
+            ?>
+        </div>
+
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2>
-                        PERFIL DE EGRESO
-                    </h2>
+                    <h1 class="principal">
+                        Perfil De Egreso
+                    </h1>
                 </div>
             </div>
             <div class="row bloque">
@@ -94,20 +96,22 @@
                         herramientas para el confort físico y funcional de los trabajadores.
                         <br>
                     </p>
-                    <h3>Campos de acción</h3>
-                    <span class="glyphicon glyphicon-ok"></span>Estar presente en el centro de la organización,
+
+                    <h2>Campos de acción</h2>
+
+                    <span class="glyphicon glyphicon-ok"> </span>Estar presente en el centro de la organización,
                     desarrollándose en las áreas de gestión empresarial, producción, logística, calidad y recursos humanos,
                     entre otras. Su formación le permite llegar a ser Líder de Proyecto, Gerente o Director de estas áreas,
                     además de poder alcanzar la Dirección General, ser un Consultor de Empresas o bien formar la suya
                     propia. El Ingeniero Industrial es el verdadero enlace entre la tecnología y la dirección de la empresa.
                     <br>
-                    <span class="glyphicon glyphicon-ok"></span>La visión global de las empresas, además de la habilidad en
+                    <span class="glyphicon glyphicon-ok"> </span>La visión global de las empresas, además de la habilidad en
                     la administración de procesos, hace que el campo de acción del Ingeniero Industrial sea ilimitado. Éste
                     puede ser parte de todo sistema donde se requiera producir bienes o servicios en la cantidad, calidad y
                     precio que demande el mercado o los clientes de una empresa, con sentido de productividad y
                     competitividad.
                     <br>
-                    <span class="glyphicon glyphicon-ok"></span>Formar parte del equipo en empresas de manufactura,
+                    <span class="glyphicon glyphicon-ok"> </span>Formar parte del equipo en empresas de manufactura,
                     hospitales, instituciones financieras, organismos de gobierno, compañías de seguros, organizaciones
                     comerciales, hoteles y cadenas de restaurantes, líneas aéreas y de transporte en general, centros de
                     entretenimiento y otros más. Estas empresas tienen en común que trabajan con y para la gente, a través
@@ -128,7 +132,7 @@
             require_once 'includes/footer.php';
             ?>
         </div> 
-        
+
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
         <script>

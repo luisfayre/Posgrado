@@ -5,27 +5,30 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Bootstrap-->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
         <!-- Estilos-->
-        <link rel="stylesheet" href="css/style_tec.css">
-        <link rel="stylesheet" href="css/index.css">
-        <!-- Funete-->
-        <link rel="stylesheet" href="css/font-awesome.css">
+        <link rel="stylesheet" href="../css/style_tec.css">
+        <link rel="stylesheet" href="../css/index.css">
         <!-- Scripts-->
-        <script src="js/jquery.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/javascript.js"></script>
-        <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
-        <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
+        <script src="../js/jquery.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
 
         <title>Procesos Administrativos</title>
         <script src="js/ddmenu.js" type="text/javascript"></script>
     </head>
 
     <body class="bodyIndex">
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
-        <!--Barra de navegacion-->
-        <a id="ddmenuLink2" href="barraMIndust.html"></a>
+        <!--Header-->
+        <?php
+        require_once 'includes/header.php';
+        ?>
+        <!--Navbar-->
+        <div class="container">
+            <?php
+            require_once 'includes/navbar_industrial.php';
+            ?>
+        </div>
+
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -37,7 +40,7 @@
             </div>
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-12">
-                    <img class="img-responsive" src="img/organigrama/procesos_administrativos_organigrama.png" alt="Organigrama de División de Estudios de Posgrado e Investigación">
+                    <img class="img-responsive" src="../img/organigrama/procesos_administrativos_organigrama.png" alt="Organigrama de División de Estudios de Posgrado e Investigación">
                 </div>
             </div>
             <div class="row">
@@ -48,7 +51,7 @@
             </div>
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-12">
-                    <img class="img-responsive" src="img/organigrama/comite_procesos_administrativos.png" alt="Organigrama del Comité Institucional de Posgrado e Investigación">
+                    <img class="img-responsive" src="../img/organigrama/comite_procesos_administrativos.png" alt="Organigrama del Comité Institucional de Posgrado e Investigación">
                 </div>
             </div>
             <!--div class="row bloque">
@@ -70,7 +73,7 @@
             </div-->
 
             <?php
-            require_once 'includes/coordinadores_maestria.php';
+            require_once 'includes/coordinadores.php';
             ?>
 
         </div>
@@ -88,15 +91,6 @@
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag() {
-                dataLayer.push(arguments);
-            }
-            gtag('js', new Date());
-
-            gtag('config', 'UA-141677500-1');
-        </script>
     </body>
 
 </html>
