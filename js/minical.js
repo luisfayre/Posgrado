@@ -5,7 +5,7 @@ $(document).ready(function() {
     }
     window.addEventListener('blur', function() {
         if (myConfObj.iframeMouseOver) {
-            window.top.location.href = "fullcalendario.html"
+            window.top.location.href = "calendario.php"
         }
     });
 
