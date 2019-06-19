@@ -16,7 +16,6 @@
         <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
         <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
         <title>Misión y Visión</title>
-        <script src="js/ddmenu.js" type="text/javascript"></script>
 
         <meta name="description" content="🎓 Contribuir a la formación del capital humano analítico, creativo, ético y competitivo, con una óptica
               global, responsabilidad social y congruencia con las necesidades del entorno.">
@@ -25,9 +24,16 @@
     </head>
 
     <body class="bodyIndex">
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
-        <!--Barra de navegacion-->
-        <a id="ddmenuLink" href="barraDEPI.html"></a>
+        <!--Header-->
+        <?php
+        require_once 'includes/header_depi.php';
+        ?>
+        <!--Navbar-->
+        <div class="container">
+            <?php
+            require_once 'includes/navbar_depi.php';
+            ?>
+        </div>
         <div class="container" style="text-align:justify;">
 
         </div>

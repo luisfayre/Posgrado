@@ -63,12 +63,15 @@ require_once './includes/mensaje_dia.php';
         }
         ?>
 
-        <!-- Hearder -->
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
-        <!-- <a id="ddmenuHeader" href="headerDEPI.html"></a> -->
-        <!-- <iframe src='headerDEPI.html' width='100%' height='100%'></iframe> -->
-        <!--Menus-->
-        <a id="ddmenuLink" href="barraDEPI.html"></a>
+        <?php
+        require_once 'includes/header_depi.php';
+        ?>
+        <!--Navbar-->
+        <div class="container">
+            <?php
+            require_once 'includes/navbar_depi.php';
+            ?>
+        </div>
 
         <!-- SLIDERS -->
         <div class="container text-center">

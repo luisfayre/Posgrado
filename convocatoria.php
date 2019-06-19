@@ -20,19 +20,18 @@
 
 
         <title>Convocatoria 2020-1</title>
-
-        <script src="js/ddmenu.js" type="text/javascript"></script>
-
     </head>
 
     <body class="bodyIndex">
-
+        <?php
+        require_once 'includes/header_depi.php';
+        ?>
+        <!--Navbar-->
         <div class="container">
-            <a id="ddmenuHeader" href="headerDEPI.html"></a>
+            <?php
+            require_once 'includes/navbar_depi.php';
+            ?>
         </div>
-
-        <!--Barra de navegacion-->
-        <a id="ddmenuLink" href="barraDEPI.html"></a>
 
 
         <!-- Informacion Convocatoria -->
@@ -216,7 +215,7 @@
                                     Dominar el idioma inglés (contar con 540 puntos de TOFEL).
                                 </li> 
                             </div>
-                            
+
                             <br>
                         </div>
                     </div>
@@ -277,15 +276,6 @@
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag() {
-                dataLayer.push(arguments);
-            }
-            gtag('js', new Date());
-
-            gtag('config', 'UA-141677500-1');
-        </script>
     </body>
 
 </html>

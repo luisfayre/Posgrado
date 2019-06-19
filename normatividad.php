@@ -19,13 +19,19 @@
         <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
         <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
         <title>Normatividad</title>
-        <script src="js/ddmenu.js" type="text/javascript"></script>
     </head>
 
     <body class="bodyIndex">
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
-        <!--Barra de navegacion-->
-        <a id="ddmenuLink" href="barraDEPI.html"></a>
+        <?php
+        require_once 'includes/header_depi.php';
+        ?>
+        <!--Navbar-->
+        <div class="container">
+            <?php
+            require_once 'includes/navbar_depi.php';
+            ?>
+        </div>
+
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -120,7 +126,6 @@
             </div>
         </div>
         <!--Pie de pagina-->
-        <iframe scrolling="no" frameborder=0 src='footerDEPI.html' width='100%' height='350px'></iframe>
         <div class="modal fade" id="sistemasModal" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -212,6 +217,16 @@
             <!-- /.modal-dialog -->
         </div>
         <!-- /.modal -->
+
+        <div class="container">
+            <?php
+            require_once 'includes/reciente.php';
+            ?>
+
+            <?php
+            require_once 'includes/footer.php';
+            ?>
+        </div>
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>

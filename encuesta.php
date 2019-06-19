@@ -19,13 +19,19 @@
         <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
 
         <title>M.Insdutrial</title>
-        <script src="js/ddmenu.js" type="text/javascript"></script>
     </head>
 
     <body class="bodyIndex">
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
-        <!--Barra de navegacion-->
-        <a id="ddmenuLink2" href="barraDEPI.html"></a>
+        <?php
+        require_once 'includes/header_depi.php';
+        ?>
+        <!--Navbar-->
+        <div class="container">
+            <?php
+            require_once 'includes/navbar_depi.php';
+            ?>
+        </div>
+
         <div class="container text-center">
             <h2>Favor de enviarlo al correo:</h2>
             <h3>ciiit@itchihuahuaii.edu.mx</h3>
