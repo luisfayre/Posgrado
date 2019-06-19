@@ -9,23 +9,25 @@
         <!-- Estilos-->
         <link rel="stylesheet" href="../css/style_tec.css">
         <link rel="stylesheet" href="../css/index.css">
-        <!-- Funete-->
-        <link rel="stylesheet" href="../css/font-awesome.css">
         <!-- Scripts-->
         <script src="../js/jquery.js"></script>
         <script src="../js/bootstrap.min.js"></script>
-        <script src="../js/javascript.js"></script>
-        <script type="text/javascript" src="../js/jquery.slidepanel.js"></script>
-        <link rel="stylesheet" type="text/css" href="../css/jquery.slidepanel.css">
 
         <title>Tutoria</title>
-        <script src="../js/ddmenu.js" type="text/javascript"></script>
     </head>
 
     <body class="bodyIndex">
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
-        <!--Barra de navegacion-->
-        <a id="ddmenuLink2" href="barraMSist.html"></a>
+        <!--Header-->
+        <?php
+        require_once 'includes/header.php';
+        ?>
+        <!--Navbar-->
+        <div class="container">
+            <?php
+            require_once 'includes/navbar_sistemas.php';
+            ?>
+        </div>
+
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">

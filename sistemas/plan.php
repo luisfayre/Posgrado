@@ -5,22 +5,15 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Bootstrap-->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
         <!-- Estilos-->
-        <link rel="stylesheet" href="css/style_tec.css">
-        <link rel="stylesheet" href="css/index.css">
-        <!-- Funete-->
-        <link rel="stylesheet" href="css/font-awesome.css">
+        <link rel="stylesheet" href="../css/style_tec.css">
+        <link rel="stylesheet" href="../css/index.css">
         <!-- Scripts-->
-        <script src="js/jquery.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/javascript.js"></script>
-        <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
-        <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
+        <script src="../js/jquery.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
 
         <title>Plan de Estudios</title>
-        <script src="js/ddmenu.js" type="text/javascript"></script>
-
 
         <meta name="description" content="🎓 El programa de la maestría, está diseñado bajo los “Lineamientos para la Elaboración del Programa de Desarrollo para la Apertura de Programas de Maestría y Especialización en el Sistema Nacional de Educación Superior Tecnológica”">
         <meta name="keywords" content="ITCHI II,DEPI,Chihuhua,plan de estudios, maestría en sistemas computacionales,sistemas computacionales">
@@ -28,9 +21,16 @@
     </head>
 
     <body class="bodyIndex">
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
-        <!--Barra de navegacion-->
-        <a id="ddmenuLink2" href="barraMSist.html"></a>
+        <!--Header-->
+        <?php
+        require_once 'includes/header.php';
+        ?>
+        <!--Navbar-->
+        <div class="container">
+            <?php
+            require_once 'includes/navbar_sistemas.php';
+            ?>
+        </div>
 
         <div class="container" style="text-align:justify;">
 
@@ -46,7 +46,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-9 col-md-offset-2">
-                            <a href="img/sistemas/plan_estudios/plan_estudios_sistemas.png">
+                            <a href="../img/sistemas/plan_estudios/plan_estudios_sistemas.png">
                                 <img class="img-responsive" src="img/sistemas/plan_estudios/plan_estudios_sistemas.png" alt="plan de estudios maestría en sistemas computacionales">
                             </a>
 

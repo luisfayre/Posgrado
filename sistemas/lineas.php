@@ -5,30 +5,32 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Bootstrap-->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
         <!-- Estilos-->
-        <link rel="stylesheet" href="css/style_tec.css">
-        <link rel="stylesheet" href="css/index.css">
-        <!-- Funete-->
-        <link rel="stylesheet" href="css/font-awesome.css">
+        <link rel="stylesheet" href="../css/style_tec.css">
+        <link rel="stylesheet" href="../css/index.css">
         <!-- Scripts-->
-        <script src="js/jquery.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/javascript.js"></script>
-        <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
-        <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
+        <script src="../js/jquery.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
 
         <title>Líneas de investigación</title>
-        <script src="js/ddmenu.js" type="text/javascript"></script>
 
         <meta name="description" content="🎓 Desarrolla competencias específicas de creación de productos de software utilizando tecnologías de objetos de aprendizaje, e-learning, inteligencia artificial y almacenamiento y recuperación de conocimiento, que ofrecen las ciencias computacionales." <meta name="keywords" content="ITCHI II,DEPI,sistemas inteligentes, Posgrado ITCHI II,Posgrado,tecnologías aplicadas,educación,Chihuhua,Maestria">
         <meta name="author" content="DEPI Instituto Tecnologico de Chihuahua II">
     </head>
 
     <body class="bodyIndex">
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
-        <!--Barra de navegacion-->
-        <a id="ddmenuLink2" href="barraMSist.html"></a>
+        <!--Header-->
+        <?php
+        require_once 'includes/header.php';
+        ?>
+        <!--Navbar-->
+        <div class="container">
+            <?php
+            require_once 'includes/navbar_sistemas.php';
+            ?>
+        </div>
+
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -42,7 +44,7 @@
             </div>
             <div class="row">
                 <div class="col-md-6 col-sm-12">
-                    <img src="img/sistemas/lineas_investigacion/tecnologias_aplicadas_educacion.jpg"  alt="Tecnologías Aplicadas a la Educación" class="img-responsive">
+                    <img src="../img/sistemas/lineas_investigacion/tecnologias_aplicadas_educacion.jpg"  alt="Tecnologías Aplicadas a la Educación" class="img-responsive">
                     <section class="box">
                         <header>
                             <h3>LGAC: Tecnologías Aplicadas a la Educación
@@ -55,7 +57,7 @@
                 </div>
 
                 <div class="col-md-6 col-sm-12">
-                    <img src="img/sistemas/lineas_investigacion/sistemas_inteligentes.jpg" alt="Sistemas Inteligentes" class="img-responsive">
+                    <img src="../img/sistemas/lineas_investigacion/sistemas_inteligentes.jpg" alt="Sistemas Inteligentes" class="img-responsive">
                     <section class="box">
                         <header>
                             <br>

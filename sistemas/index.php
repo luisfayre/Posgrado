@@ -151,8 +151,8 @@
                         <br>
 
                         <div class="text-center" style="text-align: center"> 
-                            <img id=logoresp src="img/imagen3.1.png"
-                                 class="img-responsive" alt="Responsive image"> 
+                            <img id=logoresp src="../img/proceso_admision.png"
+                                 class="img-responsive" alt="Proceso de admisión maestría en sistemas"> 
                         </div>
 
 
