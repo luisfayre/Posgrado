@@ -14,7 +14,6 @@
         <script src="../js/bootstrap.min.js"></script>
 
         <title>Lineas</title>
-        <script src="js/ddmenu.js" type="text/javascript"></script>
     </head>
 
     <body class="bodyIndex">

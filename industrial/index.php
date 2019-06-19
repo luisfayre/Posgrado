@@ -168,7 +168,7 @@
                                         <br>
                                         <br>
                                         <br>
-                                        <div class="col-lg-offset-3 col-lg-6 text-center"> <img id=logoresp src="img/imagen3.1.png" class="img-responsive" alt="Responsive image"> </div>
+                                        <div class="col-lg-offset-3 col-lg-6 text-center"> <img id=logoresp src="../img/proceso_admision.png" class="img-responsive" alt="Proceso de admisión maestría en industrial"> </div>
 
                                     </div>
 
@@ -246,15 +246,6 @@
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag() {
-                dataLayer.push(arguments);
-            }
-            gtag('js', new Date());
-
-            gtag('config', 'UA-141677500-1');
-        </script>
     </body>
 
 </html>
