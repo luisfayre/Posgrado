@@ -1,14 +1,7 @@
 Root
 +-- Archivos viejos
-    +-- css               // Base styles. Styles placed here should be available anywhere in the application     
-        +-- bootstrap-custom // Custom styles that overwrite bootstrap
-        +-- custom           // Custom styles created for the application
-        +-- demos            // Demos to illustrate styles and interactions for the style guide
-        +-- fonts           
-        +-- img              // Images used ONLY in stylesheets
-        +-- variables        // Variables used in the custom theme
-        +-- styles.less      // Imports of all the base stylesheets
-     
-    +-- components
-        +-- alerts       
-            +-- alert.less   // Custom styles for the alert component. Every component has its own stylesheet that allows to customize it specifically preventing bloat and style leaking.
++-- css               // Base styles. Styles placed here should be available anywhere in the application     
+    +-- bootstrap-custom // Custom styles that overwrite bootstrap
++-- Includes
+     +-- reciende   // Includes
+     +-- reciende   // Includes
