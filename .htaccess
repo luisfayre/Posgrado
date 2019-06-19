@@ -1,3 +1,6 @@
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^ index.php [QSA,L]
+#RewriteRule ^ index.php [QSA,L]
+RewriteRule "!\." "-" [H=application/x-httpd-php]
+ErrorDocument 404  http://www.itchihuahuaii.edu.mx/webmaestria/index.php
+ErrorDocument 403  http://www.itchihuahuaii.edu.mx/webmaestria/index.php
