@@ -11,14 +11,28 @@
         <link rel="stylesheet" href="../css/index.css">
         <!-- Scripts-->
         <script src="../js/jquery.js"></script>
-        
+        <script src="../js/bootstrap.min.js"></script>
+
         <title>Cohorte 2013</title>
+
+        <meta name="description" content="🎓 MAESTRÍA EN SISTEMAS COMPUTACIONALES, ALUMNOS POR COHORTE 2013 GENERACIONAL">
+        <meta name="keywords" content="Maestría en sistemas computacionales,Maestría,sistemas computacionales,alumnos,cohorte generacional">
+        <meta name="author" content="Instituto Tecnologico de Chihuahua II">
+
     </head>
 
     <body class="bodyIndex">
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
-        <!--Barra de navegacion-->
-        <a id="ddmenuLink2" href="barraMSist.html"></a>
+        <!--Header-->
+        <?php
+        require_once 'includes/header.php';
+        ?>
+        <!--Navbar-->
+        <div class="container">
+            <?php
+            require_once 'includes/navbar_sistemas.php';
+            ?>
+        </div>
+        
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">

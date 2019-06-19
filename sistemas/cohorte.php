@@ -32,7 +32,7 @@
             require_once 'includes/navbar_sistemas.php';
             ?>
         </div>
-        
+
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
