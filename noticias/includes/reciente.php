@@ -9,17 +9,17 @@
             <br>			
             <div class="textwidget">
                 <li class="listado">
-                    <a href="convocatoria_base.php">Maestría en Sistemas Computacionales
+                    <a href="convocatoria.php">Maestría en Sistemas Computacionales
                     </a>
                 </li>
 
                 <li class="listado">
-                    <a href="jornadaAcad4ta.php">Cuarta Jornada Académica
+                    <a href="cuarta-jornada-academica.php">Cuarta Jornada Académica
                     </a>
                 </li>
 
                 <li class="listado">
-                    <a href="tercerjornadaacad.php">Tercer Jornada Académica
+                    <a href="tercer-jornada-academica.php">Tercer Jornada Académica
                     </a>
                 </li>
                 <!--li class="listado">
@@ -36,19 +36,19 @@
             <br>
             <div class="textwidget">
                 <li class="listado">
-                    <a href="coloquio_Dic-2017.php">Diciembre 2017</a>
+                    <a href="2017-coloquio-agosto-diciembre.php">Diciembre 2017</a>
                 </li>
                 <li class="listado">
-                    <a href="coloquio_Ene-Jun-2017.php">Enero 2017</a>
+                    <a href="2017-coloquio-enero-junio.php">Enero 2017</a>
                 </li>
                 <li class="listado">
-                    <a href="coloquio_Ago-Dic-2016.php">Agosto 2016</a>
+                    <a href="2016-coloquio-agosto-diciembre.php">Agosto 2016</a>
                 </li>
                 <li class="listado">
-                    <a href="m_coloqui_Ene-Jun_2016.php">Enero 2016</a>
+                    <a href="2016-coloquio-enero-junio.php">Enero 2016</a>
                 </li>
                 <li class="listado">
-                    <a href="m_coloquio201.php">Dieciembre 2015</a>
+                    <a href="2015-coloquio-agosto-diciembre.php">Dieciembre 2015</a>
                 </li>
                 <!--li class="listado">
                     <a href="https://drive.google.com/file/d/17mBUQIqlmICVW7VMkoUrKRrbMMNFBCvG/view?usp=sharing">Constitución Política de los E.U.M.</a>
