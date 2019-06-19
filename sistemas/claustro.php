@@ -91,7 +91,7 @@
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="jesus_alvarado.php">
-                                        <img class="media-object" src="../img/cv/granadino (copia).jpg" alt="Arturo Alvarado Granadino">
+                                        <img class="media-object" src="../img/cv/arturo_alvarado.jpg" alt="Arturo Alvarado Granadino">
                                     </a>
                                 </div>
                                 <div class="media-body">

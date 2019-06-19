@@ -47,7 +47,7 @@
                     <div class="row">
                         <div class="col-md-9 col-md-offset-2">
                             <a href="../img/sistemas/plan_estudios/plan_estudios_sistemas.png">
-                                <img class="img-responsive" src="img/sistemas/plan_estudios/plan_estudios_sistemas.png" alt="plan de estudios maestría en sistemas computacionales">
+                                <img class="img-responsive" src="../img/sistemas/plan_estudios/plan_estudios_sistemas.png" alt="plan de estudios maestría en sistemas computacionales">
                             </a>
 
                         </div>
