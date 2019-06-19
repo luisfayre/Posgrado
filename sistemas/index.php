@@ -5,36 +5,32 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Bootstrap-->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
         <!-- Estilos-->
-        <link rel="stylesheet" href="css/style_tec.css">
-        <link rel="stylesheet" href="css/index.css">
-        <!-- Fuente-->
-        <link rel="stylesheet" href="css/font-awesome.css">
-
-        <script src="js/jquery.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/javascript.js"></script>
-        <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
-        <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
+        <link rel="stylesheet" href="../css/style_tec.css">
+        <link rel="stylesheet" href="../css/index.css">
+        <!-- Scripts-->
+        <script src="../js/jquery.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
 
         <meta name="description" content="🎓 La maestría en sistemas computacionales es un programa único profesionalizante dentro del Padrón de Nacional de posgrados de calidad en la región con las líneas de generación y aplicación del conocimiento en: Sistemas Inteligentes, Tecnología Aplicada a La Educación y Sistemas Embebidos.">
         <meta name="keywords" content="Maestría en sistemas computacionales, Sistemas Inteligentes, Tecnología Aplicada a La Educación, Sistemas Embebidos, Programa Nacional de posgrados de calidad">
         <meta name="author" content="División de estudios de posgrado e investigación Instituto Tecnologico de Chihuahua II">
 
-        <link rel="canonical" href="http://localhost/posgrado/m_sistemas.php">
-        
         <title>🎓 Maestría en Sistemas Computacionales</title>
-        <script src="js/ddmenu.js" type="text/javascript"></script>
     </head>
 
     <body class="bodyIndex">
-        <a id="ddmenuHeader" href="headerDEPI.html"></a>
-
-        <br>
-        <!--Barra de navegacion-->
-        <a id="ddmenuLink2" href="barraMSist.html"></a>
-
+        <!--Header-->
+        <?php
+        require_once 'includes/header.php';
+        ?>
+        <!--Navbar-->
+        <div class="container">
+            <?php
+            require_once 'includes/navbar_sistemas.php';
+            ?>
+        </div>
 
         <div class="container">
             <div class="col-md-12">
@@ -94,12 +90,12 @@
                             </ul>
                         </div>
 
-<br>
-                        
+                        <br>
+
                         <div style="text-align: center;">
                             <a href="documentos/FORMATO-INGRESO-MAESTRIA-FSI-2019.docx" class="btn btn-danger">Solicitud para maestría</a>
-                             <a href="#admision" class="btn btn-warning">Proceso de admisión</a>
-                              <a href="#inscripcion" class="btn btn-warning">Proceso de Inscripción</a>
+                            <a href="#admision" class="btn btn-warning">Proceso de admisión</a>
+                            <a href="#inscripcion" class="btn btn-warning">Proceso de Inscripción</a>
                         </div>
 
 
@@ -251,8 +247,8 @@
             require_once 'includes/footer.php';
             ?>
         </div> 
-        
-         <!-- Global site tag (gtag.js) - Google Analytics -->
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
         <script>
             window.dataLayer = window.dataLayer || [];
@@ -263,7 +259,7 @@
 
             gtag('config', 'UA-141677500-1');
         </script>
-        
+
     </body>
 
 </html>
