@@ -65,7 +65,7 @@
                         <div class="thumbnail text-center">
                             <img src="../img/logos/crit-teleton-chihuahua-logo.png" alt="Crit teleton logo" width="200" height="230">
                             <div class="caption text-center ">
-                                <h4>El Centro de Estudios para Invidentes, A.C.</h4>
+                                <h4>Fundaciòn Teletón México.</h4>
                                 <p>http://www.teleton.org/home/informacion-crit/CRIT-Chihuahua</p>
                             </div>
                         </div>
