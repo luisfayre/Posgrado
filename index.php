@@ -25,6 +25,7 @@ require_once './includes/mensaje_dia.php';
 
 
         <link href="icon.png" rel="icon"/>
+        <link href="img/icon.png" rel="icon"/>
 
         <style>
             /* Note: Try to remove the following lines to see the effect of CSS positioning */
@@ -316,7 +317,7 @@ require_once './includes/mensaje_dia.php';
 
             gtag('config', 'UA-141677500-1');
         </script>
-        
+
 
     </body>
 
