@@ -27,7 +27,7 @@
             require_once 'includes/navbar_industrial.php';
             ?>
         </div>
-        
+
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -44,7 +44,7 @@
             <div class="row">
                 <div class="media marcos thumbnail">
                     <div class="media-left media-middle">
-                        <a href="#">
+                        <a href="cv_ramon_ontiveros.php">
                             <img class="media-object" src="../img/cv/ontiveroz (copia).jpg" alt="Ontiveros">
                         </a>
                     </div>
@@ -68,8 +68,8 @@
                 </div>
                 <div class="media marcos thumbnail">
                     <div class="media-left media-middle">
-                        <a href="#">
-                            <img class="media-object" src="../img/cv/paty.jpg" alt="García">
+                        <a href="cv_martha_garcia.php">
+                            <img class="media-object" src="../img/cv/Martha_GarcIa.jpg" alt="García">
                         </a>
                     </div>
                     <div class="media-body">
@@ -93,8 +93,8 @@
             </div>
             <div class="media marcos thumbnail">
                 <div class="media-left media-middle">
-                    <a href="#">
-                        <img class="media-object" src="../img/cv/makita.jpg" alt="Makita">
+                    <a href="cv_mario_makita.php">
+                        <img class="media-object" src="../img/cv/mario_makita.jpg" alt="Makita">
                     </a>
                 </div>
                 <div class="media-body">
@@ -117,7 +117,7 @@
             </div>
             <div class="media marcos thumbnail">
                 <div class="media-left media-middle">
-                    <a href="#">
+                    <a href="cv_rosa_amaya.php">
                         <img class="media-object" src="../img/cv/amaya (copia).jpg" alt="Amaya">
                     </a>
                 </div>
@@ -256,10 +256,17 @@
             ?>
         </div> 
 
-
-
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-141677500-1');
+        </script>
     </body>
 
 </html>
