@@ -13,7 +13,7 @@
         <script src="../js/jquery.js"></script>
         <script src="../js/bootstrap.min.js"></script>
 
-        <meta name="description" content="🎓 Programa con orientación profesional, se enfoca en ampliar los conocimientos en el área, así como para desarrollar y trasmitir los avances científicos y tecnológicos de la Ingeniería Industrial en el mejoramiento de los sistemas empresariales y que ayuden al progreso de la comunidad industria.">
+        <meta name="description" content="🎓 La Maestría en Ingeniería Industrial es un programa con orientación profesional, se enfoca en ampliar los conocimientos en el área, así como para desarrollar y trasmitir los avances científicos y tecnológicos.">
         <meta name="keywords" content="Maestría, Ingeniería, Industrial,Maestría en Ingeniería Industrial,Ingeniería Industrial, DEPI">
         <meta name="author" content="DEPI , División de estudios de posgrado e investigación">
 
@@ -37,11 +37,11 @@
                 <div class="col-md-8">
                     <div class="row">
                         <div class="col-md-12 text-center">
-                            <h2>MAESTRÍA EN INGENIERÍA INDUSTRIAL</h2>
+                            <h1>MAESTRÍA EN INGENIERÍA INDUSTRIAL</h1>
                         </div>
                         <br>
                         <div class="row text-justify">
-                            <h3 class="noticia">¡Bienvenido!</h3>
+                            <h2 class="noticia">¡Bienvenido!</h2>
                             <br>
                             <p>El programa de maestría en Ingeniería Industrial que ofrece el Instituto Tecnológico de Chihuahua II, es
                                 un programa con orientación profesional, que se enfoca en ampliar los conocimientos en el área, con el
@@ -59,14 +59,14 @@
                             <br>
                             <br>
                         </div>
-                        <h3>Información del programa</h3>
+                        <h2>Información del programa</h2>
                         <br>
-                        <p>Coordinador: Dra. Luisa Yolanda Quiñones Montenegro</p>
+                        <p>Coordinador: </p>
                         <p>Correo: posgradomii@hotmail.com</p>
                         <p>Teléfonos: 4-42-50-32</p>
                         <p>Horario de atención: 8 a.m. a 8 p.m.</p>
                         <br>
-                        <h3>Requisitos para ingresar</h3>
+                        <h2>Requisitos para ingresar</h2>
                         <br>
                         <p>El Instituto Tecnológico de Chihuahua II, agradece tu confianza en nuestros Planes de Posgrado.
                             <br>
@@ -76,7 +76,7 @@
                             <br>Estás por iniciar el proceso de admisión, te deseamos el mejor de los éxitos.<br>
                         </p>
                         <div class="bloque"></div>
-                        <p>Los aspirantes a ingresar al programa de posgrado deberán:</p>
+                        <h3>Los aspirantes a ingresar al programa de posgrado deberán:</h3>
                         <ul>
                             <li>Tener título de Licenciatura en un área afín a la del programa, según los antecedentes del plan de estudios.
                             </li>
@@ -92,7 +92,7 @@
 
                         <div id="admision">
                             <br>
-                            <h4>Proceso de admisión</h4>
+                            <h2>Proceso de admisión</h2>
                             <p><span style="font-style: italic;">Ver fechas actualizadas del Proceso de Admisión en la CONVOCATORIA, al final de esta página (la convocatoria sólo se muestra cuando esté vigente para el siguiente semestre).</span></p>
                             <p>Se integrará un Comité de Admisión con al menos tres profesores del Consejo de Posgrado, quienes
                                 analizarán y valorarán la suficiencia académica y la capacidad para realizar investigación
@@ -116,7 +116,7 @@
                                     la carta de aceptación al aspirante.</li>
                             </ol>
                             <br>
-                            <h4>COSTOS:</h4>
+                            <h3>COSTOS:</h3>
                             <ul>
                                 <li>Examen de Inglés: $250.00 M.N.</li>
                                 <li>Inscripción: $1400.00 M.N.</li>
@@ -136,8 +136,8 @@
 
                         <div id="inscripcion">
                             <br>
-                            <h4>Proceso de Inscripción</h4>
-                            <h5>Sólo para primer semestre</h5>
+                            <h2>Proceso de Inscripción</h2>
+                            <h3>Sólo para primer semestre</h3>
                             <br>
                             <p>Después de cumplir con los pasos del proceso de admisión se procede a la inscripción en el primer
                                 semestre:
@@ -204,6 +204,7 @@
         </div> 
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141677500-1"></script>
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag() {
@@ -213,6 +214,7 @@
 
             gtag('config', 'UA-141677500-1');
         </script>
+
     </body>
 
 </html>
