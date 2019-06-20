@@ -93,7 +93,7 @@
                         <br>
 
                         <div style="text-align: center;">
-                            <a href="documentos/FORMATO-INGRESO-MAESTRIA-FSI-2019.docx" class="btn btn-danger">Solicitud para maestría</a>
+                            <a href="../documentos/FORMATO-INGRESO-MAESTRIA-FSI-2019.docx" class="btn btn-danger">Solicitud para maestría</a>
                             <a href="#admision" class="btn btn-warning">Proceso de admisión</a>
                             <a href="#inscripcion" class="btn btn-warning">Proceso de Inscripción</a>
                         </div>
