@@ -28,6 +28,17 @@ require_once './includes/mensaje_dia.php';
 
         <style>
             /* Note: Try to remove the following lines to see the effect of CSS positioning */
+            /*  .affix {
+                  top: 0;
+                  width: 100%;
+                  z-index: 9999 !important;
+              }
+  
+              .affix + .container-fluid {
+                  padding-top: 70px;
+              }*/
+
+            /* Note: Try to remove the following lines to see the effect of CSS positioning */
             .affix {
                 top: 0;
                 width: 100%;
@@ -37,12 +48,22 @@ require_once './includes/mensaje_dia.php';
             .affix + .container-fluid {
                 padding-top: 70px;
             }
+
+
+            /*.carousel {
+                position:absolute;  
+            }*/
+
+            .navbar {
+                z-index: 9999 !important;
+            }
+
         </style>
 
         <title>🎓 ITCH II: DEPI División de estudios de posgrado e investigación</title>
     </head>
 
-    <body class="bodyIndex">
+    <body>
 
         <!--Mensaje del dia-->
         <?php
@@ -295,7 +316,7 @@ require_once './includes/mensaje_dia.php';
 
             gtag('config', 'UA-141677500-1');
         </script>
-
+        
 
     </body>
 
