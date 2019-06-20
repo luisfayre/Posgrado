@@ -13,7 +13,7 @@
         <script src="../js/jquery.js"></script>
         <script src="../js/bootstrap.min.js"></script>
 
-        <title>Plan de Estudios</title>
+        <title>Plan de Estudios Maestría en Sistemas Computacionales</title>
 
         <meta name="description" content="🎓 El programa de la maestría, está diseñado bajo los “Lineamientos para la Elaboración del Programa de Desarrollo para la Apertura de Programas de Maestría y Especialización en el Sistema Nacional de Educación Superior Tecnológica”">
         <meta name="keywords" content="ITCHI II,DEPI,Chihuhua,plan de estudios, maestría en sistemas computacionales,sistemas computacionales">

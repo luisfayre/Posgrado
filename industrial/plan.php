@@ -13,7 +13,11 @@
         <script src="../js/jquery.js"></script>
         <script src="../js/bootstrap.min.js"></script>
 
-        <title>Plan de Estudios</title>
+        <meta name="description" content="🗒️ El plan de estudios considera 4 materias básicas que se ofrecen en el primer semestre, tres seminarios de investigación distribuidos en los tres primeros semestres y 10 materias optativas que se ofrecen a los estudiantes de acuerdo al tema de tesis en el que vayan a trabajar.">
+        <meta name="keywords" content="Maestría, Ingeniería, Industrial,Maestría en Ingeniería Industrial,Ingeniería Industrial, DEPI">
+        <meta name="author" content="DEPI , División de estudios de posgrado e investigación">
+
+        <title>🗒️ Plan de Estudios Maestría en Ingeniería Industrial</title>
     </head>
 
     <body class="bodyIndex">
@@ -31,9 +35,9 @@
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2>
+                    <h1>
                         PLAN DE ESTUDIOS
-                    </h2>
+                    </h1>
                 </div>
             </div>
             <div class="row">
@@ -47,7 +51,7 @@
             </div>
             <div class="row bloque">
                 <div class="col-md-12 col-sm-12">
-                    <h3>ESTRUCTURA DEL PLAN DE ESTUDIOS </h3>
+                    <h2>ESTRUCTURA DEL PLAN DE ESTUDIOS </h2>
                     <p>El plan de estudios vigente en el semestre enero-junio 2014 considera 4 materias básicas que se ofrecen en el primer semestre, tres seminarios de investigación distribuidos en los tres primeros semestres y 10 materias optativas que se ofrecen a los estudiantes de acuerdo al tema de tesis en el que vayan a trabajar (los temas de tesis se les proponen/asignan durante el primer semestre). </p>
                 </div>
             </div>
