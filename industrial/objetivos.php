@@ -13,7 +13,11 @@
         <script src="../js/jquery.js"></script>
         <script src="../js/bootstrap.min.js"></script>
 
-        <title>Objetivos Maestría en Ingeniería Industria</title>
+        <meta name="description" content="🎯 Formar y actualizar profesionales de alto nivel en áreas científico-tecnológicas relacionadas con la Ingeniería Industrial.">
+        <meta name="keywords" content="Maestría en Ingeniería Industria, Objetivos, Objetivos de Maestría, Objetivos Ingeniería Industrial">
+        <meta name="author" content="División de estudios de posgrado e investigación Instituto Tecnologico de Chihuahua II">
+
+        <title>🎯 Objetivos Maestría en Ingeniería Industrial</title>
     </head>
 
     <body class="bodyIndex">

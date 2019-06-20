@@ -13,7 +13,11 @@
         <script src="../js/jquery.js"></script>
         <script src="../js/bootstrap.min.js"></script>
 
-        <title>Objetivos</title>
+        <meta name="description" content="🎯 Formar capital humano que desarrolle sistemas computacionales con fines de resolver problemas reales en los sectores productivo, social y de servicios, en el área de los sistemas inteligentes o de las tecnologías aplicadas a la educación, proporcionando soluciones de calidad.">
+        <meta name="keywords" content="Maestría en sistemas computacionales, Objetivos, Objetivos de Maestría, Objetivos Sistemas Computacionales">
+        <meta name="author" content="División de estudios de posgrado e investigación Instituto Tecnologico de Chihuahua II">
+
+        <title>🎯 Objetivos Maestría en Sistemas Computacionales</title>
     </head>
 
     <body class="bodyIndex">
@@ -47,7 +51,7 @@
             </div>
             <div class="row ">
                 <div class="col-md-12 bloque col-sm-12">
-                    <h4>OBJETIVOS ESPECÍFICOS</h4>
+                    <h2>OBJETIVOS ESPECÍFICOS</h2>
                     <table>
                         <tbody>
                             <tr>
