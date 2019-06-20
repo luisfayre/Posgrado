@@ -1,7 +1,22 @@
 Root
-+-- Archivos viejos
-+-- css               // Base styles. Styles placed here should be available anywhere in the application     
-    +-- bootstrap-custom // Custom styles that overwrite bootstrap
-+-- Includes
-     +-- reciende   // Includes
-     +-- reciende   // Includes
++-- /Archivos viejos        //Archivos pasados que actulmente no se utilizan
++-- /Convocatoria/          //Se almacenan algunos html, php de convocatorias pasadas
++-- /css/                   // Base styles. Styles placed here should be available anywhere in the application     
+    +-- /Estilos viejos/      // Custom styles that overwrite bootstrap
+    +-- /V4/                  // Custom styles that overwrite bootstrap
+    +-- bootstrap.css                 // 
+    +-- bootstrap.css                  // Custom styles that overwrite bootstrap
+
++-- /documentos/       //Archivos pasados que actulmente no se utilizan
++-- /fuentes/          //Se almacenan algunos html, php de convocatorias pasadas
++-- /fullcalendas/                   // Base styles. Styles placed here should be available anywhere in the application
+   
++-- /js/                   // Base styles. Styles placed here should be available anywhere in the application     
++-- /php/                   // Base styles. Styles placed here should be available anywhere in the application
++-- /html/                   // Base styles. Styles placed here should be available anywhere in the application     
+
++-- /includes/                   // Base styles. Styles placed here should be available anywhere in the application     
++-- /noticias/                   // Archivos del apartado de noticias pasadas
++-- /industrial/                   // Archivos del apartado de la maestria en industrial       
++-- /sistemas/                   // Archivos del apartado de la maestria en sistemas     
+
