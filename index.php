@@ -15,6 +15,8 @@ require_once './includes/mensaje_dia.php';
         <link rel="stylesheet" href="css/index.css">
         <link rel="stylesheet" href="css/font-awesome.css">
 
+        <meta name="theme-color" content="#9c2642">
+        <link rel="icon" type="image/png" href="img/icon.png" sizes="192x192">
 
         <script src="../js/jquery.js"></script>
         <script src="../js/bootstrap.min.js"></script>
@@ -24,7 +26,6 @@ require_once './includes/mensaje_dia.php';
         <meta name="author" content="Instituto Tecnologico de Chihuahua II">
 
 
-        <link href="icon.png" rel="icon"/>
         <link href="img/icon.png" rel="icon"/>
 
         <style>
