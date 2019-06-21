@@ -59,7 +59,6 @@ require_once './includes/mensaje_dia.php';
             .navbar {
                 z-index: 9999 !important;
             }
-
         </style>
 
         <title>🎓 ITCH II: DEPI División de estudios de posgrado e investigación</title>
@@ -96,63 +95,54 @@ require_once './includes/mensaje_dia.php';
             ?>
         </div>
 
-        <!-- SLIDERS -->
+        <!-- Carrousel -->
+
         <div class="container text-center">
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <div class="col-md-12">
-                        <div id="carousel-example-generic" class="carousel slide col-md-offset-1 col-md-10 " data-ride="carousel">
-                            <!-- Indicators -->
-                            <ol class="carousel-indicators">
-                                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-                                <!--<li data-target="#carousel-example-generic" data-slide-to="1"></li>
-                                <li data-target="#carousel-example-generic" data-slide-to="2"></li>-->
-                            </ol>
-                            <!-- Wrapper for slides -->
-                            <div class="carousel-inner" role="listbox">
-                                <div class="item active">
-                                    <a href="convocatoria.php">
-                                        <img title="Convocatoria Maestria sistemas computacionales itchii" class="slider" src="img/Convocatoria-maestrias.jpg" 
-                                             alt="Convocatoria Maestria sistemas computacionales itchii" style="width: 100%;">
-                                    </a>
-                                </div>
+            <div class="text-center">
+                <div id="myCarousel" class="carousel slide mod-carousel" data-ride="carousel" style="">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarousel" data-slide-to="1"></li>
+                    </ol>
 
-                                <div class="item">
-                                    <a href="convocatoria.php">
-                                        <img title="Convocatoria Maestria sistemas computacionales itchii" class="slider" src="img/Convocatoria-maestrias.jpg" 
-                                             alt="Convocatoria Maestria sistemas computacionales itchii" style="width: 100%;">
-                                    </a>
-                                </div>
-
-                                <!-- <div class="item">
-                                    <a href="m_sistemas_plan.html">
-                                        <img class="slider" src="img\plan_sistemas.jpg" alt="..." style="width: 100%;">
-                                    </a>
-                                </div>
-                                <div class="item">
-                                    <a href="m_industrial_plan.html">
-                                        <img class="slider" src="img\plan_industrial.jpg" alt="..." style="width: 100%;">
-                                    </a>
-                                </div> -->
-                            </div>
-                            <!-- Controls -->
-                            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                                <span class="sr-only">Previous</span>
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <a href="convocatoria.php">
+                                <img class="img-responsive" title="Convocatoria Maestria sistemas computacionales itchii" class="slider" src="img/Convocatoria-maestrias.jpg" 
+                                     alt="Convocatoria Maestria sistemas computacionales itchii" style="width: 100%;">
                             </a>
-                            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                                <span class="sr-only">Next</span>
+                        </div>
+
+                        <div class="item">
+                            <a href="convocatoria.php">
+                                <img class="img-responsive" title="Convocatoria Maestria sistemas computacionales itchii" class="slider" src="img/Convocatoria-maestrias.jpg" 
+                                     alt="Convocatoria Maestria sistemas computacionales itchii" style="width: 100%;">
                             </a>
                         </div>
                     </div>
+
+                    <!-- Left and right controls -->
+                    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                        <span class="sr-only">Anterior</span>
+                    </a>
+                    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                        <span class="sr-only">Siguiente</span>
+                    </a>
                 </div>
-                <!-- Leyenda -->
-                <!-- <p style="text-align:center; margin:auto; color:gray">Presionar la imagen actual llevará a la página correspondiente</p> -->
+            </div>
+        </div>
+        <!-- Leyenda -->
+        <!-- <p style="text-align:center; margin:auto; color:gray">Presionar la imagen actual llevará a la página correspondiente</p> -->
 
 
 
 
+        <div class="container">
+            <div class="row">
                 <div id="noticias" class="col-md-12 bloque">
 
                     <!-- Seccion de noticias-->
@@ -233,55 +223,68 @@ require_once './includes/mensaje_dia.php';
 
 
                     <div class="col-md-4">
-                        <div class="text-center">
+
+                        <div class="row text-center">
+
 
                             <!--Examen-->
                             <?php
                             if (verifica_rango($date_inicio, $date_fin2, $date_nueva)) {
-                                echo "<p>
+                                echo "<div class=\"col-xs-6\"><p>
                                 <a href=\"http://moodle.itchihuahuaii.edu.mx/mod/quiz/view.php?id=10677\"target=\"_blank\">
                                 <img src = \"img/logos/examen.png\" alt=\"examen depi\"height=\"100 \" width=\"195\" style=\"max-width: 100%;\">
                                 </a>
-                            </p>";
+                            </p></div>";
                             }
                             ?>
-                            <p>
-                                <a href="" target="">
-                                    <img title="DEPI ITCH II" src="img/logos/depi.png" alt="depi "height="100 " width="195" style="max-width: 100%;">
-                                </a>
-                            </p>
 
-                            <p>
-                                <a href="http://sii.itchihuahuaii.edu.mx/ " target="_blank ">
-                                    <img title="sii itchihuahuaii"src="img/logos/SII.jpg " height="100 " width="195" style="max-width: 100%;" alt="sii itchi ii">
-                                </a>
-                            </p>
-
+                            <div class="col-xs-6 col-md-12">
+                                <p>
+                                    <a href="" target="">
+                                        <img title="DEPI ITCH II" src="img/logos/depi.png" alt="depi "height="100 " width="195" style="max-width: 100%;">
+                                    </a>
+                                </p>
+                            </div>
+                            <div class="col-xs-6 col-md-12">
+                                <p>
+                                    <a href="http://sii.itchihuahuaii.edu.mx/ " target="_blank ">
+                                        <img title="sii itchihuahuaii"src="img/logos/SII.jpg " height="100 " width="195" style="max-width: 100%;" alt="sii itchi ii">
+                                    </a>
+                                </p>
+                            </div>
                             <!-- Calendario -->
-                            <p>
-                                <iframe id="minical" scrolling="no" frameborder="0" src='calendar.html' width="258px" height='275px'></iframe>
-                            </p>
-                            <!-- Fin calendario -->
-                            <p>
-                                <a href="http://www.conricyt.mx" target="_blank">
-                                    <img src="img/logos/conricyt.jpg" border="0" height="105" width="232">
-                                </a>
-                            </p>
-                            <p>
-                                <a href="http://capacitacion.conricyt.mx/ " target="_blank ">
-                                    <img src="img/logos/conricytcap.jpg " border="0 " height="105 " width="232 ">
-                                </a>
-                            </p>
-                            <p>
-                                <a href="http://www.cnbes.sep.gob.mx/">
-                                    <img src="img/logos/cnbes.png" border="0" height="105" width="232">
-                                </a>
-                            </p>
+                            <div class="col-xs-12  col-md-12 hidden-xs">
+                                <p>
+                                    <iframe id="minical" scrolling="no" frameborder="0" src='calendar.html' width="258px" height='275px'></iframe>
+                                </p>
+                            </div><!-- Fin calendario -->
+                            <div class="col-xs-12  col-md-12 hidden-xs">
+                                <p>
+                                    <a href="http://www.conricyt.mx" target="_blank">
+                                        <img src="img/logos/conricyt.jpg" border="0" height="105" width="232">
+                                    </a>
+                                </p>
+                            </div>
+                            <div class="col-xs-12 col-md-12 hidden-xs">
+                                <p>
+                                    <a href="http://capacitacion.conricyt.mx/ " target="_blank ">
+                                        <img src="img/logos/conricytcap.jpg " border="0 " height="105 " width="232 ">
+                                    </a>
+                                </p>
+                            </div>
+                            <div class="col-xs-12  col-md-12 hidden-xs">
+                                <p>
+                                    <a href="http://www.cnbes.sep.gob.mx/">
+                                        <img src="img/logos/cnbes.png" border="0" height="105" width="232">
+                                    </a>
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+
         <!--Pie de pagina-->
         <!--a id="ddmenuLink2" href="footerDEPI.html"></a-->
         <script src="js/jquery.js"></script>
@@ -298,10 +301,81 @@ require_once './includes/mensaje_dia.php';
             <?php
             require_once 'includes/reciente.php';
             ?>
-
             <?php
             require_once 'includes/footer.php';
             ?>
+
+
+            <!--div class="row">
+                <div class="col-xs-12 col-sm-3"> 
+                    <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Links</h5>
+                    <ul class="list-unstyled">
+                        <li>
+                            <a href="#!">Very long link 1</a>
+                        </li>
+                        <li>
+                            <a href="#!">Very long link 2</a>
+                        </li>
+                        <li>
+                            <a href="#!">Very long link 3</a>
+                        </li>
+                        <li>
+                            <a href="#!">Very long link 4</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-xs-12 col-sm-3"> 
+                    <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Links</h5>
+                    <ul class="list-unstyled">
+                        <li>
+                            <a href="#!">Very long link 1</a>
+                        </li>
+                        <li>
+                            <a href="#!">Very long link 2</a>
+                        </li>
+                        <li>
+                            <a href="#!">Very long link 3</a>
+                        </li>
+                        <li>
+                            <a href="#!">Very long link 4</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-xs-12 col-sm-3"> 
+                    <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Links</h5>
+                    <ul class="list-unstyled">
+                        <li>
+                            <a href="#!">Very long link 1</a>
+                        </li>
+                        <li>
+                            <a href="#!">Very long link 2</a>
+                        </li>
+                        <li>
+                            <a href="#!">Very long link 3</a>
+                        </li>
+                        <li>
+                            <a href="#!">Very long link 4</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-xs-12 col-sm-3"> 
+                    <h5 class="font-weight-bold text-uppercase mt-3 mb-4">RELACIONADO</h5>
+                    <ul class="list-unstyled">
+                        <li>
+                            <a href="http://moodle.itchihuahuaii.edu.mx/">Moodle</a>
+                        </li>
+                        <li>
+                            <a href="https://www.tecnm.mx/convocatorias">Convocatorias</a>
+                        </li>
+                        <li>
+                            <a href="http://www.itchihuahuaii.edu.mx/?page_id=871">Multiverso TecNM</a>
+                        </li>
+                        <li>
+                            <a href="http://www.itchihuahuaii.edu.mx/?page_id=1404">Transparencia</a>
+                        </li>
+                    </ul>
+                </div>
+            </div-->
 
         </div>
 

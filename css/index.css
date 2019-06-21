@@ -18,66 +18,7 @@ a{
 
 
 
-/*Navbar  */
 
-@media (max-width: 768px) {
-    .navbar {
-        background: #e8e8e8;
-    }
-    
-    .navbar-header {
-        background-color: #E8E8E8;
-    }
-    .icon-bar {
-        background-color: #8d8d8d;
-    }
-    .navbar-toggle {
-        border: 1px solid #8d8d8d;
-    }
-}
-
-@media (min-width: 767px) {
-    .navbar {
-        margin-top: 40px;
-        min-height: 39px !important;
-    }
-    #navbar {
-        background: #fafafa;
-        background: -moz-linear-gradient(left, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);
-        background: -webkit-gradient(linear, left top, right top, color-stop(0%, #fafafa), color-stop(7%, #e8e8e8), color-stop(93%, #e8e8e8), color-stop(100%, #fafafa));
-        background: -webkit-linear-gradient(left, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);
-        background: -o-linear-gradient(left, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);
-        background: -ms-linear-gradient(left, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);
-        background: linear-gradient(to right, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);
-        filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', endColorstr='#fafafa', GradientType=1);
-        max-height: 35px;
-        margin-top: 1px;
-        margin-bottom: 1px;
-    }
-    .navbar .nav > li > a,
-    .navbar .nav > li > a:visited {
-        color: #666 !important;
-        /*padding: 8px 15px;*/
-        height: 34px;
-    }
-    .dropdown-menu a:hover,
-    .dropdown-menu a:focus {
-        background: none !important;
-    }
-    .dropdown-menu a {
-        background: fdfdf !important;
-    }
-}
-
-.navbar {
-    border-top: 1px solid #eee !important;
-    border-bottom: 1px solid #eee !important;
-}
-
-.navbar .nav > li > a:hover {
-    background: #FFF !important;
-}
-/*  */
 
 
 
@@ -530,7 +471,18 @@ img#wpstats {
 .widget_recent_entries h3 span:before {
     content: "\f040";
 }
-
+.directorio-footer
+{
+    /* text-align:left; */
+    /* font-size:13px; */
+    /* color:#666; */
+    /* width:100%; */
+    /* max-width:100%; */
+    float:left;
+    /* position:relative; */
+    /* margin-left: 15%; */
+    /* margin-top: 15%; */
+}
 
 
 /* =RESPONSIVE STRUCTURE
@@ -559,6 +511,7 @@ img#wpstats {
         position:relative;
 
     }
+
     #header-text-nav-wrap {
         padding: 15px 0;
     }
@@ -923,3 +876,84 @@ img#wpstats {
         width: 100%;
     }
 }
+
+
+/*
+*Navbar
+*/
+
+@media (max-width: 768px) {
+    .navbar {
+        background: #e8e8e8;
+    }
+
+    .navbar-header {
+        background-color: #E8E8E8;
+    }
+    .icon-bar {
+        background-color: #8d8d8d;
+    }
+    .navbar-toggle {
+        border: 1px solid #8d8d8d;
+    }
+}
+
+@media (min-width: 767px) {
+    .navbar {
+        margin-top: 40px;
+        min-height: 39px !important;
+    }
+    #navbar {
+        background: #fafafa;
+        background: -moz-linear-gradient(left, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);
+        background: -webkit-gradient(linear, left top, right top, color-stop(0%, #fafafa), color-stop(7%, #e8e8e8), color-stop(93%, #e8e8e8), color-stop(100%, #fafafa));
+        background: -webkit-linear-gradient(left, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);
+        background: -o-linear-gradient(left, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);
+        background: -ms-linear-gradient(left, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);
+        background: linear-gradient(to right, #fafafa 0%, #e8e8e8 7%, #e8e8e8 93%, #fafafa 100%);
+        filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', endColorstr='#fafafa', GradientType=1);
+        max-height: 35px;
+        margin-top: 1px;
+        margin-bottom: 1px;
+    }
+    .navbar .nav > li > a,
+    .navbar .nav > li > a:visited {
+        color: #666 !important;
+        /*padding: 8px 15px;*/
+        height: 34px;
+    }
+    .dropdown-menu a:hover,
+    .dropdown-menu a:focus {
+        background: none !important;
+    }
+    .dropdown-menu a {
+        background: fdfdf !important;
+    }
+}
+
+.navbar {
+    border-top: 1px solid #eee !important;
+    border-bottom: 1px solid #eee !important;
+}
+
+.navbar .nav > li > a:hover {
+    background: #FFF !important;
+}
+/*  Fin Navbar*/
+
+
+/*
+* Carrousel
+*/
+
+/*Responsive para agregar margen cuando sobrepase lo 1000 pixeles*/
+@media (min-width: 1000px) {
+    .mod-carousel{
+        margin-left: 60px;
+        margin-right: 60px;
+    }
+
+}
+/*
+* Fin Carrousel
+*/
