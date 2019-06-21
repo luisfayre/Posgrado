@@ -89,7 +89,7 @@ require_once './includes/mensaje_dia.php';
         require_once 'includes/header_depi.php';
         ?>
         <!--Navbar-->
-        <div class="container">
+        <div class="container mod-container">
             <?php
             require_once 'includes/navbar_depi.php';
             ?>
@@ -97,7 +97,7 @@ require_once './includes/mensaje_dia.php';
 
         <!-- Carrousel -->
 
-        <div class="container text-center">
+        <div class="container mod-container text-center">
             <div class="text-center">
                 <div id="myCarousel" class="carousel slide mod-carousel" data-ride="carousel" style="">
                     <!-- Indicators -->
@@ -138,10 +138,7 @@ require_once './includes/mensaje_dia.php';
         <!-- Leyenda -->
         <!-- <p style="text-align:center; margin:auto; color:gray">Presionar la imagen actual llevará a la página correspondiente</p> -->
 
-
-
-
-        <div class="container">
+        <div class="container mod-container">
             <div class="row">
                 <div id="noticias" class="col-md-12 bloque">
 
@@ -174,50 +171,50 @@ require_once './includes/mensaje_dia.php';
                             </div>
                         </div>
                         <hr> -->
-                        <div class="col-md-12">
-                            <div class="thumbnail text-left imagen-noticia">
-                                <a href="documentos/Información_Maestría-2019a.pdf">
-                                    <img src="img\pic08.jpg" alt="Maestria Sistemas Computacionales depi itchi ii" class="media-object img-responsive imgNewsZoom">
-                                </a>
-                                <div class="caption">
-                                    <p class="titulo_noticia">Convocatoria Maestrías 2019-1</p>
-                                    <p class="Estilo34" align="left">Aqui encontraras toda la información relacionada con la Convocatoria de Maestrías</p>
-                                    <p class="Estilo34" align="left"><a href="documentos/Información_Maestría-2019a.pdf" class="rm">LEER NOTA</a></p>
+                            <div class="col-md-12 hidden-xs">
+                                <div class="thumbnail text-left imagen-noticia">
+                                    <a href="documentos/Información_Maestría-2019a.pdf">
+                                        <img src="img\pic08.jpg" alt="Maestria Sistemas Computacionales depi itchi ii" class="media-object img-responsive imgNewsZoom">
+                                    </a>
+                                    <div class="caption">
+                                        <p class="titulo_noticia">Convocatoria Maestrías 2019-1</p>
+                                        <p class="Estilo34" align="left">Aqui encontraras toda la información relacionada con la Convocatoria de Maestrías</p>
+                                        <p class="Estilo34" align="left"><a href="documentos/Información_Maestría-2019a.pdf" class="rm">LEER NOTA</a></p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="thumbnail text-left imagen-noticia ">
-                                <img src="img\Coloqui_Dic-2017\Sistemas\4.jpg" alt="Coloquio Diciembre 2017 depi itchi ii" class="media-object img-responsive imgNewsZoom">
-                                <div class="caption">
-                                    <h2>Coloquio Diciembre 2017</h2>
-                                    <p class="Estilo34" align="left">Aqui encontraras toda la información relacionada con el coloquio.</p>
-                                    <p class="Estilo34" align="left"><a href="noticias/2017-coloquio-agosto-diciembre.php" class="rm">LEER NOTA</a></p>
+                            <div class="col-md-6">
+                                <div class="thumbnail text-left imagen-noticia ">
+                                    <img src="img\Coloqui_Dic-2017\Sistemas\4.jpg" alt="Coloquio Diciembre 2017 depi itchi ii" class="media-object img-responsive imgNewsZoom">
+                                    <div class="caption">
+                                        <h2>Coloquio Diciembre 2017</h2>
+                                        <p class="Estilo34" align="left">Aqui encontraras toda la información relacionada con el coloquio.</p>
+                                        <p class="Estilo34" align="left"><a href="noticias/2017-coloquio-agosto-diciembre.php" class="rm">LEER NOTA</a></p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <!--<div class="col-md-6">
-                            <div class="thumbnail text-left img2">
-                                <img src="img/Coloquio_Ene-Jun_2017/1.jpg" alt="coloquio_ene-jun-17" class="media-object img-responsive imgNewsZoom">
-                                <div class="caption">
-                                    <h2>Coloquio Enero-Junio 2017</h2>
-                                    <p class="Estilo34" align="left">Aqui encontraras toda la información relacionada con el coloquio.</p>
-                                    <p class="Estilo34" align="left"><a href="coloquio_Ene-Jun-2017.html" class="rm">LEER NOTA</a></p>
+                            <!--<div class="col-md-6">
+                                <div class="thumbnail text-left img2">
+                                    <img src="img/Coloquio_Ene-Jun_2017/1.jpg" alt="coloquio_ene-jun-17" class="media-object img-responsive imgNewsZoom">
+                                    <div class="caption">
+                                        <h2>Coloquio Enero-Junio 2017</h2>
+                                        <p class="Estilo34" align="left">Aqui encontraras toda la información relacionada con el coloquio.</p>
+                                        <p class="Estilo34" align="left"><a href="coloquio_Ene-Jun-2017.html" class="rm">LEER NOTA</a></p>
+                                    </div>
+                                </div>
+                            </div>--> 
+                            <div class="col-md-6">
+                                <div class="thumbnail text-left imagen-noticia">
+                                    <img src="img\Jornada-4\jornada4 (4).jpg" alt="Cuarta Jornada Academica" class="media-object img-responsive imgNewsZoom">
+                                    <div class="caption">
+                                        <h2>Cuarta Jornada Académica</h2>
+                                        <p class="Estilo34" align="left">Aqui encontraras toda la información relacionada con la cuarta jornada académica.</p>
+                                        <p class="Estilo34" align="left"><a href="noticias/cuarta-jornada-academica.php" class="rm">LEER NOTA</a></p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>--> 
-                        <div class="col-md-6">
-                            <div class="thumbnail text-left imagen-noticia">
-                                <img src="img\Jornada-4\jornada4 (4).jpg" alt="Cuarta Jornada Academica" class="media-object img-responsive imgNewsZoom">
-                                <div class="caption">
-                                    <h2>Cuarta Jornada Académica</h2>
-                                    <p class="Estilo34" align="left">Aqui encontraras toda la información relacionada con la cuarta jornada académica.</p>
-                                    <p class="Estilo34" align="left"><a href="noticias/cuarta-jornada-academica.php" class="rm">LEER NOTA</a></p>
-                                </div>
-                            </div>
-                        </div>
                         <hr>
-                    </div>
+                                    </div>
 
                     <!-- Seccion de widgets-->
 

@@ -885,6 +885,8 @@ img#wpstats {
 @media (max-width: 768px) {
     .navbar {
         background: #e8e8e8;
+        margin-top: 0px;
+        margin-bottom: 5px;
     }
 
     .navbar-header {
@@ -902,6 +904,8 @@ img#wpstats {
     .navbar {
         margin-top: 40px;
         min-height: 39px !important;
+        margin-bottom: 15px;
+        margin-top: 15px;
     }
     #navbar {
         background: #fafafa;
@@ -954,6 +958,50 @@ img#wpstats {
     }
 
 }
+
+@media (max-width: 768px) {
+    .mod-carousel{
+        margin-top: 0px;
+        margin-left: 2px;
+        margin-right: 2px; 
+    }
+}
 /*
 * Fin Carrousel
+*/
+
+/*
+* Container
+*/
+
+@media (max-width: 768px) {
+    .mod-container{
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    img-cualquiera{
+        //width: 100%;
+        height: 300px;
+    }
+}
+/*
+* Fin Container
+*/
+
+/*
+* Footer
+*/
+
+@media (max-width: 768px) {
+    .links_footer {
+        padding-bottom: 0px;
+    }
+    ejempl-titulo{
+        font-size: 12px;
+    }
+}
+/*
+* Fin Footer
 */

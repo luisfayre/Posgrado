@@ -51,8 +51,6 @@
      padding-left: 0px;
      border-left-width: 0px;
      border-right-width: 0px;
-     margin-bottom: 15px;
-     margin-top: 15px;
      ">
 
     <div class="navbar-header">

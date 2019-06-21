@@ -15,8 +15,8 @@
 </div-->
 
 <header>
-    <div class="container">
-        <div class="">
+    <div class="container mod-container">
+        <div class="hidden-xs">
             <a href="https://www.gob.mx/" id="" target="_self" class="widget_sp_image-image-link" title="">
                 <img width="100" height="31" alt="" class="attachment-100x31 alignleft" style="max-width: 100%;"
                      src="img/logos/gob.png">
@@ -24,7 +24,7 @@
         </div>
 
         <div>
-            <img title="División de estudios de posgrado e investigación del Instituto tecnologico de chihuhua II" src="img/banner_principal2-mod.png" width="100%"
+            <img class="img-cualquiera" title="División de estudios de posgrado e investigación del Instituto tecnologico de chihuhua II" src="img/banner_principal2-mod.png" width="100%"
                  alt="DEPI ITCH II">
         </div>
 
