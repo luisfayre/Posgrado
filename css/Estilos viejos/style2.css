@@ -573,19 +573,15 @@ h6 {
     height: 160px;
     font: 35px "Times New Roman", Times, serif;
 }
-
 #boton-menu:hover {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 }
-
 #boton-menu a {
     padding-left: 5px;
 }
 
-#boton-menu a,
-#boton-menu a:visited,
-#boton-menu a:hover {
+#boton-menu a,#boton-menu a:visited,#boton-menu a:hover {
     color: #C4C4C4 !important;
     text-decoration: none;
 }
