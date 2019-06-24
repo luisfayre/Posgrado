@@ -35,7 +35,7 @@ and Blueprint http://www.blueprintcss.org/
     color:#C00;
     text-align:left;
 }
-
+/*
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -54,7 +54,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     padding: 0;
     vertical-align: baseline;
 
-}
+}*/
 html {
     overflow-y: scroll; /* Keeps page centred in all browsers regardless of content height */
     -webkit-text-size-adjust: 100%; /* Prevents iOS text size adjust after orientation change, without disabling user zoom */
@@ -133,18 +133,19 @@ body {
     background: #eaeaea;
 }
 /* Headings */
+/*
 h1, h2, h3, h4, h5, h6 {
     padding-bottom: 18px;
     color: #444444;
     font-weight: normal;
     font-family: 'Trajan Pro Bold';
-}
-h1 { font-size: 30px; line-height: 36px; font-family: 'Trajan Pro Bold'; }
+}*/
+/*h1 { font-size: 30px; line-height: 36px; font-family: 'Trajan Pro Bold'; }
 h2 { font-size: 28px; line-height: 34px;  font-family: 'Trajan Pro Bold'; }
 h3 { font-size: 26px; line-height: 32px;  font-family: 'Trajan Pro Bold'; }
 h4 { font-size: 24px; line-height: 30px; }
 h5 { font-size: 22px; line-height: 28px; }
-h6 { font-size: 19px; line-height: 25px; }
+h6 { font-size: 19px; line-height: 25px; }*/
 hr {
     border-color: #EAEAEA;
     border-style: solid none none;
@@ -448,13 +449,13 @@ sectionp{
 
 /* =TEXT ELEMENTS
 ----------------------------------------------- */
-p {
+/*p {
     line-height: 24px;
     margin-bottom: 15px;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 300;
-}
+}*/
 strong {
     font-weight: bold;
 }
@@ -832,9 +833,9 @@ body {
     color: #555555;
     font-size: 36px;
 }
-h1#site-title {
+/*h1#site-title {
     padding-bottom: 5px;
-}
+}*/
 #site-title a:hover {
     color: #77CC6D;
 }

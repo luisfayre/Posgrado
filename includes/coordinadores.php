@@ -24,7 +24,20 @@
         </p>
     </div>
 </div>
-
+<!--div class="media thumbnail row">
+    <a class="col-xs-12 col-md-3 media-left" href="#">
+        <img class="img-responsive"src="img/cv/Ilya_2.jpg" alt="..." height="100px">
+    </a>
+    <div class="col-xs-12 col-md-9 row media-body">
+        <div class="col-md-12">
+            <h4 class="media-heading">Ilya Lorena Sánchez Rivera</h4>
+        </div>
+        <div class="col-md-12">
+            16/09/1998 - 2019 Tecnológico Nacional De México / Instituto Tecnológico De Chihuahua II,
+            Coordinadora de la Maesría en Sistemas Computacionales, Tiempo completo
+        </div>
+    </div>
+</div-->
 
 <!--div class="media marcos thumbnail">
     <div class="media-left media-middle">

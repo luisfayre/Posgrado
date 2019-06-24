@@ -67,13 +67,6 @@ div.imagen-noticia {
     color: #666;
 }
 
-p {
-    line-height: 24px;
-    margin-bottom: 15px;
-    /* font-family: 'Roboto', sans-serif; */
-    font-size: 16px;
-    font-weight: 300;
-}
 
 /* Aumentar imagen */
 .thumbnail .caption {
@@ -639,19 +632,6 @@ img#wpstats {
     float:left;
 }
 
-.noticia
-{
-    font-family: 'Trajan Pro Bold';
-    font-size:25px;
-    color:#C00;
-    text-align:left;
-}
-.principal
-{
-    font-family: 'Trajan Pro Bold';
-    font-size:25px;
-    color:#C00;
-}
 
 
 
@@ -877,6 +857,51 @@ img#wpstats {
     }
 }
 
+/*
+* TEXTOS
+*/
+
+.noticia
+{
+    font-family: 'Trajan Pro Bold';
+    font-size:25px;
+    color:#C00;
+    text-align:left;
+}
+.principal
+{
+    font-family: 'Trajan Pro Bold';
+    color:#C00;
+}
+
+.titulo
+{
+    font-family: 'Trajan Pro Bold';
+    color:#C00;
+}
+
+p {
+    line-height: 24px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+@media (max-width: 768px){
+    p{
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 30px;
+    }
+    .titulo
+    {
+        text-align: center;
+    }
+}
+
+/*
+* Parrafos
+*/
 
 /*
 *Navbar

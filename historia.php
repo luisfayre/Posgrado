@@ -45,11 +45,10 @@
 
                         <div class="col-md-12 bloque col-sm-12">
 
-                            <h4 class="noticia">
+                            <h1 class="titulo">
                                 Historia
-                            </h4>
+                            </h1>
 
-                            <br>
                         </div>
 
                         <div class="col-md-12 col-sm-12" style="text-align: justify">
