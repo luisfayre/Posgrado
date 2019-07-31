@@ -56,8 +56,8 @@
                         <tr>
                             <th>LAURA ITZEL PAYÁN SIVITOS</th>
                             <th>01/17</th>
-                            <th></th>
-                            <th></th>
+                            <th>27/06/19</th>
+                           <th>MAESTRO(A)</th>
                         </tr>
                         <tr>
                             <th>GUSTAVO ADOLFO RIVAS HERNÁNDEZ</th>

@@ -68,14 +68,20 @@
                         <tr>
                             <th>JULIAN GARCIA ARZATE</th>
                             <th>08/16</th>
-                            <th></th>
-                            <th></th>
+                            <th>31/07/19</th>
+                            <th>MAESTRO(A)</th>
                         </tr>
                         <tr>
                             <th>DAVID GUSTAVO CALDERON</th>
                             <th>08/16</th>
                             <th></th>
                             <th></th>
+                        </tr>
+                        <tr>
+                            <th>TOMAS DANIEL PORTILLO OGAZ</th>
+                            <th>08/16</th>
+                            <th>08/03/19</th>
+                            <th>MAESTRO(A)</th>
                         </tr>
                     </tbody>
                 </table>
