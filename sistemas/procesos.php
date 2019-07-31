@@ -39,7 +39,7 @@
             </div>
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-12">
-                    <img class="img-responsive" src="../img/organigrama/procesos_administrativos_organigrama.png" alt="Organigrama de División de Estudios de Posgrado e Investigación">
+                    <img class="img-responsive" src="../img/organigrama/procesos.png" alt="Organigrama de División de Estudios de Posgrado e Investigación">
                 </div>
             </div>
             <div class="row">
@@ -50,7 +50,7 @@
             </div>
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-12">
-                    <img class="img-responsive" src="../img/organigrama/comite_procesos_administrativos.png" alt="Organigrama del Comité Institucional de Posgrado e Investigación">
+                    <img class="img-responsive" src="../img/organigrama/procesos_comite.png" alt="Organigrama del Comité Institucional de Posgrado e Investigación">
                 </div>
             </div>
             <!--div class="row bloque">
