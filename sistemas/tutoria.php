@@ -99,20 +99,15 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td style="background-color: #007D32;"><span style="color: white;"><span
-                                            style="font-weight: bold;">Nombre Completo </span></span>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Nombre Completo </span></span>
                                 </td>
-                                <td style="background-color: #007D32;"><span style="color: white;"><span
-                                            style="font-weight: bold;">Director </span></span>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">DIRECTOR </span></span>
                                 </td>
-                                <td style="background-color: #007D32;"><span style="color: white;"><span
-                                            style="font-weight: bold;">Profesor </span></span>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">CODIRECTOR </span></span>
                                 </td>
-                                <td style="background-color: #007D32;"><span style="color: white;"><span
-                                            style="font-weight: bold;">Profesor </span></span>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">REVISOR 1 </span></span>
                                 </td>
-                                <td style="background-color: #007D32;"><span style="color: white;"><span
-                                            style="font-weight: bold;">Profesor </span></span>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">REVISOR 2 </span></span>
                                 </td>
                             </tr>
                             <tr>
@@ -200,13 +195,13 @@
                             <tr>
                                 <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Nombre Completo </span></span>
                                 </td>
-                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Director </span></span>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">DIRECTOR </span></span>
                                 </td>
-                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Profesor </span></span>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">CODIRECTOR </span></span>
                                 </td>
-                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Profesor </span></span>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">REVISOR 1 </span></span>
                                 </td>
-                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Profesor </span></span>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">REVISOR 2 </span></span>
                                 </td>
                             </tr>
                             <tr>
