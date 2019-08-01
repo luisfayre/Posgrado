@@ -50,7 +50,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-sm-6 col-md-4">
+                    <!--div class="col-sm-6 col-md-4">
                         <a class="ResetLink" href="documentos/FormatoConstanciaNoAdeudos(FCNA-09).docx">
                             <div class="documentos">
                                 <div class="caption text-center ">
@@ -58,8 +58,9 @@
                                 </div>
                             </div>
                         </a>
-                    </div>
-                    <div class="col-sm-6 col-md-4">
+                    </div-->
+                    
+                    <!--div class="col-sm-6 col-md-4">
                         <a class="ResetLink" href="documentos/FormatoAceptacionPropuestaTesisFAP-04Act.docx">
                             <div class="documentos">
                                 <div class="caption text-center ">
@@ -67,7 +68,8 @@
                                 </div>
                             </div>
                         </a>
-                    </div>
+                    </div-->
+                    
                     <div class="col-sm-6 col-md-4">
                         <a class="ResetLink" href="documentos/FormatoPropuestaTemaTesisFTT-02Act.docx">
                             <div class="documentos">
