@@ -5,31 +5,25 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Bootstrap-->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
         <!-- Estilos-->
-        <link rel="stylesheet" href="css/style_tec.css">
-        <link rel="stylesheet" href="css/index.css">
-        <!-- Funete-->
-        <link rel="stylesheet" href="css/font-awesome.css">
+        <link rel="stylesheet" href="../css/style_tec.css">
+        <link rel="stylesheet" href="../css/index.css">
         <!-- Scripts-->
-        <script src="js/jquery.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/javascript.js"></script>
-        <script type="text/javascript" src="js/jquery.slidepanel.js"></script>
-        <link rel="stylesheet" type="text/css" href="css/jquery.slidepanel.css">
-
+        <script src="../js/jquery.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
 
         <title>Convocatoria 2020-1</title>
     </head>
 
     <body class="bodyIndex">
         <?php
-        require_once 'includes/header_depi.php';
+        require_once 'includes/header.php';
         ?>
         <!--Navbar-->
         <div class="container">
             <?php
-            require_once 'includes/navbar_depi.php';
+            require_once 'includes/navbar_noticias.php';
             ?>
         </div>
 
@@ -94,9 +88,6 @@
                             </p>
                             <p>
                                 3. Presentar examen de ingreso (6 de diciembre 2019).
-                                <a class="btn bg-info" href="documentos/GuiaExaConocmaestriaSC2.pdf">
-                                    (Guía)
-                                </a>
                             </p>
                             <div style="padding-left: 15px">
                                 <li>Costo $800.00.</li>
@@ -105,6 +96,9 @@
                             <br>
                             <p>
                                 4. Presentar examen de inglés (7 de diciembre 2019).
+                                <a class="btn bg-info" href="./../documentos/GuiaExaConocmaestriaSC2.pdf">
+                                    (Guía)
+                                </a>
                             </p>
                             <div style="padding-left: 15px">
                                 <li>Costo $250.00.</li>
@@ -228,7 +222,7 @@
                 </div>
 
                 <?php
-                require_once 'includes/widgets.php';
+                //require_once 'includes/widgets.php';
                 ?>
             </div>
         </div>
