@@ -47,6 +47,7 @@
                     <thead>
                         <tr class="success">
                             <th>Nombre</th>
+                            <th>Tema de Tesis</th>
                             <th>Fecha de ingreso</th>
                             <th>Fecha de egreso</th>
                             <th>Grado</th>
@@ -55,12 +56,22 @@
                     <tbody class="text-left">
                         <tr>
                             <th>JUANA GARCÍA SEAÑEZ</th>
+                            <th>
+                                <a href="../documentos/tesis/2015/Software aumentativo y alternativo de comunicación para personas con alteraciones del habla - Juana garcía séañez.pdf">
+                                    Software aumentativo y alternativo de comunicación para personas con alteraciones del habla
+                                </a>
+                            </th>
                             <th>08/15</th>
                             <th>07/17</th>
                             <th>MAESTRO(A)</th>
                         </tr>
                         <tr>
                             <th>EMANUELLE PORTILLO TORRES</th>
+                            <th>
+                                <a href="#">
+                                    Creación e integración del módulo para la detección de polaridad de opiniones
+                                </a>
+                            </th>
                             <th>08/15</th>
                             <th>07/17</th>
                             <th>MAESTRO(A)</th>

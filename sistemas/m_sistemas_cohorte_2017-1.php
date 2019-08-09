@@ -32,7 +32,7 @@
             require_once 'includes/navbar_sistemas.php';
             ?>
         </div>
-        
+
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -47,6 +47,7 @@
                     <thead>
                         <tr class="success">
                             <th>Nombre</th>
+                            <th>Tema de Tesis</th>
                             <th>Fecha de ingreso</th>
                             <th>Fecha de egreso</th>
                             <th>Grado</th>
@@ -55,12 +56,22 @@
                     <tbody class="text-left">
                         <tr>
                             <th>LAURA ITZEL PAYÁN SIVITOS</th>
+                            <th>
+                                <a href="./../documentos/tesis/2017/Implementación de un curso adaptativo basado en estilos de aprendizaje mediante lógica difusa - Laura itzel payán sivitos.pdf">
+                                    Implementación de un curso adaptativo basado en estilos de aprendizaje mediante lógica difusa
+                                </a>
+                            </th>
                             <th>01/17</th>
                             <th>27/06/19</th>
-                           <th>MAESTRO(A)</th>
+                            <th>MAESTRO(A)</th>
                         </tr>
                         <tr>
                             <th>GUSTAVO ADOLFO RIVAS HERNÁNDEZ</th>
+                            <th>
+                                <a>
+                                    Aprendizaje adaptativo mediante conocimientos previos para la materia de fundamentos de programación
+                                </a>
+                            </th>
                             <th>01/17</th>
                             <th></th>
                             <th></th>
@@ -68,6 +79,11 @@
 
                         <tr>
                             <th>JORGE HUGO TERRAZAS RODRÍGUEZ</th>
+                            <th>
+                                <a>
+                                    Sistema de comprensión lectora y cálculo mental
+                                </a>
+                            </th>
                             <th>01/17</th>
                             <th></th>
                             <th></th>
@@ -75,18 +91,33 @@
 
                         <tr>
                             <th>JOSÉ LUIS CASTRO LOZOYA</th>
+                            <th>
+                                <a>
+                                    Prototipo didáctico de inspección visual
+                                </a>
+                            </th>
                             <th>01/17</th>
                             <th></th>
                             <th></th>
                         </tr>
                         <tr>
                             <th>LUIS FERNANDO ESPINOSA TREJO</th>
+                            <th>
+                                <a>
+                                    Análisis de desempeño de la red de sensores inalámbricos inteligentes en una huerta manzanera
+                                </a>
+                            </th>
                             <th>01/17</th>
                             <th></th>
                             <th></th>
                         </tr>
                         <tr>
                             <th>PAULINA PATRICIA QUEZADA LEYVA</th>
+                            <th>
+                                <a>
+                                    Asistente para ejercicios de rehabilitación para niños con capacidades diferentes
+                                </a>
+                            </th>
                             <th>01/17</th>
                             <th></th>
                             <th></th>

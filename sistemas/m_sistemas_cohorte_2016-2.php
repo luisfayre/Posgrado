@@ -32,7 +32,7 @@
             require_once 'includes/navbar_sistemas.php';
             ?>
         </div>
-        
+
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -47,6 +47,7 @@
                     <thead>
                         <tr class="success">
                             <th>Nombre</th>
+                            <th>Tema de Tesis</th>
                             <th>Fecha de ingreso</th>
                             <th>Fecha de egreso</th>
                             <th>Grado</th>
@@ -55,30 +56,54 @@
                     <tbody class="text-left">
                         <tr>
                             <th>ANA CECILIA ALVARADO GUTIÉRREZ</th>
+                            <th>
+                                <a href="#">
+                                    Sensores inteligentes autoconfigurables para la gestión de recursos en ambientes de interiores y exteriores
+                                </a>
+                            </th>
                             <th>08/16</th>
                             <th></th>
                             <th></th>
                         </tr>
                         <tr>
                             <th>ADRIANA CISNEROS SILVA</th>
+                            <th>
+                                <a href="#">
+                                    Obtención de los datos de una persona a partir de su identificación oficial
+                                </a>
+                            </th>
                             <th>08/16</th>
                             <th></th>
                             <th></th>
                         </tr>
                         <tr>
                             <th>JULIAN GARCIA ARZATE</th>
+                            <th>
+                                <a href="../documentos/tesis/2016/Búsqueda de información pública utilizando técnicas de inteligencia artificial - Julián garcía arzate.pdf">
+                                    Búsqueda de información pública utilizando técnicas de inteligencia artificial
+                                </a>
+                            </th>
                             <th>08/16</th>
                             <th>31/07/19</th>
                             <th>MAESTRO(A)</th>
                         </tr>
                         <tr>
                             <th>DAVID GUSTAVO CALDERON</th>
+                            <th>
+                                <a href="#">
+                                </a>
+                            </th>
                             <th>08/16</th>
                             <th></th>
                             <th></th>
                         </tr>
                         <tr>
                             <th>TOMAS DANIEL PORTILLO OGAZ</th>
+                            <th>
+                                <a href="#">
+                                    Implementación de software scada para monitoreo y control de un edificio inteligente
+                                </a>
+                            </th>
                             <th>08/16</th>
                             <th>08/03/19</th>
                             <th>MAESTRO(A)</th>

@@ -32,7 +32,7 @@
             require_once 'includes/navbar_sistemas.php';
             ?>
         </div>
-        
+
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -47,6 +47,7 @@
                     <thead>
                         <tr class="success">
                             <th>Nombre</th>
+                            <th>Tema de Tesis</th>
                             <th>Fecha de ingreso</th>
                             <th>Fecha de egreso</th>
                             <th>Grado</th>
@@ -56,18 +57,33 @@
 
                         <tr>
                             <th>CAMACHO RÍOS GABRIELA</th>
+                            <th>
+                                <a href="../documentos/tesis/2014/Aplicación para mejorar la enseñanza - Gabriela Camacho Ríos.pdf">
+                                    Aplicación para mejorar la enseñanza de las ecuaciones diferenciales
+                                </a>
+                            </th>
                             <th>08/14</th>
                             <th>07/16</th>
                             <th>MAESTRO(A)</th>
                         </tr>
                         <tr>
                             <th>CHAVIRA CELAYA LORENA</th>
+                            <th>
+                                <a href="../documentos/tesis/2014/Aplicación para enseñar el uso del teclado QWERTY a niños con discapacidad visual de entre 6 y 8 años de edad - Lorena Chavira.pdf">
+                                    Aplicación para enseñar el uso del teclado QWERTY a niños con discapacidad visual de entre 6 y 8 años de edad
+                                </a>
+                            </th>
                             <th>08/14</th>
                             <th>07/16</th>
                             <th>MAESTRO(A)</th>
                         </tr>
                         <tr>
                             <th>RUBIO RASCÓN CARLOS HUMBERTO</th>
+                            <th>
+                                <a href="../documentos/tesis/2014/Implementación de programación genética para el diseño de laminados de materiales compuestos - Carlos Rubio.pdf">
+                                    Implementación de programación genética para el diseño de laminados de materiales compuestos
+                                </a>
+                            </th>
                             <th>08/14</th>
                             <th>07/16</th>
                             <th>MAESTRO(A)</th>
