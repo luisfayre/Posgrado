@@ -100,7 +100,7 @@
                         <tr>
                             <th>TOMAS DANIEL PORTILLO OGAZ</th>
                             <th>
-                                <a href="#">
+                                <a href="">
                                     Implementación de software scada para monitoreo y control de un edificio inteligente
                                 </a>
                             </th>
