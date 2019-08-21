@@ -215,11 +215,13 @@
                             <tr>
                                 <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Agosto- Diciembre 2014 </span></span>
                                 </td>
-                                <td class="text-center" colspan="4" style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Comite Tutorial </span></span>
+                                <td class="text-center" colspan="5" style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Comite Tutorial </span></span>
                                 </td>
                             </tr>
                             <tr>
                                 <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Nombre Completo </span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">TESIS </span></span>
                                 </td>
                                 <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">DIRECTOR </span></span>
                                 </td>
@@ -846,21 +848,21 @@
                             <tr class="row41">
 
                                 <td class="column1 style34 s">CLAUDIA CECILIA CHÁVEZ MOLINA</td>
-                                <td class="column2 style35 null"></td>
+                                <td class="column2 style35 s">APLICACIÓN PARA EL APRENDIZAJE DE ESPACIOS VECTORIALES</td>
+                                <td class="column4 style35 s">DR. JESÚS HUMBERTO CUEVAS</td>
+                                <td class="column5 style35 s">VERÓNICA VALENZUELA</td>
                                 <td class="column3 style23 s">DR. ALBERTO CAMACHO RIOS</td>
-                                <td class="column4 style35 null"></td>
-                                <td class="column5 style35 null"></td>
-                                <td class="column6 style35 null"></td>
+                                <td class="column3 style29 s">DR. RAFAEL SANDOVAL RODRÍGUEZ</td>
 
                             </tr>
                             <tr class="row42">
 
-                                <td class="column1 style34 s">CARLOS RICARDO TONATIUHGARCÍA REYES</td>
+                                <td class="column1 style34 s">CARLOS RICARDO TONATIUH GARCÍA REYES</td>
                                 <td class="column2 style23 s">T-MEGALORIDE</td>
                                 <td class="column3 style32 s">DR. HERNÁN DE LA GARZA GUTIÉRREZ</td>
-                                <td class="column4 style35 null"></td>
-                                <td class="column5 style35 null"></td>
-                                <td class="column6 style35 null"></td>
+                                <td class="column3 style29 s">DR. RAFAEL SANDOVAL RODRÍGUEZ</td>
+                                <td class="column4 style15 s">M.I.S.C. JESUS ARTURO ALVARADO GRANADINO</td>
+                                <td class="column3 style23 s">DR. ALBERTO CAMACHO RIOS</td>
 
                             </tr>
                             <tr class="row43">
@@ -868,29 +870,29 @@
                                 <td class="column1 style34 s">LUIS EMMANUEL ROJAS AREDONDO</td>
                                 <td class="column2 style23 s">PROTESIS DE MANO</td>
                                 <td class="column3 style29 s">DR. RAFAEL SANDOVAL RODRÍGUEZ</td>
-                                <td class="column4 style35 null"></td>
-                                <td class="column5 style35 null"></td>
-                                <td class="column6 style35 null"></td>
+                                <td class="column3 style29 s">M.C. ARTURO LEGARDA SAÉNZ</td>
+                                <td class="column4 style15 s">M.I.S.C. JESUS ARTURO ALVARADO GRANADINO</td>
+                                <td class="column3 style23 s">DR. ALBERTO CAMACHO RIOS</td>
 
                             </tr>
                             <tr class="row44">
 
                                 <td class="column1 style34 s">JESÚS ALONSO NUÑEZ BETANCOURT</td>
                                 <td class="column2 style23 s">ALARMA INTELIGENTE PARA USO DOMÉSTICO</td>
+                                <td class="column3 style29 s">M.C. ARTURO LEGARDA SAÉNZ</td>
                                 <td class="column3 style29 s">DR. RAFAEL SANDOVAL RODRÍGUEZ</td>
-                                <td class="column4 style35 null"></td>
-                                <td class="column5 style35 null"></td>
-                                <td class="column6 style35 null"></td>
+                                <td class="column4 style15 s">M.I.S.C. JESUS ARTURO ALVARADO GRANADINO</td>
+                                <td class="column6 style15 s">DRA.MARISELA IVETTE CALDERA FRANCO</td>
 
                             </tr>
                             <tr class="row45">
 
                                 <td class="column1 style34 s">MELINA MARLENE MOLINA CEPEDA</td>
                                 <td class="column2 style23 s">SELECCIONADOR UTILIZANDO REINFORCEMENT LEARNING</td>
+                                <td class="column4 style15 s">M.I.S.C. JESUS ARTURO ALVARADO GRANADINO</td>
                                 <td class="column3 style32 s">DR. HERNÁN DE LA GARZA GUTIÉRREZ</td>
-                                <td class="column4 style35 null"></td>
-                                <td class="column5 style35 null"></td>
-                                <td class="column6 style35 null"></td>
+                                <td class="column3 style29 s">M.C. ARTURO LEGARDA SAÉNZ</td>
+                                <td class="column6 style35 s">M.C. LEONARDO NEVAREZ CHAVEZ</td>
 
                             </tr>
                         </tbody>
