@@ -47,6 +47,7 @@
                     <thead>
                         <tr class="success">
                             <th>Nombre</th>
+                            <th>Tema de Tesis</th>
                             <th>Fecha de ingreso</th>
                             <th>Fecha de egreso</th>
                             <th>Grado</th>
@@ -55,24 +56,44 @@
                     <tbody class="text-left">
                         <tr>
                             <th>MARTINEZ MORFIN CLAUDIO</th>
+                            <th>
+                                <a href="../documentos/tesis/2015/Desarrollo de librería para mallado 2D mediante redes neuronales - Claudio Ivan Martinez Morfin.pdf">
+                                    Desarrollo de librería para mallado 2D mediante redes neuronales
+                                </a>
+                            </th>
                             <th>01/15</th>
                             <th>12/16</th>
                             <th>MAESTRO(A)</th>
                         </tr>
                         <tr>
                             <th>SALDAÑA VILLALBA JOEL ADAN</th>
+                            <th>
+                                <a href="../documentos/tesis/2015/Detección de registros duplicados de pacientes en múltiples fuentes de información - Joel Adan Saldana Villalba.pdf">
+                                    Detección de registros duplicados de pacientes en múltiples fuentes de información
+                                </a>
+                            </th>
                             <th>01/15</th>
                             <th>12/16</th>
                             <th>MAESTRO(A)</th>
                         </tr>
                         <tr>
                             <th>SOLTERO SALCIDO ERIK RENE</th>
+                            <th>
+                                <a href="../documentos/tesis/2015/Aplicación para el apoyo al aprendizaje de fracciones en el 3er ciclo de primaria - Erik rené soltero salcido.pdf">
+                                    Aplicación para el apoyo al aprendizaje de fracciones en el 3er ciclo de primaria
+                                </a>
+                            </th>
                             <th>01/15</th>
                             <th>12/16</th>
                             <th>MAESTRO(A)</th>
                         </tr>
                         <tr>
                             <th>YAÑEZ CASTAÑEDA MARIA ANGELICA</th>
+                            <th>
+                                <a href="../documentos/tesis/2015/Implementación para la sincronización de labios en una imagen vectorizada - María angélica yáñez.pdf">
+                                    Implementación para la sincronización de labios en una imagen vectorizada
+                                </a>
+                            </th>
                             <th>01/15</th>
                             <th>12/16</th>
                             <th>MAESTRO(A)</th>

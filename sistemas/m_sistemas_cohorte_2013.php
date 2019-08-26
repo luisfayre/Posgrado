@@ -32,7 +32,7 @@
             require_once 'includes/navbar_sistemas.php';
             ?>
         </div>
-        
+
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -47,6 +47,7 @@
                     <thead>
                         <tr class="success">
                             <th>Nombre</th>
+                            <th>Tema de Tesis</th>
                             <th>Fecha de ingreso</th>
                             <th>Fecha de egreso</th>
                             <th>Grado</th>
@@ -55,24 +56,42 @@
                     <tbody class="text-left">
                         <tr>
                             <th>CAMPOS FRIAS TANIA PAOLA</th>
+                            <th>
+                                <a href="./../documentos/tesis/2013/Software De Indexado De Patrones De Difracción (SIPAD) - Tania Campos.pdf">
+                                   Software De Indexado De Patrones De Difracción (SIPAD)  
+                                </a>
+                            </th>
                             <th>08/13</th>
                             <th>07/15</th>
                             <th>MAESTRO(A)<th>
                         </tr>
                         <tr>
                             <th>CASTANEDA BALDERAS RUBEN</th>
+                            <th>
+                                <a href="./../documentos/tesis/2013/Determinación del mapa de deformaciones en probetas planas mediante el método de correlación digital de imágenes - Rubén Castañeda.pdf">
+                                   Determinación del mapa de deformaciones en probetas planas mediante el método de correlación digital de imágenes
+                                </a>
+                            </th>
                             <th>08/13</th>
                             <th>07/15</th>
                             <th>MAESTRO(A)</th>
                         </tr>
                         <tr>
-                            <th>MUNOZ ESTRADA EDGAR ARMANDO</th>
+                            <th>MUÑOZ ESTRADA EDGAR ARMANDO</th>
+                            <th>
+                                <a href="./../documentos/tesis/2013/Modulo de reconocimiento de particulas microscopicas (REMIC) - Edgar Muñoz.pdf">
+                                    Modelo de reconocimiento de partículas microscópicas (REMIC)
+                                </a>
+                            </th>
                             <th>08/13</th>
                             <th>07/15</th>
                             <th>MAESTRO(A)</th>
                         </tr>
                         <tr>
                             <th>SIFUENTES DIAZ ALEXANDRO</th>
+                            <th>
+                                Módulo de unificación de imágenes para microscopía óptica
+                            </th>
                             <th>08/13</th>
                             <th>07/15</th>
                             <th>MAESTRO(A)</th>

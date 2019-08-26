@@ -47,6 +47,7 @@
                     <thead>
                         <tr class="success">
                             <th>Nombre</th>
+                            <th>Tesis</th>
                             <th>Fecha de ingreso</th>
                             <th>Fecha de egreso</th>
                             <th>Grado</th>
@@ -55,6 +56,7 @@
                     <tbody class="text-left">
                         <tr>
                             <th>ROSALBA LÓPEZ MENDOZA</th>
+                            <th>SOFTWARE PARA LA ESTIMULACIÓN VISUAL DE NIÑOS CON BAJA VISIÓN</th>
                             <th>01/16</th>
                             <th>12/17</th>
                             <th>MAESTRO(A)</th>

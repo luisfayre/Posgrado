@@ -94,12 +94,14 @@
                                 <td style="background-color: #007D32;"><span style="color: white;"><span
                                             style="font-weight: bold;">Agosto- Diciembre 2013 </span></span>
                                 </td>
-                                <td class="text-center" colspan="4" style="background-color: #007D32;"><span style="color: white;"><span
+                                <td class="text-center" colspan="5" style="background-color: #007D32;"><span style="color: white;"><span
                                             style="font-weight: bold;">Comite Tutorial </span></span>
                                 </td>
                             </tr>
                             <tr>
                                 <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Nombre Completo </span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Tesis</span></span>
                                 </td>
                                 <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">DIRECTOR </span></span>
                                 </td>
@@ -112,6 +114,9 @@
                             </tr>
                             <tr>
                                 <td>Sifuentes Díaz Alexandro</td>
+                                <td>
+                                    Módulo de unificación de imágenes para microscopía óptica
+                                </td>
                                 <td>M.I.S.C. Jesús Arturo Alvarado Granadino</td>
                                 <td>Dr. Caleb Carreño Gallardo</td>
                                 <td>M.C. Arturo Legarda Saénz</td>
@@ -119,6 +124,7 @@
                             </tr>
                             <tr>
                                 <td>Piñon Gaytán Ariel</td>
+                                <td></td>
                                 <td>M.I.S.C. Jesús Arturo Alvarado Granadino</td>
                                 <td>M.C. Rafael Vázquez Pérez</td>
                                 <td>M.C. Arturo Legarda Saénz</td>
@@ -126,6 +132,11 @@
                             </tr>
                             <tr>
                                 <td>Castañeda Balderas Rubén</td>
+                                <td>
+                                    <a href="./../documentos/tesis/2013/Determinación del mapa de deformaciones en probetas planas mediante el método de correlación digital de imágenes - Rubén Castañeda.pdf">
+                                        Determinación del mapa de deformaciones en probetas planas mediante el método de correlación digital de imágenes
+                                    </a>
+                                </td>
                                 <td>DR. Hernán de la Garza</td>
                                 <td>DR. Alberto Díaz Díaz</td>
                                 <td>M.C. Rafael Vázquez Pérez</td>
@@ -133,6 +144,7 @@
                             </tr>
                             <tr>
                                 <td>Chaparro Díaz Marco Antonio</td>
+                                <td></td>
                                 <td>M.S.I. Gregorio Ronquillo Maynez</td>
                                 <td>DR. Alberto Camacho Ríos</td>
                                 <td>M.E.S M.E.S. Marisela Ivette Caldera Franco</td>
@@ -140,6 +152,11 @@
                             </tr>
                             <tr>
                                 <td>Muñoz Estrada Edgar Armando</td>
+                                <td>
+                                    <a href="./../documentos/tesis/2013/Modulo de reconocimiento de particulas microscopicas (REMIC) - Edgar Muñoz.pdf">
+                                        Modelo de reconocimiento de partículas microscópicas (REMIC)
+                                    </a>
+                                </td>
                                 <td>M.C. Arturo Legarda Sáenz</td>
                                 <td>DR. Caleb Carreño Gallardo</td>
                                 <td>DR. Hernán de la Garza</td>
@@ -147,6 +164,7 @@
                             </tr>
                             <tr>
                                 <td>De Santiago Nuñez Omar</td>
+                                <td></td>
                                 <td>M.C. Leonardo Nevarez Chavez</td>
                                 <td>DR. Alberto Camacho Ríos</td>
                                 <td>M.S.I. Gregorio Ronquillo Maynez</td>
@@ -154,6 +172,7 @@
                             </tr>
                             <tr>
                                 <td>Ortiz Barrio Gabino Alberto</td>
+                                <td></td>
                                 <td>M.E.S. Marisela Ivette Caldera Franco</td>
                                 <td>M.S.I. Sergio Antonio Talavera Carbajal</td>
                                 <td>DR. Jesús Humberto Cuevas Acosta</td>
@@ -161,6 +180,7 @@
                             </tr>
                             <tr>
                                 <td>Zapata Silva Jose Martín</td>
+                                <td></td>
                                 <td>M.E.S. Marisela Ivette Caldera Franco</td>
                                 <td>M.S.I. Gregorio Ronquillo Maynez</td>
                                 <td>M.C. Leonardo Nevarez Chavez</td>
@@ -168,6 +188,7 @@
                             </tr>
                             <tr>
                                 <td>Anzaldo Moreno Juan Adalberto</td>
+                                <td></td>
                                 <td>M.C. Rafael Vázquez Pérez</td>
                                 <td>DR. Eduardo Florencio Herrera </td>
                                 <td>M.I.S.C. Jesús Alvarado Granadino</td>
@@ -175,6 +196,11 @@
                             </tr>
                             <tr>
                                 <td>Campos Frías Tania Paola</td>
+                                <td>
+                                    <a href="./../documentos/tesis/2013/Software De Indexado De Patrones De Difracción (SIPAD) - Tania Campos.pdf">
+                                        Software De Indexado De Patrones De Difracción (SIPAD)  
+                                    </a>
+                                </td>
                                 <td>M.C. Rafael Vázquez Pérez</td>
                                 <td>M.C. Carlos Elias Ornelas</td>
                                 <td>DR. Hernán de la Garza</td>
@@ -189,11 +215,13 @@
                             <tr>
                                 <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Agosto- Diciembre 2014 </span></span>
                                 </td>
-                                <td class="text-center" colspan="4" style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Comite Tutorial </span></span>
+                                <td class="text-center" colspan="5" style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Comite Tutorial </span></span>
                                 </td>
                             </tr>
                             <tr>
                                 <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Nombre Completo </span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">TESIS </span></span>
                                 </td>
                                 <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">DIRECTOR </span></span>
                                 </td>
@@ -206,6 +234,11 @@
                             </tr>
                             <tr>
                                 <td>Gabriela Camacho Rios</td>
+                                <td>
+                                    <a href="../documentos/tesis/2014/Aplicación para mejorar la enseñanza - Gabriela Camacho Ríos.pdf">
+                                        Aplicación para mejorar la enseñanza de las ecuaciones diferenciales
+                                    </a>
+                                    </th>
                                 <td>M.E.S. Marisela Ivette Caldera Franco</td>
                                 <td>DR. Jesús Humberto Cuevas Acosta</td>
                                 <td>M.C. Blanca Maricela Ibarra Murrieta</td>
@@ -213,6 +246,7 @@
                             </tr>
                             <tr>
                                 <td>Sebastian Iram Acosta Lazalde</td>
+                                <td></td>
                                 <td>M.C. Arturo Legarda Saénz</td>
                                 <td>DR. Hernán de la Garza Gutiérrez</td>
                                 <td>M.C. Rafael Vázquez Pérez</td>
@@ -220,6 +254,7 @@
                             </tr>
                             <tr>
                                 <td>Alfonso Osio Calvillo</td>
+                                <td></td>
                                 <td>DR. Hernán de la Garza Gutiérrez</td>
                                 <td>M.C. Arturo Legarda Saénz</td>
                                 <td>M.I.S.C. Jesús Arturo Alvarado Granadino</td>
@@ -227,6 +262,11 @@
                             </tr>
                             <tr>
                                 <td>Lorena Chávira Celaya</td>
+                                <td>
+                                    <a href="../documentos/tesis/2014/Aplicación para enseñar el uso del teclado QWERTY a niños con discapacidad visual de entre 6 y 8 años de edad - Lorena Chavira.pdf">
+                                        Aplicación para enseñar el uso del teclado QWERTY a niños con discapacidad visual de entre 6 y 8 años de edad
+                                    </a>
+                                </td>
                                 <td>M.S.I. Sergio Antonio Talavera Carbajal</td>
                                 <td>M.C. Leonardo Nevarez Chavez</td>
                                 <td>M.S.I. Gregorio Ronquillo Maynez</td>
@@ -234,6 +274,11 @@
                             </tr>
                             <tr>
                                 <td>Carlos Humberto Rubio Rascón</td>
+                                <td>
+                                    <a href="../documentos/tesis/2014/Implementación de programación genética para el diseño de laminados de materiales compuestos - Carlos Rubio.pdf">
+                                        Implementación de programación genética para el diseño de laminados de materiales compuestos
+                                    </a>
+                                </td>>
                                 <td>M.C. Rafael Vázquez Pérez</td>
                                 <td>DR. Alberto Díaz Díaz</td>
                                 <td>DR. Hernán de la Garza Gutiérrez</td>
@@ -241,6 +286,7 @@
                             </tr>
                             <tr>
                                 <td>Octavio Flores Cano</td>
+                                <td></td>
                                 <td>M.S.I. Gregorio Ronquillo Maynez</td>
                                 <td>M.S.I. Sergio Antonio Talavera Carbajal</td>
                                 <td>M.C. Blanca Maricela Ibarra Murrieta</td>
@@ -351,7 +397,11 @@
                             <tr class="row11">
 
                                 <td class="column1 style13 s">JULIAN GARCIA ARZATE</td>
-                                <td class="column2 style14 s">SISTEMA DE BUSQUEDA DE INFORMACIÓN PÚBLICA CON TÉCNICAS DE INTELIGENCIA ARTIFICIAL.</td>
+                                <td>
+                                    <a href="../documentos/tesis/2016/Búsqueda de información pública utilizando técnicas de inteligencia artificial - Julián garcía arzate.pdf">
+                                        SISTEMA DE BUSQUEDA DE INFORMACIÓN PÚBLICA CON TÉCNICAS DE INTELIGENCIA ARTIFICIAL
+                                    </a>
+                                </td>
                                 <td class="column3 style15 s">M.I.S.C. JESUS ARTURO ALVARADO GRANADINO</td>
                                 <td class="column4 style16 s">DR. HERNÁN DE LA GARZA GUTIÉRREZ</td>
                                 <td class="column5 style16 s">M.C. ARTURO LEGARDA SÁENZ</td>
@@ -371,7 +421,11 @@
                             <tr class="row13">
 
                                 <td class="column1 style13 s">TOMAS DANIEL PORTILLO OGAZ</td>
-                                <td class="column2 style14 s">IMPLEMENTACIÓN DE SOFTWARE SCADA PARA MONITOREO Y CONTROL DE UN EDIFICIO INTELIGENTE</td>
+                                <td>
+                                    <a>
+                                        IMPLEMENTACIÓN DE SOFTWARE SCADA PARA MONITOREO Y CONTROL DE UN EDIFICIO INTELIGENTE
+                                    </a>
+                                </td>
                                 <td class="column3 style15 s">DR. RAFAEL SANDOVAL RODRÍGUEZ</td>
                                 <td class="column4 style16 s">M.C. ARTURO LEGARDA SÁENZ</td>
                                 <td class="column5 style15 s">M.I.S.C. JESUS ARTURO ALVARADO GRANADINO</td>
@@ -418,7 +472,11 @@
                             <tr class="row15">
 
                                 <td class="column1 style2 s">LAURA ITZEL PAYÁN SIVITOS</td>
-                                <td class="column2 style14 s">IMPLEMENTACIÓN DE UN CURSO ADAPTATIVO BASADO EN ESTILOS DE APRENDIZAJE MEDIANTE LÓGICA DIFUSA</td>
+                                <td>
+                                    <a href="./../documentos/tesis/2017/Implementación de un curso adaptativo basado en estilos de aprendizaje mediante lógica difusa - Laura itzel payán sivitos.pdf">
+                                        IMPLEMENTACIÓN DE UN CURSO ADAPTATIVO BASADO EN ESTILOS DE APRENDIZAJE MEDIANTE LÓGICA DIFUSA
+                                    </a>
+                                </td>
                                 <td class="column3 style15 s">M.C. LEONARDO NEVÁREZ CHÁVEZ</td>
                                 <td class="column4 style16 s">DR. ALBERTO CAMACHO RIOS</td>
                                 <td class="column5 style15 s">DR. GREGORIO RONQUILLO MAYNEZ</td>
@@ -790,21 +848,21 @@
                             <tr class="row41">
 
                                 <td class="column1 style34 s">CLAUDIA CECILIA CHÁVEZ MOLINA</td>
-                                <td class="column2 style35 null"></td>
+                                <td class="column2 style35 s">APLICACIÓN PARA EL APRENDIZAJE DE ESPACIOS VECTORIALES</td>
+                                <td class="column4 style35 s">DR. JESÚS HUMBERTO CUEVAS</td>
+                                <td class="column5 style35 s">VERÓNICA VALENZUELA</td>
                                 <td class="column3 style23 s">DR. ALBERTO CAMACHO RIOS</td>
-                                <td class="column4 style35 null"></td>
-                                <td class="column5 style35 null"></td>
-                                <td class="column6 style35 null"></td>
+                                <td class="column3 style29 s">DR. RAFAEL SANDOVAL RODRÍGUEZ</td>
 
                             </tr>
                             <tr class="row42">
 
-                                <td class="column1 style34 s">CARLOS RICARDO TONATIUHGARCÍA REYES</td>
+                                <td class="column1 style34 s">CARLOS RICARDO TONATIUH GARCÍA REYES</td>
                                 <td class="column2 style23 s">T-MEGALORIDE</td>
                                 <td class="column3 style32 s">DR. HERNÁN DE LA GARZA GUTIÉRREZ</td>
-                                <td class="column4 style35 null"></td>
-                                <td class="column5 style35 null"></td>
-                                <td class="column6 style35 null"></td>
+                                <td class="column3 style29 s">DR. RAFAEL SANDOVAL RODRÍGUEZ</td>
+                                <td class="column4 style15 s">M.I.S.C. JESUS ARTURO ALVARADO GRANADINO</td>
+                                <td class="column3 style23 s">DR. ALBERTO CAMACHO RIOS</td>
 
                             </tr>
                             <tr class="row43">
@@ -812,29 +870,29 @@
                                 <td class="column1 style34 s">LUIS EMMANUEL ROJAS AREDONDO</td>
                                 <td class="column2 style23 s">PROTESIS DE MANO</td>
                                 <td class="column3 style29 s">DR. RAFAEL SANDOVAL RODRÍGUEZ</td>
-                                <td class="column4 style35 null"></td>
-                                <td class="column5 style35 null"></td>
-                                <td class="column6 style35 null"></td>
+                                <td class="column3 style29 s">M.C. ARTURO LEGARDA SAÉNZ</td>
+                                <td class="column4 style15 s">M.I.S.C. JESUS ARTURO ALVARADO GRANADINO</td>
+                                <td class="column3 style23 s">DR. ALBERTO CAMACHO RIOS</td>
 
                             </tr>
                             <tr class="row44">
 
                                 <td class="column1 style34 s">JESÚS ALONSO NUÑEZ BETANCOURT</td>
                                 <td class="column2 style23 s">ALARMA INTELIGENTE PARA USO DOMÉSTICO</td>
+                                <td class="column3 style29 s">M.C. ARTURO LEGARDA SAÉNZ</td>
                                 <td class="column3 style29 s">DR. RAFAEL SANDOVAL RODRÍGUEZ</td>
-                                <td class="column4 style35 null"></td>
-                                <td class="column5 style35 null"></td>
-                                <td class="column6 style35 null"></td>
+                                <td class="column4 style15 s">M.I.S.C. JESUS ARTURO ALVARADO GRANADINO</td>
+                                <td class="column6 style15 s">DRA.MARISELA IVETTE CALDERA FRANCO</td>
 
                             </tr>
                             <tr class="row45">
 
                                 <td class="column1 style34 s">MELINA MARLENE MOLINA CEPEDA</td>
                                 <td class="column2 style23 s">SELECCIONADOR UTILIZANDO REINFORCEMENT LEARNING</td>
+                                <td class="column4 style15 s">M.I.S.C. JESUS ARTURO ALVARADO GRANADINO</td>
                                 <td class="column3 style32 s">DR. HERNÁN DE LA GARZA GUTIÉRREZ</td>
-                                <td class="column4 style35 null"></td>
-                                <td class="column5 style35 null"></td>
-                                <td class="column6 style35 null"></td>
+                                <td class="column3 style29 s">M.C. ARTURO LEGARDA SAÉNZ</td>
+                                <td class="column6 style35 s">M.C. LEONARDO NEVAREZ CHAVEZ</td>
 
                             </tr>
                         </tbody>
