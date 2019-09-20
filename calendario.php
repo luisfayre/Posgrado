@@ -34,16 +34,11 @@
                     events: [
                     {
                     title: "Recepción de Solicitudes de Ingreso a la Maestría ",
-<<<<<<< HEAD
                             start: "2019-01-1",
-=======
-                            start: "2019-01-01",
->>>>>>> f533224620bd20f78f69854c498dfefc31d1a440
                             end: "2019-11-29",
                     },
                     {
                     title: "Examen de ingreso",
-<<<<<<< HEAD
                             start: "2019-12-7",
                             end: "2019-12-7",
                     },
@@ -51,23 +46,13 @@
                     title: "Examen de inglés",
                             start: "2019-12-8",
                             end: "2019-12-8",
-=======
-                            start: "2019-06-6",
-                            end: "2019-12-6",
-                    },
-                    {
-                    title: "Examen de inglés",
-                            start: "2019-12-7",
-                            end: "2019-12-7",
->>>>>>> f533224620bd20f78f69854c498dfefc31d1a440
                     },
                     {
                     title: "Registro examen Ceneval",
-                            start: "2019-01-1",
-                            end: "2019-10-1",
+                            start: "2019-02-11",
+                            end: "2019-03-25",
                     },
                     {
-<<<<<<< HEAD
                     title: "Aplicación Examen Ceneval",
                             start: "2019-11-9",
                             end: "2019-11-10",
@@ -81,25 +66,11 @@
                     title: "Entrevistas",
                             start: "2019-12-10",
                             end: "2019-12-13",
-=======
-                    title: "Examen Ceneval",
-                            start: "2019-01-1",
-                            end: "2019-10-1",
-                    },
-                    {
-                    title: "Entrevistas",
-                            start: "2019-12-10",
-                            end: "2019-12-12",
->>>>>>> f533224620bd20f78f69854c498dfefc31d1a440
                     },
                     {
                     title: "Publicación de resultados",
                             start: "2019-12-18",
-<<<<<<< HEAD
                             end: "2019-06-19",
-=======
-                            end: "2020-01-30",
->>>>>>> f533224620bd20f78f69854c498dfefc31d1a440
                     },
                     
                        ],
