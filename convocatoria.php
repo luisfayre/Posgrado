@@ -60,7 +60,7 @@
                             </p>
                             <div style="padding-left: 15px">
                                 <li>
-                                    Llenar solicitud, está la encuentran en la página de Posgrado del ITCHI: 
+                                    Llenar solicitud, esta la encuentran en la página de Posgrado del ITCHI: 
                                     <a class="btn bg-info"href="documentos/FORMATO-INGRESO-MAESTRIA-FSI-2019.docx">Solicitud</a></li>
                                 <li>
                                     Dos cartas de recomendación de sus maestros de Licenciatura.
@@ -69,11 +69,11 @@
                                     Carta de exposición de motivos.
                                 </li>
                                 <li>
-                                    Curriculum Vitae Único con folio de CONACYT:
+                                    Currículum Vitae Único con folio de CONACYT:
                                     <a class="btn bg-info" href="https://miic.conacyt.mx/generador-view-angular/index.html?application=CVU#/login">Curriculum</a>
                                 </li>
                                 <li>
-                                    Curriculum Vitae Profesional.
+                                    Currículum Vitae Profesional.
                                 </li>
                             </div>
 
@@ -243,27 +243,10 @@
 
 
         <div class="container">
-            <p style="text-align:center"><b>INFORMES:<br>M.C. Rebeca Castillo</b>
-                <br>Correo: posgrado@itchihuahuaii.edu.mx
-                <br>
-                <br>
-                <b>Dra. Luisa Yolanda Quiñones Montenegro</b>
-                <br>Correo: posgradomii@hotmail.com
-                <br>
-                <br>
-                <b>M.S.I. Ilya Lorena Sánchez Rivera</b>
-                <br>Correo: ilyasanchez@hotmail.com
-                <br>
-                <br>
-                <br>Web: <a href="http://www.sistemasycomputacion.mx/">www.sistemasycomputacion.mx</a>
-                <br>Facebook: <a href="https://www.facebook.com/itchii.posgrados">www.facebook.com/itchii.posgrados</a>
-                <br>Twitter: <a href="https://twitter.com/posgradositch2">@posgradositch2</a>
-                <br>
-                <br>
-                <b>División de Estudios de Posgrado e Investigación.</b>
-                <br>Coordinación de Posgrado Sistemas Computacionales.
-                <br>
-                <br>Av. De las Industrias #11101, Complejo Industrial Chihuahua. Tel: 442-50-00 ext. 132.</p>
+           <?php
+            require_once 'includes/informes.php';
+            ?>
+
         </div>
 
 

@@ -68,9 +68,9 @@
                     </table>
                     <br>
                     <br>
-                    <h4><strong>INFORMES:  M.C. Blanca Ibarra Murrieta.</strong></h4> Correo: posgrado@itchihuahuaii.edu.mx
-                    <br> Facebook: <a href="https://www.facebook.com/itchii.posgrados"> https://www.facebook.com/itchii.posgrados</a>
-                    <br> Twitter: @posgradositch2
+                    <?php
+                    require_once 'includes/informes.php';
+                    ?>
                     <br>
                     <p>
                     </p>

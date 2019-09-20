@@ -55,7 +55,7 @@
                             <div style="padding-left: 15px">
                                 <li>
                                     Llenar solicitud, está la encuentran en la página de Posgrado del ITCHI: 
-                                    <a class="btn bg-info"href="documentos/FORMATO-INGRESO-MAESTRIA-FSI-2019.docx">Solicitud</a></li>
+                                    <a class="btn bg-info"href="../documentos/FORMATO-INGRESO-MAESTRIA-FSI-2019.docx">Solicitud</a></li>
                                 <li>
                                     Dos cartas de recomendación de sus maestros de Licenciatura.
                                 </li>
@@ -82,9 +82,9 @@
                                 <a class="btn bg-info" href="http://www.ceneval.edu.mx/exani-iii">
                                     (registrarse en línea)
                                 </a>
-                                <div class="bg-danger" href="http://www.ceneval.edu.mx/exani-iii">
-                                    Recuerda consultar el (Calendario de aplicaciones)
-                                </div>
+                            <div class="bg-danger" href="http://www.ceneval.edu.mx/exani-iii">
+                                Recuerda consultar el (Calendario de aplicaciones)
+                            </div>
                             </p>
                             <p>
                                 3. Presentar examen de ingreso (6 de diciembre 2019).
@@ -237,27 +237,9 @@
 
 
         <div class="container">
-            <p style="text-align:center"><b>INFORMES:<br>M.C. Rebeca Castillo</b>
-                <br>Correo: posgrado@itchihuahuaii.edu.mx
-                <br>
-                <br>
-                <b>Dra. Luisa Yolanda Quiñones Montenegro</b>
-                <br>Correo: posgradomii@hotmail.com
-                <br>
-                <br>
-                <b>M.S.I. Ilya Lorena Sánchez Rivera</b>
-                <br>Correo: ilyasanchez@hotmail.com
-                <br>
-                <br>
-                <br>Web: <a href="http://www.sistemasycomputacion.mx/">www.sistemasycomputacion.mx</a>
-                <br>Facebook: <a href="https://www.facebook.com/itchii.posgrados">www.facebook.com/itchii.posgrados</a>
-                <br>Twitter: <a href="https://twitter.com/posgradositch2">@posgradositch2</a>
-                <br>
-                <br>
-                <b>División de Estudios de Posgrado e Investigación.</b>
-                <br>Coordinación de Posgrado Sistemas Computacionales.
-                <br>
-                <br>Av. De las Industrias #11101, Complejo Industrial Chihuahua. Tel: 442-50-00 ext. 132.</p>
+            <?php
+            require_once 'includes/informes.php';
+            ?>
         </div>
 
 
