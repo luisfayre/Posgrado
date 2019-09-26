@@ -78,9 +78,9 @@
                     <li role="separator" class="divider"></li>
                     <li><a href="mision_vision.php">Misión y Visión</a></li>
                     <li role="separator" class="divider"></li>
-                    <li><a href="documentos/calendarios/calendario-ene-jun-2019.pdf"
+                    <!--li><a href="documentos/calendarios/calendario-ene-jun-2019.pdf"
                            target='_blank'>Calendario</a></li>
-                    <li role="separator" class="divider"></li>
+                    <li role="separator" class="divider"></li-->
                     <li><a href="http://www.sistemasycomputacion.mx/medios/">Medios de Verificación</a></li>
                 </ul>
             </li>
