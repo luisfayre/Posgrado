@@ -278,13 +278,7 @@ a link_azul:hover
     padding-right:100px;
 
 }
-.titulo_noticia
-{
-    text-transform:uppercase;
-    color:#C00;
-    font-family:"Times New Roman", Times, serif;
-    text-align:left;	
-}
+
 .dato_noticia
 {
     font-family: 'Trajan Pro Bold';

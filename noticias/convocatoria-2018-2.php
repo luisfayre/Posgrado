@@ -105,27 +105,10 @@ d) CVU de CONACyT</pre>
 
 
                 </p>
-                <p style="text-align:center"><b>INFORMES:<br>M.C. Rebeca Castillo</b>
-                    <br>Correo: posgrado@itchihuahuaii.edu.mx
-                    <br>
-                    <br>
-                    <b> Villalpando López</b>
-                    <br>Correo: posgradomii@hotmail.com
-                    <br>
-                    <br>
-                    <b>M.S.I. Ilya Lorena Sánchez Rivera</b>
-                    <br>Correo: ilyasanchez@hotmail.com
-                    <br>
-                    <br>
-                    <br>Web: <a href="http://www.sistemasycomputacion.mx">www.sistemasycomputacion.mx</a>
-                    <br>Facebook: <a href="https://www.facebook.com/itchii.posgrados">www.facebook.com/itchii.posgrados</a>
-                    <br>Twitter: @posgradositch2
-                    <br>
-                    <br>
-                    <b>División de Estudios de Posgrado e Investigación.</b>
-                    <br>Coordinación de Posgrado Sistemas Computacionales.
-                    <br>
-                    <br>Av. De las Industrias #11101, Complejo Industrial Chihuahua. Tel: 442-50-00 ext. 132.</p>
+                <?php
+                require_once 'includes/informes.php';
+                ?>
+                
             </div>
         </div>
 

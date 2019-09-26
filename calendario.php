@@ -34,18 +34,18 @@
                     events: [
                     {
                     title: "Recepción de Solicitudes de Ingreso a la Maestría ",
-                            start: "2019-02-1",
-                            end: "2019-05-31",
+                            start: "2019-01-1",
+                            end: "2019-11-29",
                     },
                     {
                     title: "Examen de ingreso",
-                            start: "2019-06-7",
-                            end: "2019-06-7",
+                            start: "2019-12-7",
+                            end: "2019-12-7",
                     },
                     {
                     title: "Examen de inglés",
-                            start: "2019-06-8",
-                            end: "2019-06-8",
+                            start: "2019-12-8",
+                            end: "2019-12-8",
                     },
                     {
                     title: "Registro examen Ceneval",
@@ -53,31 +53,27 @@
                             end: "2019-03-25",
                     },
                     {
-                    title: "Examen Ceneval",
-                            start: "2019-05-4",
-                            end: "2019-05-4",
+                    title: "Aplicación Examen Ceneval",
+                            start: "2019-11-9",
+                            end: "2019-11-10",
+                    },
+                    {
+                    title: "Registro Examen Ceneval",
+                            start: "2019-08-12",
+                            end: "2019-10-1",
                     },
                     {
                     title: "Entrevistas",
-                            start: "2019-06-18",
-                            end: "2019-06-20",
+                            start: "2019-12-10",
+                            end: "2019-12-13",
                     },
                     {
                     title: "Publicación de resultados",
-                            start: "2019-06-26",
-                            end: "2019-06-26",
+                            start: "2019-12-18",
+                            end: "2019-06-19",
                     },
-                    {
-                    title: "Jornada Académica",
-                            start: "2019-03-21",
-                            end: "2019-03-21",
-                    },
-                    {
-                    title: "Coloquio",
-                            start: "2019-06-4",
-                            end: "2019-06-5",
-                    },
-                    ],
+                    
+                       ],
                             color: "#a5273f",
                     }]
             })
