@@ -109,9 +109,10 @@ require_once './includes/mensaje_dia.php';
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
                         <div class="item active">
-                            <a href="convocatoria.php">
-                                <img class="img-responsive" title="Convocatoria Maestria sistemas computacionales itchii" class="slider" src="img/Convocatoria-maestrias.jpg" 
-                                     alt="Convocatoria Maestria sistemas computacionales itchii" style="width: 100%;">
+                            <a href="convocatoria/Convocatoria del Doctorado en Ciencias de la Ingeniería.pdf">
+                                <img class="img-responsive" title="Convocatoria Docturado en Ciencias de la Ingeniería itchii
+                                " class="slider" src="img/Convocatora-doctorado.png" 
+                                     alt="Convocatoria Docturado en Ciencias de la Ingeniería itchii" style="width: 100%;">
                             </a>
                         </div>
 
