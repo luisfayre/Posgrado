@@ -115,11 +115,22 @@
                             </div>
                         </a>
                     </div>
+
                     <div class="col-sm-6 col-md-4">
                         <a class="ResetLink" href="documentos/FormatoSeguimientoTutoriasFST-10A.docx">
                             <div class="documentos">
                                 <div class="caption text-center ">
                                     <p>Formato Seguimiento Tutorias</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-sm-6 col-md-4">
+                        <a class="ResetLink" href="documentos/Formato de Solicitud de Inscripción al Doctorado FSI.docx">
+                            <div class="documentos">
+                                <div class="caption text-center ">
+                                    <p>Formato de Solicitud de Inscripción al Doctorado</p>
                                 </div>
                             </div>
                         </a>
