@@ -90,6 +90,8 @@
                     <li><a href="sistemas/">Maestría en Sistemas Computacionales</a></li>
                     <li role="separator" class="divider"></li>
                     <li><a href="industrial/">Maestría en Ingeniería Industrial</a>
+                    <li role="separator" class="divider"></li>
+                    <li><a href="doctorado.php">Doctorado en Ciencias de la Ingeniería</a>
                 </ul>
             </li>
             <li class="dropdown">
