@@ -46,7 +46,7 @@
                         </div>
 
                         <div>
-                            <h1 class="principal" style="text-align:center">MAESTRÍAS EN SISTEMAS COMPUTACIONALES Y MAESTRÍAS EN INGENIERÍA INDUSTRIAL</h1>
+                            <h1 class="principal" style="text-align:center">MAESTRÍAS EN INGENIERÍA INDUSTRIAL</h1>
                             <br>
                             <br>
                             <p>
@@ -84,16 +84,13 @@
                                 <a href="mailto:ilyasanchez@hotmail.com">ilyasanchez@hotmail.com</a>
                             </p>
                             <p>
-                                2. Presentar examen CENEVAL.
-                                <a class="btn bg-info" href="http://www.ceneval.edu.mx/exani-iii">
-                                    (registrarse en línea)
-                                </a>
+                                2. Presentar examen.
                                 <div class="bg-danger" href="http://www.ceneval.edu.mx/exani-iii">
                                     Recuerda consultar el (Calendario de aplicaciones)
                                 </div>
                             </p>
                             <p>
-                                3. Presentar examen de ingreso (6 de diciembre 2019).
+                                3. Presentar examen de ingreso (10 de enero 2020).
                                 <a class="btn bg-info" href="documentos/GuiaExaConocmaestriaSC2.pdf">
                                     (Guía)
                                 </a>
@@ -104,7 +101,7 @@
                             </div>
                             <br>
                             <p>
-                                4. Presentar examen de inglés (7 de diciembre 2019).
+                                4. Presentar examen de inglés (13 de enero 2020).
                             </p>
                             <div style="padding-left: 15px">
                                 <li>Costo $250.00.</li>
@@ -112,11 +109,11 @@
                             </div>
                             <br>
                             <p>
-                                5. Presentarse a una entrevista, la cual se programará con anticipación (10, 11 ó 12 de diciembre 2019).
+                                5. Presentarse a una entrevista, la cual se programará con anticipación (17 de enero 2020).
                             </p>
                             <br>
                             <p>
-                                6. La publicación de los resultados se dará a conocer el día 18 de diciembre 2019.
+                                6. La publicación de los resultados se dará a conocer el día 21 de enero 2020.
                             </p>
                             <br>
                             <p>
@@ -203,16 +200,7 @@
                                 <li>Tesis $5200.00.</li>
                             </div>
                             <br>
-                            <h3>Beca CONACYT</h3>
-                            <p>
-                                Esta beca aplica únicamente para la Maestría en Sistemas Computacionales.
-                                Para esta se requiere ser aceptado y estar inscrito en el programa de maestría como alumno de tiempo
-                                completo y de dedicación completa al programa, es decir, no estar trabajando en ninguna empresa.
-                                <!--a
-                                    href="https://www.conacyt.gob.mx/index.php/convocatorias-b-nacionales/convocatorias-abiertas-becas-nacionales/16819-conv-bn-18/file">
-                                    Más Información</a-->
-                                <br>
-                            <h4>Requisitos</h4>
+                            <h3>Requisitos</h3>
                             <div style="padding-left: 15px">
                                 <li>
                                     Promedio de 85.
@@ -222,7 +210,7 @@
                                 </li> 
                             </div>
 
-                            <br>
+                            <br><br><br>
                         </div>
                     </div>
                 </div>
