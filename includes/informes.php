@@ -4,12 +4,8 @@
  * Con este PHP podremos modificar los informes mas rapidamesnte y en cada una de las paginas
  */
 ?>
-<p style = "text-align:center"><b>INFORMES:<br>M.I.S.C Jesús Arturo Alvarado Granadino</b>
-<br>Correo: posgrado@itchihuahuaii.edu.mx
-<br>
-<br>
-<b>M.S.I. Ilya Lorena Sánchez Rivera</b>
-<br>Correo: ilyasanchez@hotmail.com
+<p style = "text-align:center"><b>INFORMES:<br>Maestría en Ingeniería Industrial<br>M.S.M Nidia Yasmina Rico Ramos</b>
+<br>Correo: posgradoindustrialitchii@gmail.com
 <br>
 <br>
 <br>Web: <a href = "http://www.sistemasycomputacion.mx/">www.sistemasycomputacion.mx</a>
