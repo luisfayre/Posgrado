@@ -7,7 +7,6 @@
 <p style = "text-align:center"><b>INFORMES:<br>Maestría en Ingeniería Industrial<br>M.S.M Nidia Yasmina Rico Ramos</b>
 <br>Correo: posgradoindustrialitchii@gmail.com
 <br>
-<br>
 <br>Web: <a href = "http://www.sistemasycomputacion.mx/">www.sistemasycomputacion.mx</a>
 <br>Facebook: <a href = "https://www.facebook.com/itchii.posgrados">www.facebook.com/itchii.posgrados</a>
 <br>Twitter: <a href = "https://twitter.com/posgradositch2">@posgradositch2</a>
