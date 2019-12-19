@@ -118,7 +118,7 @@ require_once './includes/mensaje_dia.php';
 
                         <div class="item">
                             <a href="convocatoria.php">
-                                <img class="img-responsive" title="Convocatoria Maestria sistemas computacionales itchii" class="slider" src="img/Convocatoria_ii.jpg" 
+                                <img class="img-responsive" title="Convocatoria Maestria sistemas computacionales itchii" class="slider" src="img/Convocatoria_iii.jpg" 
                                      alt="Convocatoria Maestria sistemas computacionales itchii" style="width: 100%;">
                             </a>
                         </div>
