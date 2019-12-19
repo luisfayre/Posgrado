@@ -52,7 +52,7 @@
                             <p>
                                 El Tecnológico de Chihuahua II a través de la División de Estudios de Posgrado e Investigación (DEPI), 
                                 hace una atenta invitación a que cursen nuestros programas de maestría. La convocatoria está abierta 
-                                y se recibirán solicitudes hasta el 29 de noviembre 2019 para el semestre enero-junio 2020.
+                                y se recibirán solicitudes hasta el día 3 de enero de 2020 para el semestre enero-junio 2020.
                             </p>
 
                             <p>
@@ -81,7 +81,7 @@
                             <p>
                                 Esta papelería deberá traerla a la DEPI del Instituto o bien enviarla por correo electrónico debidamente
                                 firmada, a la siguiente dirección electrónica:
-                                <a href="mailto:ilyasanchez@hotmail.com">ilyasanchez@hotmail.com</a>
+                                <a href="mailto:posgradoindustrialitchii@gmail.com">posgradoindustrialitchii@gmail.com</a>
                             </p>
                             <p>
                                 2. Presentar examen.
