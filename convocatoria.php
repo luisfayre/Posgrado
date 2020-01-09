@@ -91,7 +91,7 @@
                             </p>
                             <p>
                                 3. Presentar examen de ingreso (10 de enero 2020).
-                                <a class="btn bg-info" href="documentos/GuiaExaConocmaestriaSC2.pdf">
+                                <a class="btn bg-info" href="documentos/GuiaExamAdmonMII15-02[113].pdf">
                                     (Guía)
                                 </a>
                             </p>
