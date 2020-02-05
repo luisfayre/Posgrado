@@ -81,7 +81,7 @@
                             <p>
                                 Esta papelería deberá traerla a la DEPI del Instituto o bien enviarla por correo electrónico debidamente
                                 firmada, a la siguiente dirección electrónica:
-                                <a href="mailto:posgradoindustrialitchii@gmail.com">posgradoindustrialitchii@gmail.com</a>
+                                <a href="mailto:ilyasanchez@hotmail.com">ilyasanchez@hotmail.com</a>
                             </p>
                             <p>
                                 2. Presentar examen CENEVAL.
