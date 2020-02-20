@@ -40,7 +40,7 @@
             </div>
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-12">
-                    <img class="img-responsive" src="../img/organigrama/procesos_administrativos_organigrama.png" alt="Organigrama de División de Estudios de Posgrado e Investigación">
+                    <img class="img-responsive" src="../img/organigrama/procesos_recortado_actualizado_19022020.png" alt="Organigrama de División de Estudios de Posgrado e Investigación">
                 </div>
             </div>
             <div class="row">
