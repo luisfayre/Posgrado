@@ -104,20 +104,20 @@ require_once './includes/mensaje_dia.php';
                     <ol class="carousel-indicators">
                         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                         <li data-target="#myCarousel" data-slide-to="1"></li>
-                        <li data-target="#myCarousel" data-slide-to="2"></li>
+                        <!--<li data-target="#myCarousel" data-slide-to="2"></li>-->
                     </ol>
 
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
-                        <div class="item active">
+                        <!--<div class="item active">
                             <a href="convocatoria/Convocatoria del Doctorado en Ciencias de la Ingeniería  2020-2[140].pdf">
                                 <img class="img-responsive" title="Convocatoria Docturado en Ciencias de la Ingeniería itchii
                                 " class="slider" src="img/Convocatora-doctorado.png" 
                                      alt="Convocatoria Docturado en Ciencias de la Ingeniería itchii" style="width: 100%;">
                             </a>
-                        </div>
+                        </div>-->
 
-                        <div class="item">
+                        <div class="item active">
                             <a href="convocatoria.php">
                                 <img class="img-responsive" title="Convocatoria Maestria Industrial itchii" class="slider" src="img/Convocatoria_ii.jpg" 
                                      alt="Convocatoria Maestria Industrial itchii" style="width: 100%;">
