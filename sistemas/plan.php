@@ -221,7 +221,12 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td style="background-color: #e5e5e5;">Lenguajes Web</td>
+                                        <td style="background-color: #e5e5e5;">Temas Selectos III</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Lenguajes Web
+                                            <br>
+                                        </td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -248,6 +253,12 @@
                                         <td style="background-color: #e5e5e5;"> Temas Selectos I (Minería de Datos y Minería de Texto)</td>
                                     </tr>
                                     <tr>
+                                        <td>Temas Selectos II</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="background-color: #e5e5e5;"> Temas Selectos III</td>
+                                    </tr>
+                                    <tr>
                                         <td>Interfaces Humano Computadora</td>
                                     </tr>
                                     <tr>
@@ -259,7 +270,12 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td style="background-color: #e5e5e5;"></td>
+                                        <td style="background-color: #e5e5e5;">Control Inteligente</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Robótica Y Automatización
+                                            <br>
+                                        </td>
                                     </tr>
                                     <tr>
                                         <td style="background-color: #e5e5e5;">Computación Evolutiva
