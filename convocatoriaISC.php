@@ -52,7 +52,7 @@
                             <p>
                                 El Tecnológico de Chihuahua II a través de la División de Estudios de Posgrado e Investigación (DEPI), 
                                 hace una atenta invitación a que cursen nuestros programas de maestría. La convocatoria está abierta 
-                                y se recibirán solicitudes hasta el día 29 de mayo de 2020 para el semestre enero-junio 2020.
+                                y se recibirán solicitudes hasta el día 12 de junio de 2020 para el semestre enero-junio 2020.
                             </p>
 
                             <p>
@@ -90,8 +90,8 @@
                                 </a>
                                 </p>
                                 <div style="padding-left: 15px">
-                                    <li>Fecha de registro: 10 de febrero al 5 de abril de 2020.</li>
-                                    <li>Fecha de aplicación: 9 de mayo de 2020.</li>
+                                    <li>Fecha de registro: 11 de mayo al 28 de junio de 2020.</li>
+                                    <li>Fecha de aplicación: 8 de agosto de 2020.</li>
                                     <li>Costo: $579.00.</li>
                                 </div>
                                 <p>
@@ -100,7 +100,7 @@
                                 </div>
                             </p>
                             <p>
-                                3. Presentar examen de ingreso (5 junio 2020).
+                                3. Presentar examen de ingreso (7 de agosto 2020).
                                 <a class="btn bg-info" href="documentos/GuiaExaConocmaestriaSC2.pdf">
                                     (Guía)
                                 </a>
@@ -111,7 +111,7 @@
                             </div>
                             <br>
                             <p>
-                                4. Presentar examen de inglés (8 junio 2020).
+                                4. Presentar examen de inglés (10 de agosto 2020).
                             </p>
                             <div style="padding-left: 15px">
                                 <li>Costo $250.00.</li>
@@ -119,15 +119,19 @@
                             </div>
                             <br>
                             <p>
-                                5. Presentarse a una entrevista, la cual se programará con anticipación (17, 18 y 19 de junio 2020).
+                                5. Presentarse a una entrevista, la cual se programará con anticipación (12 y 13 de agosto 2020).
                             </p>
                             <br>
                             <p>
-                                6. La publicación de los resultados se dará a conocer el día 26 de junio 2020.
+                                6. La publicación de los resultados se dará a conocer el día 17 de agosto 2020.
                             </p>
                             <br>
                             <p>
                                 7. Una vez aceptado deberá hacer una propuesta de tema de tesis que dé solución a un problema real, ya que nuestra maestría es profesionalizante.
+                            </p>
+                            <br>
+                            <p>
+                                8. La inscripción será el día 20 de agosto de 2020.
                             </p>
                             <br>
                             <!--h3>NOTA:</h3>
