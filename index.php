@@ -180,7 +180,42 @@ require_once './includes/mensaje_dia.php';
                             </div>
                         </div>
                         <hr> -->
+                        
                         <div class="col-md-12 text-center" style="padding-bottom: 20px">
+                        
+
+                            <!--        FUNCION DE LA IMAGEN        -->
+                            <br><br><br><br>
+                            <img id="myImg" src="img\iscLayer2.jpg" style="width:30%;max-width:40%" alt="infMaestrias" class="imgNewsZoom">
+                            
+                            <div id="myModal" class="modal">
+                                <span class="close">&times;</span>
+                                <img class="modal-content" id="img01">
+                                <div id="caption"></div>
+                            </div>
+                            <script>
+                                var modal = document.getElementById("myModal");
+
+                                var img = document.getElementById("myImg");
+                                var modalImg = document.getElementById("img01");
+                                var captionText = document.getElementById("caption");
+                                img.onclick = function(){
+                                modal.style.display = "block";
+                                modalImg.src = this.src;
+                                    captionText.innerHTML = "Información Maestrías";
+                                }
+
+                                var span = document.getElementsByClassName("close")[0];
+
+                                span.onclick = function() { 
+                                    modal.style.display = "none";
+                                }
+                            </script>
+
+                            <br><br><br><br><br><br>
+                            <!--        FUNCION DE LA IMAGEN FIN        -->
+
+
                             <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fitchii.posgrados%2Fvideos%2F1236673706388311%2F&show_text=0&width=560" width="560" height="305" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
                             <!--div class="thumbnail text-left imagen-noticia">
