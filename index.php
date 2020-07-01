@@ -186,7 +186,7 @@ require_once './includes/mensaje_dia.php';
 
                             <!--        FUNCION DE LA IMAGEN        -->
                             <br><br><br><br>
-                            <img id="myImg" src="img\maestriasPosters.jpeg" style="width:30%;max-width:40%" alt="infMaestrias" class="imgNewsZoom">
+                            <img id="myImg" src="img\maestriasPoster.jpeg" style="width:30%;max-width:40%" alt="infMaestrias" class="imgNewsZoom">
                             
                             <div id="myModal" class="modal">
                                 <span class="close">&times;</span>
