@@ -53,12 +53,30 @@
                         </tr>
                     </thead>
                     <tbody class="text-left">
-                        <!--tr>
+                        <tr>
+                            <th>LEONARDO NEVAREZ PORRAS </th>
+                            <th>08/19</th>
                             <th></th>
                             <th></th>
+                        </tr>
+                        <tr>
+                            <th>JOSÉ ROBERTO PAZ MEJÍA</th>
+                            <th>08/19</th>
                             <th></th>
                             <th></th>
-                        </tr-->
+                        </tr>
+                        <tr>
+                            <th>ALEJANDRA PALOMA CADENA SOTO</th>
+                            <th>08/19</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                        <tr>
+                            <th>CÉSAR EZEQUIEL VARELA MORENO</th>
+                            <th>08/19</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
                     </tbody>
                 </table>
             </div>
