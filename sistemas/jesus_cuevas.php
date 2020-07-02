@@ -40,7 +40,7 @@
                     <div class="container">
                         <div class="text-center">
                             <img clas="img-responsive" src="../img/cv/jesus_cuevas.jpg" alt="Jesús Humberto Cuevas">
-                            <h2>Jesús Humberto Cuevas Acosta</h2>
+                            <h2>Dr. Jesús Humberto Cuevas Acosta, candidato a SNI</h2>
                             <p>CORREO: jesus.humberto.cuevas@outlook.com
                                 <br> Instituto Tecnológico de Chihuahua II: (052) 614.4425000.124
                             </p>
@@ -142,7 +142,7 @@
                                 </tr>
                                 <tr>
                                     <td valign=top>31/05/1988&nbsp;</td>
-                                    <td><strong>LICENCIATURA</strong>Ingeniero Industrial .Instituto Tecnológico de Delicias. CÉDULA: 2404214.</td>
+                                    <td><strong>LICENCIATURA</strong>Ingeniero Industrial. Instituto Tecnológico de Delicias. CÉDULA: 2404214.</td>
                                 </tr>
                             </table>
                         </blockquote>
