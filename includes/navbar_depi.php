@@ -45,6 +45,18 @@
 
 </nav-->
 
+<style>
+    li:hover {
+        background-color: rgb(27, 57, 106);
+    }
+    #ppp{
+        color: rgb(255, 255, 255);
+    }
+    #ppp:hover{
+        color: rgb(27, 57, 106);
+    }
+    
+</style>
 
 <div class="navbar bs-docs-nav col-md-12" role="banner" style="
      padding-right: 0px;
@@ -67,12 +79,12 @@
     </div>
 
     <nav id="navbar" class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
-        <ul class="nav nav-justified text-center">
+        <ul class="nav nav-justified text-center" style="background-color: rgb(27, 57, 106);">
             <li class="dropdown">
-                <a href="index.php" target="_top">INICIO</a>
+                <a href="index.php" target="_top" ><p id="ppp">INICIO</p></a>
             </li>
             <li class="dropdown">
-                <a href="_top" class="dropdown-toggle" data-toggle="dropdown">INFORMACIÓN</a>
+                <a href="_top" class="dropdown-toggle" data-toggle="dropdown"><p style="color:rgb(255, 255, 255)">INFORMACIÓN</p></a>
                 <ul class="dropdown-menu">
                     <li><a href="historia.php">Historia</a></li>
                     <li role="separator" class="divider"></li>
@@ -85,7 +97,7 @@
                 </ul>
             </li>
             <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">POSGRADOS</a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><p style="color:rgb(255, 255, 255)">POSGRADOS</p></a>
                 <ul class="dropdown-menu">
                     <li><a href="sistemas/">Maestría en Sistemas Computacionales</a></li>
                     <li role="separator" class="divider"></li>
@@ -95,7 +107,7 @@
                 </ul>
             </li>
             <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">SERVICIOS</a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><p style="color:rgb(255, 255, 255)">SERVICIOS</p></a>
                 <ul class="dropdown-menu">
                     <li><a href="http://moodle.itchihuahuaii.edu.mx/">Moodle para
                             posgrados</a></li>
@@ -109,10 +121,10 @@
                 </ul>
             </li>
             <li>
-                <a href="encuesta.php">ENCUESTA</a>
+                <a href="encuesta.php"><p style="color:rgb(255, 255, 255)">ENCUESTA</p></a>
             </li>
             <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">ADMINISTRATIVO</a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><p style="color:rgb(255, 255, 255)">ADMINISTRATIVO</p></a>
                 <ul class="dropdown-menu">
                     <li><a href="convocatoria.php">Requisitos de ingreso</a></li>
                     <li role="separator" class="divider"></li>
@@ -124,7 +136,7 @@
 
 
             <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">NOTICIAS</a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><p style="color:rgb(255, 255, 255)">NOTICIAS</p></a>
                 <ul class="dropdown-menu">
                     <li>
                         <a href="noticias/convocatoria_2019.php">Convocatoria 2020-1</a>
