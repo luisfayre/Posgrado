@@ -39,9 +39,9 @@
                     <div class="container">
                         <div class="text-center">
                             <img clas="img-responsive" src="../img/cv/leo.jpg" alt="">
-                            <h2>Leonardo Nevárez Chávez</h2>
+                            <h2>M.C. Leonardo Nevárez Chávez</h2>
                             <p>CORREO: leonevarez71@hotmail.com
-                                <br> Instituto Tecnológico de Chihuahua II: (052) 614.4425000.124
+                                <br> Instituto Tecnológico de Chihuahua II: (052)614.4425000.124
                             </p>
                         </div>
                         <p>ADSCRIPCIÓN ACTUAL
