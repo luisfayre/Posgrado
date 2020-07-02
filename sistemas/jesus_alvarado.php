@@ -41,7 +41,7 @@
                     <div class="container">
                         <div class="text-center">
                             <img clas="img-responsive" src="../img/cv/arturo_alvarado.jpg" alt="">
-                            <h2>Jesus Arturo Alvarado Granadino</h2>
+                            <h2>MISC. Jesús Arturo Alvarado Granadino</h2>
                             <p>CORREO: alvaradogranadino@yahoo.com.mx
                                 <br> Instituto Tecnológico de Chihuahua II: (052) 614.4425000.124
                             </p>
