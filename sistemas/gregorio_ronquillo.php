@@ -41,7 +41,7 @@
                         <div class="text-center">
                             <img clas="img-responsive" src="../img/cv/ronquillo (copia).jpg" alt="Gregorio Ronquillo Máynez">
                             <h2>Gregorio Ronquillo Máynez</h2>
-                            <p>CORREO: camachoalberto@hotmail.com
+                            <p>CORREO: gronquillom@hotmail.com
                                 <br> Instituto Tecnológico de Chihuahua II: (052) 614.4425000.124
                             </p>
                         </div>
