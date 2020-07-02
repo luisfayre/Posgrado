@@ -40,7 +40,7 @@
                     <div class="container">
                         <div class="text-center">
                             <img clas="img-responsive" src="../img/cv/hernan_de_la_Garza.jpg" alt="Hernan de la Garza Gutierrez">
-                            <h2>Hernan de la Garza Gutierrez</h2>
+                            <h2>Dr. Hernán de la Garza Gutiérrez</h2>
                             <p>CORREO: rambientalster@gmail.com
                                 <br> Instituto Tecnológico de Chihuahua II
                             </p>
