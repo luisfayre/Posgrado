@@ -202,7 +202,7 @@
                                     </a>
                                 </div>
                                 <div class="media-body">
-                                    <h4 class="media-heading">Hernan de la Garza Gutierrez</h4>
+                                    <h4 class="media-heading">Hernán de la Garza Gutiérrez</h4>
                                     <p>CORREO:
                                         <a href="mailto:rambientalster@gmail.com">
                                             rambientalster@gmail.com
@@ -237,9 +237,12 @@
                                 <div class="media-body">
                                     <h4 class="media-heading">
                                         <a href="jesus_cuevas.php">
-                                            Dr. Jesús Humberto Cuevas Acosta
+                                            Jesús Humberto Cuevas Acosta
                                         </a>
                                     </h4>
+                                    <p>CORREO: 
+                                        <a href="mailto:jesus.humberto.cuevas@outlook.com">jesus.humberto.cuevas@outlook.com</a>
+                                    </p>
 
                                     <table>
                                         <tr>
@@ -288,6 +291,7 @@
                                     <p>
                                         <a href="marisela_caldera.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
                                     </p>
+                                    
                                 </div>
                             </div>
 
@@ -369,6 +373,57 @@
                                     <p>
                                         <a href="rafael_sandoval.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
                                     </p>
+                                </div>
+                            </div>
+
+                            <!-- NUEVOS -->
+                            <div class="thumbnail marcos">
+                                <div class="media-left media-middle">
+                                    <a href="#">
+                                        <img class="media-object" src="../img/cv/laura_ortega.jpg" alt="Laura Antonia Ortega Chavez" width="100" height="160">
+                                    </a>
+                                </div>
+                                <div class="media-body">
+                                    <h4 class="media-heading">Laura Antonia Ortega Chávez</h4>
+                                    <p> CORREO: 
+                                        <a href="mailto:laura.ortegach@gmail.com">
+                                        laura.ortegach@gmail.com
+                                        </a>
+                                    </p>
+
+                                    <table>
+                                        <tr>
+                                            <td>02/2009</td>
+                                            <td><strong> Doctorado</strong>, en Ciencia y Tecnología Ambiental, Centro de Investigación en Materiales Avanzados A. C.</td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+
+                            <div class="thumbnail marcos">
+                                <div class="media-left media-middle">
+                                    <a href="#">
+                                        <img class="media-object" src="../img/cv/martha_garcia.jpg" alt="Martha Patricia García Martínez" width="100" height="160">
+                                    </a>
+                                </div>
+                                <div class="media-body">
+                                    <h4 class="media-heading">Martha Patricia García Martínez</h4>
+                                    <p> CORREO: 
+                                        <a href="mailto:patytec2@yahoo.com">
+                                            patytec2@yahoo.com
+                                        </a>
+                                    </p>
+
+                                    <table>
+                                        <tr>
+                                            <td> 01/2012 </td>
+                                            <td><strong> Doctorado</strong>, en Ciencias Ingeniería Industrial, Universidad de Navarra, España.</td>
+                                        </tr>
+                                        <tr>
+                                            <td> 2001 </td>
+                                            <td><strong> Maestría</strong>, en Ciencias en Ingeniería Industrial, New México State Universiy, U.S.A.</td>
+                                        </tr>
+                                    </table>
                                 </div>
                             </div>
 
