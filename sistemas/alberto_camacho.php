@@ -40,7 +40,7 @@
                     <div class="container">
                         <div class="text-center">
                             <img clas="img-responsive" src="../img/cv/alberto_camacho.jpg" alt="Alberto Camacho Rios">
-                            <h2>Alberto Camacho Rios</h2>
+                            <h2>Dr. Alberto Camacho Ríos, SIN I</h2>
                             <p>CORREO: camachoalberto@hotmail.com
                                 <br> Instituto Tecnológico de Chihuahua II: (052) 614.4425000.124
                             </p>
