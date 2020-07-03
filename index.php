@@ -119,14 +119,14 @@ require_once './includes/mensaje_dia.php';
 
                         <div class="item active">
                             <a href="convocatoria.php">
-                                <img class="img-responsive" title="Convocatoria Maestria Industrial itchii" class="slider" src="img/Convocatoria_ii.jpg" 
+                                <img class="img-responsive" title="Convocatoria Maestria Industrial itchii" class="slider" src="img/ConvocatoriaIndLayer.jpg" 
                                      alt="Convocatoria Maestria Industrial itchii" style="width: 100%;">
                             </a>
                         </div>
 
                         <div class="item">
                             <a href="convocatoriaISC.php">
-                                <img class="img-responsive" title="Convocatoria Maestria sistemas computacionales itchii" class="slider" src="img/ConvocatoriaISC.jpg" 
+                                <img class="img-responsive" title="Convocatoria Maestria sistemas computacionales itchii" class="slider" src="img/ConvocatoriaISCLayer.jpg" 
                                      alt="Convocatoria Maestria sistemas computacionales itchii" style="width: 100%;">
                             </a>
                         </div>
@@ -242,7 +242,7 @@ require_once './includes/mensaje_dia.php';
                                 <div class="col-md-8 caption">
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <h4 class="titulo_noticia_secundaria">Coloquio Diciembre 2017</h4>
+                                            <h4 class="titulo_noticia_secundaria" style="color:rgb(27, 57, 106)">Coloquio Diciembre 2017</h4>
                                         </div>
                                         <div class="col-md-12">
                                             <p class="decripcion_noticia">Aqui encontraras toda la información relacionada con la cuarta jornada académica.</p>
@@ -265,7 +265,7 @@ require_once './includes/mensaje_dia.php';
                                 <div class="col-md-8 caption">
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <h4 class="titulo_noticia_secundaria">Coloquio Enero-Junio 2017</h4>
+                                            <h4 class="titulo_noticia_secundaria" style="color:rgb(27, 57, 106)">Coloquio Enero-Junio 2017</h4>
                                         </div>
                                         <div class="col-md-12">
                                             <p class="decripcion_noticia">Aqui encontraras toda la información relacionada con la cuarta jornada académica.</p>
@@ -289,7 +289,7 @@ require_once './includes/mensaje_dia.php';
                                 <div class="col-md-8 caption">
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <h4 class="titulo_noticia_secundaria">Cuarta Jornada Académica</h4>
+                                            <h4 class="titulo_noticia_secundaria" style="color:rgb(27, 57, 106)">Cuarta Jornada Académica</h4>
                                         </div>
                                         <div class="col-md-12">
                                             <p class="decripcion_noticia">Aqui encontraras toda la información relacionada con la cuarta jornada académica.</p>
