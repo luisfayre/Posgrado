@@ -4,7 +4,7 @@
 <div id="4directorios" class="four_directories">
     <div class="directorio-footer-column">
         <div class="directorio-footer">
-            <div class="Directorio_title">RECIENTE</div>
+            <div class="Directorio_title" style="color:rgb(27, 57, 106)">RECIENTE</div>
             <br>
             <br>			
             <div class="textwidget">
@@ -31,7 +31,7 @@
             </div>
         </div></div><div class="directorio-footer-column">
         <div class="directorio-footer">
-            <div class="Directorio_title">COLOQUIOS</div>
+            <div class="Directorio_title" style="color:rgb(27, 57, 106)">COLOQUIOS</div>
             <br>
             <br>
             <div class="textwidget">
@@ -64,7 +64,7 @@
 
     <div class="directorio-footer-column">
         <div class="directorio-footer">
-            <div class="Directorio_title">TEMAS DE INTERÉS</div><br><br>		
+            <div class="Directorio_title" style="color:rgb(27, 57, 106)">TEMAS DE INTERÉS</div><br><br>		
             <div class="textwidget"><li class="listado"><a href="http://www.conricyt.mx/">CONRICyT</a></li>
                 <li class="listado">
                     <a href="http://www.itchihuahuaii.edu.mx/">Movilidad</a></li>
@@ -81,7 +81,7 @@
 
 
     <div class="directorio-footer-column">
-        <div class="directorio-footer"><div class="Directorio_title">RELACIONADO</div>
+        <div class="directorio-footer"><div class="Directorio_title" style="color:rgb(27, 57, 106)">RELACIONADO</div>
             <br>			<div class="textwidget"><li class="listado"><a href="http://www.itchihuahuaii.edu.mx/?page_id=867">Inglés</a></li>
                 <li class="listado"><a href="http://moodle.itchihuahuaii.edu.mx/">Moodle</a></li><li class="listado"><a href="https://www.tecnm.mx/convocatorias">Convocatorias</a></li>
                 <li class="listado"><a href="http://www.itchihuahuaii.edu.mx/?page_id=871">Multiverso TecNM</a></li>
