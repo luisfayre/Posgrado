@@ -32,7 +32,7 @@
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h1 class="principal">MAESTRÍA EN INGENIERÍA INDUSTRIAL</h1>
+                    <h1 class="principal" style="color:rgb(27, 57, 106)">MAESTRÍA EN INGENIERÍA INDUSTRIAL</h1>
                     <h2>Procesos Administrativos</h2>
                     <h2>Organigrama</h2>
                     <h3>División de Estudios de Posgrado e Investigación</h3>
@@ -40,7 +40,7 @@
             </div>
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-12">
-                    <img class="img-responsive" src="../img/organigrama/procesos_recortado_actualizado_19022020.png" alt="Organigrama de División de Estudios de Posgrado e Investigación">
+                    <img class="img-responsive" src="../img/organigrama/procesosOrganigramaUnoActualizado.jpg" alt="Organigrama de División de Estudios de Posgrado e Investigación">
                 </div>
             </div>
             <div class="row">
