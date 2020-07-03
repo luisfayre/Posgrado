@@ -49,7 +49,7 @@
 
                         <div class="row text-justify">
 
-                            <h2 class="noticia">¡Bienvenido!</h2>
+                            <h2 class="noticia" style="color:rgb(27, 57, 105);">¡Bienvenido!</h2>
                             <p>
                                 El programa de la maestría en sistemas computacionales que ofrece el Instituto Tecnológico de Chihuahua II
                                 es un programa único profesionalizante dentro del Padrón de Nacional de posgrados de calidad en la región 
