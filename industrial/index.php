@@ -41,7 +41,7 @@
                         </div>
                         <br>
                         <div class="row text-justify">
-                            <h2 class="noticia">¡Bienvenido!</h2>
+                            <h2 class="noticia" style="color:rgb(27, 57, 105);">¡Bienvenido!</h2>
                             <br>
                             <p>El programa de maestría en Ingeniería Industrial que ofrece el Instituto Tecnológico de Chihuahua II, es
                                 un programa con orientación profesional, que se enfoca en ampliar los conocimientos en el área, con el
