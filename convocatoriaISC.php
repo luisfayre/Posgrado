@@ -46,7 +46,7 @@
                         </div>
 
                         <div>
-                            <h1 class="principal" style="text-align:center">MAESTRÍAS EN SISTEMAS COMPUTACIONALES</h1>
+                            <h1 class="principal" style="text-align:center; color:rgb(27, 57, 105);">MAESTRÍAS EN SISTEMAS COMPUTACIONALES</h1>
                             <br>
                             <br>
                             <p>
