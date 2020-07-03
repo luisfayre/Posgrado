@@ -41,12 +41,12 @@
                         <div class="text-center">
                             <img clas="img-responsive" src="../img/cv/hernan_de_la_Garza.jpg" alt="Hernan de la Garza Gutierrez">
                             <h2>Dr. Hernán de la Garza Gutiérrez</h2>
-                            <p>CORREO: rambientalster@gmail.com
+                            <p>CORREO: hernan.gg@chihuahua2.tecnm.mx
                                 <br> Instituto Tecnológico de Chihuahua II
                             </p>
                         </div>
                         <p>ADSCRIPCIÓN ACTUAL
-                            <br> 02/1978 - 02/2015 </p>
+                            <br> 02/2013 - 02/2020 </p>
                         <blockquote>
                             <p>TECNOLÓGICO NACIONAL DE MÉXICO / INSTITUTO TECNOLÓGICO DE CHIHUAHUA II, Profesor de tiempo completo</p>
                         </blockquote>
