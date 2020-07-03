@@ -41,12 +41,12 @@
                         <div class="text-center">
                             <img clas="img-responsive" src="../img/cv/ronquillo (copia).jpg" alt="Gregorio Ronquillo Máynez">
                             <h2>Gregorio Ronquillo Máynez</h2>
-                            <p>CORREO: gronquillom@hotmail.com
+                            <p>CORREO: gregorio.rm@chihuahua2.tecnm.mx
                                 <br> Instituto Tecnológico de Chihuahua II: (052) 614.4425000.124
                             </p>
                         </div>
                         <p>ADSCRIPCIÓN ACTUAL
-                            <br> 02/1978 - 02/2015 </p>
+                            <br> 02/2013 - 02/2020 </p>
                         <blockquote>
                             <p>TECNOLÓGICO NACIONAL DE MÉXICO / INSTITUTO TECNOLÓGICO DE CHIHUAHUA II, Profesor de tiempo completo</p>
                         </blockquote>
