@@ -42,12 +42,12 @@
                         <div class="text-center">
                             <img clas="img-responsive" src="../img/cv/arturo_alvarado.jpg" alt="">
                             <h2>MISC. Jesús Arturo Alvarado Granadino</h2>
-                            <p>CORREO: alvaradogranadino@yahoo.com.mx
+                            <p>CORREO: jesus.ag@chihuahua2.tecnm.mx
                                 <br> Instituto Tecnológico de Chihuahua II: (052) 614.4425000.124
                             </p>
                         </div>
                         <p>ADSCRIPCIÓN ACTUAL
-                            <br> 15/12/2000 - 02/2015 </p>
+                            <br> 15/12/2013 - 02/2020 </p>
                         <blockquote>
                             <p>TECNOLÓGICO NACIONAL DE MÉXICO / INSTITUTO TECNOLÓGICO DE CHIHUAHUA II, Profesor de tiempo completo</p>
                         </blockquote>
