@@ -39,7 +39,7 @@
                 <div class="col-md-8">
                     <div class="row">
                         <div class="col-md-12 text-center">
-                            <h1 class="noticia">
+                            <h1 class="noticia" style="color:rgb(27, 57, 106)">
                                 Plan de estudios
                             </h1>
                         </div>
