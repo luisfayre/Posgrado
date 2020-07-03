@@ -56,7 +56,9 @@
                     <tbody class="text-left">
                         <tr>
                             <th>ROSALBA LÓPEZ MENDOZA</th>
-                            <th>SOFTWARE PARA LA ESTIMULACIÓN VISUAL DE NIÑOS CON BAJA VISIÓN</th>
+                            <th>
+                            <a href="../documentos/tesis/2016/TesisRosalbaLopez.pdf">
+                            SOFTWARE PARA LA ESTIMULACIÓN VISUAL DE NIÑOS CON BAJA VISIÓN</a></th>
                             <th>01/16</th>
                             <th>12/17</th>
                             <th>MAESTRO(A)</th>
