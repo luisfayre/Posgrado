@@ -41,12 +41,12 @@
                         <div class="text-center">
                             <img clas="img-responsive" src="../img/cv/Rafael_Sandoval.jpg" alt="Alberto Camacho Rios">
                             <h2>Rafael Sandoval Rodriguez</h2>
-                            <p>CORREO: rafael.sandoval@itchihuahuaii.edu.mx
+                            <p>CORREO: rafael.sr1@chihuahua2.tecnm.mx
                                 <br> Instituto Tecnológico de Chihuahua II
                             </p>
                         </div>
                         <p>ADSCRIPCIÓN ACTUAL
-                            <br> 02/1978 - 02/2015 </p>
+                            <br> 02/2013 - 02/2020 </p>
                         <blockquote>
                             <p>TECNOLÓGICO NACIONAL DE MÉXICO / INSTITUTO TECNOLÓGICO DE CHIHUAHUA II, Profesor de tiempo completo</p>
                         </blockquote>
