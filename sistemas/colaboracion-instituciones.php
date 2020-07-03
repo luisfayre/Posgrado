@@ -50,7 +50,7 @@
                         <img src="../img/logos/itech-logo.png" alt="Instituto Tecnológico de Chihuahua Logo">
                         <div class="caption text-center ">
                             <h4>Instituto Tecnológico de Chihuahua</h4>
-                            <p>www.itch.edu.mx//</p>
+                            <a href="../documentos/convenios/convenioTec1.pdf">www.itch.edu.mx//</a>
                         </div>
                     </div>
                 </div>
