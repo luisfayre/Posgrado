@@ -87,6 +87,261 @@
                 </div>
             </div>
             <div class="row ">
+            
+            <!-- AQUI EMPIEZAN LAS TABLAS-->
+            <div class="col-md-12 bloque col-sm-12">
+                    <table class="table table-striped" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span
+                                            style="font-weight: bold;">Agosto- Diciembre 2013 </span></span>
+                                </td>
+                                <td class="text-center" colspan="5" style="background-color: #007D32;"><span style="color: white;"><span
+                                            style="font-weight: bold;">Comite Tutorial </span></span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Nombre Completo </span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Tesis</span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">DIRECTOR </span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">CODIRECTOR </span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">REVISOR 1 </span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">REVISOR 2 </span></span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Sifuentes Díaz Alexandro</td>
+                                <td>
+                                    Módulo de unificación de imágenes para microscopía óptica
+                                </td>
+                                <td>M.I.S.C. Jesús Arturo Alvarado Granadino</td>
+                                <td>Dr. Caleb Carreño Gallardo</td>
+                                <td>M.C. Arturo Legarda Saénz</td>
+                                <td>M.S.I. Sergio Antonio Talavera Carbajal</td>
+                            </tr>
+                            <tr>
+                                <td>Piñon Gaytán Ariel</td>
+                                <td></td>
+                                <td>M.I.S.C. Jesús Arturo Alvarado Granadino</td>
+                                <td>M.C. Rafael Vázquez Pérez</td>
+                                <td>M.C. Arturo Legarda Saénz</td>
+                                <td>M.S.I. Sergio Antonio Talavera Carbajal</td>
+                            </tr>
+                            <tr>
+                                <td>Castañeda Balderas Rubén</td>
+                                <td>
+                                    <a href="./../documentos/tesis/2013/Determinación del mapa de deformaciones en probetas planas mediante el método de correlación digital de imágenes - Rubén Castañeda.pdf">
+                                        Determinación del mapa de deformaciones en probetas planas mediante el método de correlación digital de imágenes
+                                    </a>
+                                </td>
+                                <td>DR. Hernán de la Garza</td>
+                                <td>DR. Alberto Díaz Díaz</td>
+                                <td>M.C. Rafael Vázquez Pérez</td>
+                                <td>Dr. Alberto Camacho Ríos</td>
+                            </tr>
+                            <tr>
+                                <td>Chaparro Díaz Marco Antonio</td>
+                                <td></td>
+                                <td>M.S.I. Gregorio Ronquillo Maynez</td>
+                                <td>DR. Alberto Camacho Ríos</td>
+                                <td>M.E.S M.E.S. Marisela Ivette Caldera Franco</td>
+                                <td>M.I.S. Jesús Arturo Alvarado Granadino</td>
+                            </tr>
+                            <tr>
+                                <td>Muñoz Estrada Edgar Armando</td>
+                                <td>
+                                    <a href="./../documentos/tesis/2013/Modulo de reconocimiento de particulas microscopicas (REMIC) - Edgar Muñoz.pdf">
+                                        Modelo de reconocimiento de partículas microscópicas (REMIC)
+                                    </a>
+                                </td>
+                                <td>M.C. Arturo Legarda Sáenz</td>
+                                <td>DR. Caleb Carreño Gallardo</td>
+                                <td>DR. Hernán de la Garza</td>
+                                <td>M.C. M.C. Leonardo Nevarez Chavez</td>
+                            </tr>
+                            <tr>
+                                <td>De Santiago Nuñez Omar</td>
+                                <td></td>
+                                <td>M.C. Leonardo Nevarez Chavez</td>
+                                <td>DR. Alberto Camacho Ríos</td>
+                                <td>M.S.I. Gregorio Ronquillo Maynez</td>
+                                <td>M.C. Rafael Vázquez Pérez</td>
+                            </tr>
+                            <tr>
+                                <td>Ortiz Barrio Gabino Alberto</td>
+                                <td></td>
+                                <td>M.E.S. Marisela Ivette Caldera Franco</td>
+                                <td>M.S.I. Sergio Antonio Talavera Carbajal</td>
+                                <td>DR. Jesús Humberto Cuevas Acosta</td>
+                                <td>M.C. Arturo Legarda Saenz</td>
+                            </tr>
+                            <tr>
+                                <td>Zapata Silva Jose Martín</td>
+                                <td></td>
+                                <td>M.E.S. Marisela Ivette Caldera Franco</td>
+                                <td>M.S.I. Gregorio Ronquillo Maynez</td>
+                                <td>M.C. Leonardo Nevarez Chavez</td>
+                                <td>DR. Hernán de la Garza</td>
+                            </tr>
+                            <tr>
+                                <td>Anzaldo Moreno Juan Adalberto</td>
+                                <td></td>
+                                <td>M.C. Rafael Vázquez Pérez</td>
+                                <td>DR. Eduardo Florencio Herrera </td>
+                                <td>M.I.S.C. Jesús Alvarado Granadino</td>
+                                <td>DR. Jesús Humberto Cuevas Acosta</td>
+                            </tr>
+                            <tr>
+                                <td>Campos Frías Tania Paola</td>
+                                <td>
+                                    <a href="./../documentos/tesis/2013/Software De Indexado De Patrones De Difracción (SIPAD) - Tania Campos.pdf">
+                                        Software De Indexado De Patrones De Difracción (SIPAD)  
+                                    </a>
+                                </td>
+                                <td>M.C. Rafael Vázquez Pérez</td>
+                                <td>M.C. Carlos Elias Ornelas</td>
+                                <td>DR. Hernán de la Garza</td>
+                                <td>DR. Jesús Humberto Cuevas Acosta</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="col-md-12 bloque col-sm-12">
+                    <table class="table table-striped" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Agosto- Diciembre 2014 </span></span>
+                                </td>
+                                <td class="text-center" colspan="5" style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Comite Tutorial </span></span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Nombre Completo </span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">TESIS </span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">DIRECTOR </span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">CODIRECTOR </span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">REVISOR 1 </span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">REVISOR 2 </span></span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Gabriela Camacho Rios</td>
+                                <td>
+                                    <a href="../documentos/tesis/2014/Aplicación para mejorar la enseñanza - Gabriela Camacho Ríos.pdf">
+                                        Aplicación para mejorar la enseñanza de las ecuaciones diferenciales
+                                    </a>
+                                    </th>
+                                <td>M.E.S. Marisela Ivette Caldera Franco</td>
+                                <td>DR. Jesús Humberto Cuevas Acosta</td>
+                                <td>M.C. Blanca Maricela Ibarra Murrieta</td>
+                                <td>M.I.S.C Jesús Arturo Alvarado Granadino</td>
+                            </tr>
+                            <tr>
+                                <td>Sebastian Iram Acosta Lazalde</td>
+                                <td></td>
+                                <td>M.C. Arturo Legarda Saénz</td>
+                                <td>DR. Hernán de la Garza Gutiérrez</td>
+                                <td>M.C. Rafael Vázquez Pérez</td>
+                                <td>M.C. Leonardo Nevarez Chavez</td>
+                            </tr>
+                            <tr>
+                                <td>Alfonso Osio Calvillo</td>
+                                <td></td>
+                                <td>DR. Hernán de la Garza Gutiérrez</td>
+                                <td>M.C. Arturo Legarda Saénz</td>
+                                <td>M.I.S.C. Jesús Arturo Alvarado Granadino</td>
+                                <td>M.S.I. Sergio Antonio Talavera Carbajal</td>
+                            </tr>
+                            <tr>
+                                <td>Lorena Chávira Celaya</td>
+                                <td>
+                                    <a href="../documentos/tesis/2014/Aplicación para enseñar el uso del teclado QWERTY a niños con discapacidad visual de entre 6 y 8 años de edad - Lorena Chavira.pdf">
+                                        Aplicación para enseñar el uso del teclado QWERTY a niños con discapacidad visual de entre 6 y 8 años de edad
+                                    </a>
+                                </td>
+                                <td>M.S.I. Sergio Antonio Talavera Carbajal</td>
+                                <td>M.C. Leonardo Nevarez Chavez</td>
+                                <td>M.S.I. Gregorio Ronquillo Maynez</td>
+                                <td>M.C. Rafael Vázquez Pérez</td>
+                            </tr>
+                            <tr>
+                                <td>Carlos Humberto Rubio Rascón</td>
+                                <td>
+                                    <a href="../documentos/tesis/2014/Implementación de programación genética para el diseño de laminados de materiales compuestos - Carlos Rubio.pdf">
+                                        Implementación de programación genética para el diseño de laminados de materiales compuestos
+                                    </a>
+                                </td>>
+                                <td>M.C. Rafael Vázquez Pérez</td>
+                                <td>DR. Alberto Díaz Díaz</td>
+                                <td>DR. Hernán de la Garza Gutiérrez</td>
+                                <td>DR. Jesús Humberto Cuevas Acosta</td>
+                            </tr>
+                            <tr>
+                                <td>Octavio Flores Cano</td>
+                                <td></td>
+                                <td>M.S.I. Gregorio Ronquillo Maynez</td>
+                                <td>M.S.I. Sergio Antonio Talavera Carbajal</td>
+                                <td>M.C. Blanca Maricela Ibarra Murrieta</td>
+                                <td>M.C. Arturo Legarda Saénz</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="col-md-12 bloque col-sm-12">
+                    <table class="table table-striped" style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td style="background-color: #007D32;">
+                                    <span style="color: white;">
+                                        <span style="font-weight: bold;">
+                                            Enero - Junio 2016 - 1
+                                        </span>
+                                    </span>
+                                </td>
+                                <td class="text-center" colspan="6" style="background-color: #007D32;">
+                                    <span style="color: white;">
+                                        <span style="font-weight: bold;">
+                                            Comite Tutorial
+                                        </span>
+                                    </span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">Nombre Completo </span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">TESIS</span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">DIRECTOR </span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">CODIRECTOR </span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">REVISOR 1 </span></span>
+                                </td>
+                                <td style="background-color: #007D32;"><span style="color: white;"><span style="font-weight: bold;">REVISOR 2 </span></span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >ROSALBA LÓPEZ MENDOZA</td>
+                                <td>SOFTWARE PARA LA ESTIMULACIÓN VISUAL DE NIÑOS CON BAJA VISIÓN</td>
+                                <td >M.C. LEONARDO NEVÁREZ CHÁVEZ</td>
+                                <td >FERNANDO NAVA</td>
+                                <td >DR. ALBERTO CAMACHO RIOS</td>
+                                <td >M.C. ARTURO LEGARDA SÁENZ</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
 
                 <div class="col-md-12 bloque col-sm-12">
                     <table class="table table-striped" style="width: 100%;">
