@@ -247,7 +247,7 @@ Experimentales.</strong>III Escuela de Verano EDEPA. Universidad de Costa Rica, 
                             </table>
                         </blockquote>
 
-                        <p>DIRECCION DE TESIS</p>
+                        <p>DIRECCIÓN DE TESIS</p>
                         <blockquote>
                             <table>
                                 <tr>
