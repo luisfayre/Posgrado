@@ -100,8 +100,19 @@
                         <tr>
                             <th>TOMAS DANIEL PORTILLO OGAZ</th>
                             <th>
-                                <a href="">
+                                <a href="../documentos/tesis/2016/TesisTomasPortillo.pdf">
                                     Implementación de software scada para monitoreo y control de un edificio inteligente
+                                </a>
+                            </th>
+                            <th>08/16</th>
+                            <th>08/03/19</th>
+                            <th>MAESTRO(A)</th>
+                        </tr>
+                        <tr>
+                            <th>EDUARDO TORRES ÁVILA</th>
+                            <th>
+                                <a href="../documentos/tesis/2016/TesisEduardoTorres.pdf">
+                                    OBEX: EXPLORADOR DE OBJETOS EN AMBIENTES ERP
                                 </a>
                             </th>
                             <th>08/16</th>
