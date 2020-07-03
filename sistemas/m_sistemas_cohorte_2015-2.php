@@ -68,7 +68,7 @@
                         <tr>
                             <th>EMANUELLE PORTILLO TORRES</th>
                             <th>
-                                <a href="#">
+                                <a href="../documentos/tesis/2015/TesisEmanuellePortillo.pdf">
                                     Creación e integración del módulo para la detección de polaridad de opiniones
                                 </a>
                             </th>
