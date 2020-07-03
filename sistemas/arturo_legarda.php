@@ -41,12 +41,12 @@
                         <div class="text-center">
                             <img clas="img-responsive" src="../img/cv/arturo_legarda.jpg" alt="">
                             <h2>M.C. Arturo Legarda Saenz</h2>
-                            <p>CORREO: alfpolitico@yahoo.com.mx
+                            <p>CORREO: arturo.ls@chihuahua2.tecnm.mx
                                 <br> Instituto Tecnológico de Chihuahua II: (052) 614.4425024.
                             </p>
                         </div>
                         <p>ADSCRIPCIÓN ACTUAL
-                            <br> 01/2010-01/2015
+                            <br> 01/2013-01/2020
                         </p>
                         <blockquote>
                             <p>TECNOLÓGICO NACIONAL DE MÉXICO / INSTITUTO TECNOLÓGICO DE CHIHUAHUA II,DOCENTE</p>
