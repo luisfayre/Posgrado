@@ -39,14 +39,14 @@
                 <div class="jumbotron cv">
                     <div class="container">
                         <div class="text-center">
-                            <img clas="img-responsive" src="../img/cv/jesus_cuevas.jpg" alt="Jesús Humberto Cuevas">
+                            <img clas="img-responsive" src="../img/cv/Foto_JHCuevas_2020.jpg" width="160" height="160" alt="Jesús Humberto Cuevas">
                             <h2>Dr. Jesús Humberto Cuevas Acosta, candidato a SNI</h2>
-                            <p>CORREO: jesus.humberto.cuevas@outlook.com
+                            <p>CORREO: jesus.ca@chihuahua2.tecnm.mx
                                 <br> Instituto Tecnológico de Chihuahua II: (052) 614.4425000.124
                             </p>
                         </div>
                         <p>ADSCRIPCIÓN ACTUAL
-                            <br>
+                            <br> 02/2013 - 02/2020 </p>
                         </p>
                         <blockquote>
                             <p>TECNOLÓGICO NACIONAL DE MÉXICO / INSTITUTO TECNOLÓGICO DE CHIHUAHUA II, Profesor de tiempo completo</p>
@@ -124,26 +124,197 @@
                                 </tr>
                             </table>
                         </blockquote>
+
+                        <!--NUEVOS-->
+
+                        <p>ARTÍCULOS EN REVISTAS ESPECIALIZADAS</p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>2020&nbsp;</td>
+                                    <td>Cuevas, H., Camacho-Ríos, G., & Solís, C. (2020). Estadística computacional con Julia. Ventajas
+de su enseñanza en la Universidad. Revista Digital Matemática, Educación e Internet, 20(2), 1–19.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2019&nbsp;</td>
+                                    <td>Cuevas, H., Solís, C. & Silva, I. (2019). Programación computacional y análisis de datos en
+educación estadística. Areté: Revista Digital del Doctorado en Educación de la
+Universidad Central de Venezuela, 5(9), 11–27.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td>Cuevas, H., & Ramírez, G. (2018). Desempeño en estocástica entre profesores de educación
+secundaria: un estudio exploratorio en dos regiones de Costa Rica y México. Educación
+Matemática, 30(1), 93–132.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td>Cuevas, H., & Solís, C. (2018). Reproducibilidad de la Investigación y Educación Estadística con
+Rmarkdown. Revista de Pedagogía, 39(105), 57–81.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td>Cuevas, H. (2017). Investigación Reproducible: Promoción y uso en Educación Superior. Yulök
+Revista de Innovación Académica, 1(1), 9–17.</td>
+                                </tr>
+
+                            </table>
+                        </blockquote>
+
+                        <p>CONFERENCIAS MAGNAS</p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>2019&nbsp;</td>
+                                    <td>Cuevas, J.H. (2019). <strong> Aprendizaje Basado en Retos.</strong>  IV Escuela de Verano: Encuentro sobre didáctica de
+la estadística, probabilidad y el análisis de datos. Costa Rica.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td>Cuevas, J.H. (2017). <strong> Estadística Computacional y Reproducibilidad de la Investigación.</strong>  Foro
+Iberoamericano INGE NEO. Chihuahua, México</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td>Cuevas, J.H. (2017). <strong> eproducibilidad de la Investigación y Honestidad Intelectual para la
+Innovación y Desarrollo Tecnológico.</strong>  Presentación de Revista Científica de Innovación
+Académica, Yulök. Universidad Técnica Nacional. Alajuela, Costa Rica.</td>
+                                </tr>
+
+                            </table>
+                        </blockquote>
+
+                        <p>PONENCIAS, CURSOS Y TALLERES EN FOROS INTERNACIONALES</p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>2019&nbsp;</td>
+                                    <td>Cuevas, J.H. (2019). <strong>Taller ECORFAN.</strong>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td>Cuevas, J.H. (2019). <strong>Temas Selectos de Estadística y Computación.</strong> Tecnológico de Costa Rica /
+Escuela de Matemática. Costa Rica.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td>Cuevas, J.H. (2019). <strong>Visualización de datos.</strong> IV Escuela de Verano: Encuentro sobre Didáctica de la
+Estadística, la Probabilidad y el Análisis de Datos. Costa Rica.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td>Cuevas, J.H. (2017). <strong>Gestión de Revistas Científicas (Conversatorio).</strong> Presentación de la Revista
+Científica de Innovación Académica, Yulök. Universidad Técnica Nacional. Alajuela, Costa Rica</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td>Cuevas, J.H. (2017). <strong>Reflexiones y aportes innovadores al quehacer académico (Foro).</strong> Presentación
+de Revista Científica de Innovación Académica, Yulök. Universidad Técnica Nacional. Alajuela,
+Costa Rica.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td>Cuevas, J.H. (2017). <strong>Importancia de la elaboración de artículos científicos innovadores (Taller).</strong>
+Presentación de la Revista de Innovación Académica, Yulök. Universidad Técnica Nacional,
+Alajuela, Costa Rica.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2019&nbsp;</td>
+                                    <td>Cuevas, J.H. (2017). <strong>Elaboración de Protocolos de Investigación (Taller).</strong> Foro Iberoamericano INGE
+NEO. Chihuahua, México.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td>Cuevas, J.H. (2017). <strong>Ingeniería en Gestión Empresarial. Panel de Egresados (Moderador en Mesa de
+Trabajo).</strong> Foro Iberoamericano INGE NEO. Chihuahua, México. </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td>Cuevas, J.H. (2017). <strong>Proyectos Integradores en la Enseñanza de la Estadística (Conferencia).</strong> III
+Escuela de Verano EDEPA. Universidad de Costa Rica, Sede del Atlántico.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td>Cuevas, J.H. (2017). <strong>Elaboración de Secuencias Didácticas desde la Perspectiva de la Investigación</strong>
+Guiada. III Escuela de Verano EDEPA. Universidad de Costa Rica, Sede del Atlántico.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td>Cuevas, J.H. (2017).<strong>Diseño de Proyectos Multidisciplinares con Actividades Observacionales y
+Experimentales.</strong>III Escuela de Verano EDEPA. Universidad de Costa Rica, Sede del Atlántico.</td>
+                                </tr>
+
+                            </table>
+                        </blockquote>
+
+                        <p>DIRECCION DE TESIS</p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>2020&nbsp;</td>
+                                    <td>Aplicación para Resolver Ecuaciones Diferenciales
+Ordinarias (EDO). Tecnológico Nacional de México
+                                </tr>
+                                <tr>
+                                    <td valign=top>2019&nbsp;</td>
+                                    <td>Implementación de un Curso Adaptativo Basado en Estilos
+de Aprendizaje Mediante Lógica Difusa. Tecnológico Nacional de México</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2020&nbsp;</td>
+                                    <td>Aplicación Móvil para Desarrollar y Graficar Series de
+Fourier. Tecnológico Nacional de México</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2021&nbsp;</td>
+                                    <td>Aplicación Móvil para Espacios Vectoriales (en proceso). Tecnológico Nacional de México</td>
+                                </tr>
+                                
+
+                            </table>
+                        </blockquote>
+
+                        <!--NIEVOS-FIN-->
+
                         <p>NIVELES/GRADOS ACADÉMICOS </p>
                         <blockquote>
                             <table>
                                 <tr>
                                     <td valign=top>2011&nbsp;</td>
-                                    <td><strong>DOCTORADO</strong>,Doctorado en Educación Facultad de Filosofía y Letras Universidad Autónoma de Chihuahua. CÉDULA: 7020273 .
+                                    <td><strong>DOCTORADO</strong>, Doctorado en Educación Facultad de Filosofía y Letras Universidad Autónoma de Chihuahua. CÉDULA: 7020273 .
                                     </td>
                                 </tr>
                                 <tr>
                                     <td valign=top>2002&nbsp;</td>
-                                    <td><strong>MAESTRÍA</strong>Maestría en Ciencias en Enseñanza de las Ciencias Centro Interdisciplinario de Investigación y Docencia en Educación Técnica (CIIDET). CÉDULA: 4112403.</td>
+                                    <td><strong>MAESTRÍA</strong>, Maestría en Ciencias en Enseñanza de las Ciencias Centro Interdisciplinario de Investigación y Docencia en Educación Técnica (CIIDET). CÉDULA: 4112403.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>2000&nbsp;</td>
-                                    <td><strong>ESPECIALIZACIÓN</strong>Especialización en Docencia (1998 – 2000) Centro Interdisciplinario de Investigación y Docencia en Educación Técnica (CIIDET). CÉDULA: 3247507.</td>
+                                    <td><strong>ESPECIALIZACIÓN</strong>, Especialización en Docencia (1998 – 2000) Centro Interdisciplinario de Investigación y Docencia en Educación Técnica (CIIDET). CÉDULA: 3247507.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>31/05/1988&nbsp;</td>
-                                    <td><strong>LICENCIATURA</strong>Ingeniero Industrial. Instituto Tecnológico de Delicias. CÉDULA: 2404214.</td>
+                                    <td><strong>LICENCIATURA</strong>, Ingeniero Industrial. Instituto Tecnológico de Delicias. CÉDULA: 2404214.</td>
                                 </tr>
+                                <tr>
+                                    <td valign=top>02/2020&nbsp;</td>
+                                    <td><strong>MAESTRÍA</strong>, Máster en Estadística Aplicada con R . Universidad de Nebrija.</td>
+                                </tr>
+                            </table>
+                        </blockquote>
+
+                        <p>DISTINCIONES REPRESENTATIVAS</p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td>Sistema Nacional de Investigadores, Conacyt. 2012 – 2017, Actualmente en proceso de
+                        evaluación.</td>
+                                </tr>
+                                <tr>
+                                    <td>Perfil Deseable PROMEP/PRODEP. 2012-2021.</td>
+                                </tr>
+                                
+
                             </table>
                         </blockquote>
                     </div>
