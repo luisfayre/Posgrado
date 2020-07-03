@@ -45,14 +45,14 @@
                     <div class="row ">
                         <div class="col-md-12 bloque col-sm-12">
 
-                            <h1 class="titulo">
+                            <h1 class="titulo"  style="color:rgb(27, 57, 105);">
                                 Misión y Visión
                             </h1>
 
                         </div>
 
                         <div class="col-md-12 col-sm-12 " style="text-align: justify">
-                            <h2 class="titulo">
+                            <h2 class="titulo"  style="color:rgb(27, 57, 105);">
                                 Misión
                             </h2>
 
@@ -62,7 +62,7 @@
                                 del país para la formación de una sociedad justa y humana. </p>
                             <br>
 
-                            <h2 class="titulo">
+                            <h2 class="titulo"  style="color:rgb(27, 57, 105);">
                                 Visión
                             </h2>
 
@@ -75,7 +75,7 @@
                             <br>
                             <div class="imgDEPI" style="text-align: center;">
                                 <a href="img/organigrama/procesos_administrativos_organigrama.png">
-                                    <img title="Organigrama depi" id="imgDEPI" src="img/organigrama/procesos_administrativos_organigrama.png" alt="Organigrama depi ITCHI II" />
+                                    <img title="Organigrama depi" id="imgDEPI" src="img/organigrama/procesosOrganigramaUnoActualizado.jpg" alt="Organigrama depi ITCHI II" />
                                 </a>
                             </div>
 
