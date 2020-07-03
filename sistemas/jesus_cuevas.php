@@ -274,6 +274,123 @@ Fourier. Tecnológico Nacional de México</td>
                             </table>
                         </blockquote>
 
+                        <p>COMITE CIENTIFICO</p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td>Universidad Tecnológica Nacional
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha&nbsp;</td>
+                                    <td>Febrero - Agosto, 2019</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Tipo&nbsp;</td>
+                                    <td>II Jornadas de Enseñanza en Innovación en Carreras de
+Ingeniería – II JEICI UTN FRA</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>País&nbsp;</td>
+                                    <td>Argentina</td>
+                                </tr>
+                            </table>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td>Asociación Colombiana de Educación Estocástica
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha&nbsp;</td>
+                                    <td>Julio, 2018</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Tipo&nbsp;</td>
+                                    <td>Comité Científico del 3º Encuentro Colombiano de
+Educación Estocástica </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>País&nbsp;</td>
+                                    <td>Colombia</td>
+                                </tr>
+                            </table>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td>Dirección de Superación Académica de la DGESU </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha&nbsp;</td>
+                                    <td>Mayo - Junio 2018</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Tipo&nbsp;</td>
+                                    <td>Evaluador-Reconocimiento y/o apoyo a Perfil Deseable</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>País&nbsp;</td>
+                                    <td>México</td>
+                                </tr>
+                            </table>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td>Tecnológico Nacional de México
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha&nbsp;</td>
+                                    <td>Septiembre - Octubre, 2019</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Tipo&nbsp;</td>
+                                    <td>1er. Congreso Internacional de Investigación Consorcio
+Paso del Norte </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>País&nbsp;</td>
+                                    <td>México</td>
+                                </tr>
+                            </table>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td>Tecnológico de Costa Rica
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha&nbsp;</td>
+                                    <td>Enero de 2014 - actual</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Tipo&nbsp;</td>
+                                    <td>Comité Científico de Revista Digital Matemática,
+Educación e Internet</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>País&nbsp;</td>
+                                    <td>Costa Rica</td>
+                                </tr>
+                            </table>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td>Universidad Técnica Nacional
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha&nbsp;</td>
+                                    <td>Julio, 2017- actual</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Tipo&nbsp;</td>
+                                    <td>Comité Asesor internacional de la Revista de Innovación
+Académica Yulök</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>País&nbsp;</td>
+                                    <td>Costa Rica</td>
+                                </tr>
+                            </table>
+                        </blockquote>
+
                         <!--NIEVOS-FIN-->
 
                         <p>NIVELES/GRADOS ACADÉMICOS </p>
