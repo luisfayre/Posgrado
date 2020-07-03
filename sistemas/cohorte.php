@@ -36,7 +36,7 @@
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h1 class="principal">MAESTRÍA EN SISTEMAS COMPUTACIONALES</h1>
+                    <h1 class="principal" style="color:rgb(27, 57, 106)">MAESTRÍA EN SISTEMAS COMPUTACIONALES</h1>
                     <h2>ALUMNOS POR COHORTE GENERACIONAL</h2 >
                 </div>
             </div>
