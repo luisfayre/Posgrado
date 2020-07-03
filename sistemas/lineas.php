@@ -34,7 +34,7 @@
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h1 class="principal">
+                    <h1 class="principal" style="color:rgb(27, 57, 106)">
                         Maestría en sistemas computacionales
                     </h1>
                     <h2>
