@@ -67,8 +67,8 @@
                                         </a>
                                     </h4>
                                     <p>CORREO: 
-                                        <a href="mailto:camachoalberto@hotmail.com">
-                                            camachoalberto@hotmail.com
+                                        <a href="mailto:alberto.cr@chihuahua2.tecnm.mx">
+                                            alberto.cr@chihuahua2.tecnm.mx
                                         </a>
                                     </p>
                                     <table>
@@ -101,8 +101,8 @@
                                         </a>
                                     </h4>
                                     <p>CORREO: 
-                                        <a href="mailto:alvaradogranadino@yahoo.com.mx">
-                                            alvaradogranadino@yahoo.com.mx
+                                        <a href="jesus.ag@chihuahua2.tecnm.mx">
+                                            jesus.ag@chihuahua2.tecnm.mx
                                         </a>
                                     </p>
                                     <table>
@@ -139,8 +139,8 @@
                                         </a>
                                     </h4>
                                     <p>CORREO: 
-                                        <a href="mailto:alfpolitico@yahoo.com.mx">
-                                            alfpolitico@yahoo.com.mx
+                                        <a href="mailto:arturo.ls@chihuahua2.tecnm.mx">
+                                            arturo.ls@chihuahua2.tecnm.mx
                                         </a>
                                     </p>
 
@@ -174,7 +174,7 @@
                                         </a>
                                     </h4>
                                     <p>CORREO: 
-                                        <a href="mailto:leonevarez71@hotmail.com">leonevarez71@hotmail.com</a>
+                                        <a href="mailto:leonardo.nc@chihuahua2.tecnm.mx">leonardo.nc@chihuahua2.tecnm.mx</a>
                                     </p>
 
                                     <table>
@@ -204,8 +204,8 @@
                                 <div class="media-body">
                                     <h4 class="media-heading">Hernán de la Garza Gutiérrez</h4>
                                     <p>CORREO:
-                                        <a href="mailto:rambientalster@gmail.com">
-                                            rambientalster@gmail.com
+                                        <a href="mailto:hernan.gg@chihuahua2.tecnm.mx">
+                                            hernan.gg@chihuahua2.tecnm.mx
                                         </a>
                                     </p>
                                     <table>
@@ -231,7 +231,7 @@
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="jesus_cuevas.php">
-                                        <img class="media-object" src="../img/cv/jesus_cuevas.jpg" alt="Dr. Jesús Humberto Cuevas Acosta ">
+                                        <img class="media-object" src="../img/cv/Foto_JHCuevas_2020.jpg" width="160" height="160" alt="Dr. Jesús Humberto Cuevas Acosta ">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -241,25 +241,30 @@
                                         </a>
                                     </h4>
                                     <p>CORREO: 
-                                        <a href="mailto:jesus.humberto.cuevas@outlook.com">jesus.humberto.cuevas@outlook.com</a>
+                                        <a href="mailto:jesus.ca@chihuahua2.tecnm.mx">jesus.ca@chihuahua2.tecnm.mx</a>
                                     </p>
 
                                     <table>
                                         <tr>
                                             <td>01/01/2011 </td>
-                                            <td><strong>Doctorado</strong>, Educación. Universidad Autónoma de Chihuahua. </td>
+                                            <td><strong>Doctorado</strong>, Educación. Universidad Autónoma de Chihuahua. México</td>
                                         </tr>
                                         <tr>
                                             <td>01/08/2002 </td>
-                                            <td><strong>Maestria</strong>, Maestria en Enseñanza de las Ciencias. Centro Interdisciplinario de Investigación y Docencia en Educación Técnica.</td>
+                                            <td><strong>Maestria</strong>, Maestria en Enseñanza de las Ciencias. Centro Interdisciplinario de Investigación y Docencia en Educación Técnica. México</td>
                                         </tr>
                                         <tr>
                                             <td>01/03/2000 </td>
-                                            <td><strong>Especialidad</strong>, Especialidad en docencia.</td>
+                                            <td><strong>Especialidad</strong>, Especialidad en docencia. Centro Interdisciplinario de Investigación y
+Docencia en Educación Técnica. México</td>
                                         </tr>
                                         <tr>
                                             <td>01/01/1996 </td>
-                                            <td><strong>Licenciatura</strong>, Ingenieria Industrial.</td>
+                                            <td><strong>Licenciatura</strong>, Ingenieria Industrial. Tecnológico Nacional de México / ITD. México</td>
+                                        </tr>
+                                        <tr>
+                                            <td>03/2020 </td>
+                                            <td><strong>Maestria</strong>, Máster en Estadística Aplicada con R. Universidad de Nebrija. España.</td>
                                         </tr>
                                     </table>
                                     <p>
@@ -278,14 +283,19 @@
                                 <div class="media-body">
                                     <h4 class="media-heading">Marisela Ivette Caldera Franco</h4>
                                     <p>CORREO:
-                                        <a href="mailto:marisela_caldera_franco@yahoo.com.mx">
-                                            marisela_caldera_franco@yahoo.com.mx
+                                        <a href="mailto:marisela.cf@chihuahua2.tecnm.mx">
+                                            marisela.cf@chihuahua2.tecnm.mx
                                         </a>
                                     </p>
                                     <table>
                                         <tr>
                                             <td>30/12/2001 </td>
-                                            <td><strong>Maestría</strong>, En Educacion Superior . Universidad Autónoma de Chihuahua. </td>
+                                            <td><strong>Maestría</strong>, En Educacion Superior. Universidad Autónoma de Chihuahua. </td>
+                                            <td><strong>Doctora</strong>, En Educacion.</td>
+                                        </tr>
+                                        <tr>
+                                            <td> - </td>
+                                            <td><strong>Doctora</strong>, En Educacion.</td>
                                         </tr>
                                     </table>
                                     <p>
@@ -304,7 +314,7 @@
                                 <div class="media-body">
                                     <h4 class="media-heading">Gregorio Ronquillo Máynez</h4>
                                     <p>CORREO: 
-                                        <a href="mailto:gronquillom@hotmail.com">gronquillom@hotmail.com</a>
+                                        <a href="mailto:gregorio.rm@chihuahua2.tecnm.mx">gregorio.rm@chihuahua2.tecnm.mx</a>
                                     </p>
                                     <table>
                                         <tr>
@@ -331,7 +341,7 @@
                                 <div class="media-body">
                                     <h4 class="media-heading">MSI. Ilya Lorena Sánchez Rivera </h4>
                                     <p>CORREO: 
-                                        <a href="mailto:ilyasanchez@hotmail.com">ilyasanchez@hotmail.com</a>
+                                        <a href="mailto:ilya.sr@chihuahua2.tecnm.mx">ilya.sr@chihuahua2.tecnm.mx</a>
                                     </p>
                                     <table>
                                         <tr>
@@ -351,8 +361,8 @@
                                 <div class="media-body">
                                     <h4 class="media-heading">Rafael Sandoval Rodriguez</h4>
                                     <p> CORREO: 
-                                        <a href="mailto:rafael.sandoval@itchihuahuaii.edu.mx">
-                                            rafael.sandoval@itchihuahuaii.edu.mx
+                                        <a href="mailto:rafael.sr1@chihuahua2.tecnm.mx">
+                                        rafael.sr1@chihuahua2.tecnm.mx
                                         </a>
                                     </p>
 
@@ -386,8 +396,8 @@
                                 <div class="media-body">
                                     <h4 class="media-heading">Laura Antonia Ortega Chávez</h4>
                                     <p> CORREO: 
-                                        <a href="mailto:laura.ortegach@gmail.com">
-                                        laura.ortegach@gmail.com
+                                        <a href="mailto:laura.oc@chihuahua2.tecnm.mx">
+                                        laura.oc@chihuahua2.tecnm.mx
                                         </a>
                                     </p>
 
@@ -409,8 +419,8 @@
                                 <div class="media-body">
                                     <h4 class="media-heading">Martha Patricia García Martínez</h4>
                                     <p> CORREO: 
-                                        <a href="mailto:patytec2@yahoo.com">
-                                            patytec2@yahoo.com
+                                        <a href="martha.gm@chihuahua2.tecnm.mx">
+                                            martha.gm@chihuahua2.tecnm.mx
                                         </a>
                                     </p>
 
