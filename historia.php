@@ -45,7 +45,7 @@
 
                         <div class="col-md-12 bloque col-sm-12">
 
-                            <h1 class="titulo">
+                            <h1 class="titulo"  style="color:rgb(27, 57, 105);">
                                 Historia
                             </h1>
 
