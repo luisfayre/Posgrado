@@ -67,6 +67,27 @@
                                 </tr>
                             </table>
                         </blockquote>
+                        <p>CAPÍTULOS DE LIBRO</p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>2015&nbsp;</td>
+                                    <td><strong>ESTUDIO DE LA PERTINENCIA PARA LA MAESTRÍA EN SISTEMAS COMPUTACIONALES DEL ITCH II</strong>, Caldera-Franco, Marisela Ivette; Ronquillo-Maynez, Gregorio; Nevarez-Chávez, Leonardo; Ibarra-Murrieta, Blanca Maricela. LIBRO: La Ciencia y Tecnológica al Servicio de la Sociedad. Editorial: Universidad Tecnológica de Cuidad Juárez. México; ISBN: 978-6078262076.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td><strong>APRENDIZAJE ADAPTATIVO MEDIANTE CONOCIMIENTOS PREVIOS PARA LA MATERIA DE FUNDAMENTOS DE PROGRAMACIÓN</strong>, Rivas-Hernández, Gustavo Adolfo; Nevárez -Chávez, Leonardo; Caldera-Franco, Marisela Ivette; Ronquillo-Máynez, Gregorio; De la Garza-Gutiérrez, Hernán. Revista Digital. Memorias Congreso Internacional de Investigación Científica Multidisciplinaria. ISSN: 2395-9711. (1) 7.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td><strong>ASISTENTE PARA EJERCICIOS DE REHABILITACIÓN PARA NIÑOS CON CAPACIDADES DIFERENTES</strong>, Quezada-Leyva, Paulina Patricia; Caldera-Franco, Marisela Ivette; Ronquillo-Máynez, Gregorio; Nevárez-Chávez, Leonardo. Revista Digital. Memorias Congreso Internacional de Investigación Científica Multidisciplinaria. ISSN: 2395-9711. (1) 7.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td><strong>APLICACIÓN MÓVIL DE APOYO EN TERAPIA DE LENGUAJE PARA PACIENTES CON CAPACIDADES DIFERENTES</strong>, García-Seáñez, Juana; Nevárez-Chávez, Leonardo; Caldera-Franco, Marisela Ivette; Ronquillo-Máynez, Gregorio. Revista Digital. Memorias Congreso Internacional de Investigación Científica Multidisciplinaria. ISSN: 2395-9711. (1) 7.</td>
+                                </tr>
+                            </table>
+                        </blockquote>
                     </div>
                 </div>
             </div>
