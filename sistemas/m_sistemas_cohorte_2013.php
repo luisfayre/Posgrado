@@ -36,7 +36,7 @@
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h1 class="principal">Maestría en sistemas computacionales</h1>
+                    <h1 class="principal" style="color:rgb(27, 57, 106)">Maestría en sistemas computacionales</h1>
                     <h2>Alumnos por cohorte generacional 2013</h2 >
                 </div>
             </div>
@@ -90,7 +90,9 @@
                         <tr>
                             <th>SIFUENTES DIAZ ALEXANDRO</th>
                             <th>
-                                Módulo de unificación de imágenes para microscopía óptica
+                                <a href="./../documentos/tesis/2013/tesisAlexandroSifuentes.pdf">
+                                    Módulo de unificación de imágenes para microscopía óptica
+                                </a>
                             </th>
                             <th>08/13</th>
                             <th>07/15</th>
