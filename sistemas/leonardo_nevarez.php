@@ -59,15 +59,70 @@
                                 </tr>
                                 <tr>
                                     <td valign=top>2007&nbsp;</td>
-                                    <td><strong>EL SOFTWARE LIBRE Y UNA EXPERIENCIA DE SU USO EN EL ITCHII ISSN: 0188-9575,</strong>Nevárez Chávez Leonardo, T2 Gazette, Vol.18, Pag.3-6, Revistas Arbitradas .</td>
+                                    <td><strong>EL SOFTWARE LIBRE Y UNA EXPERIENCIA DE SU USO EN EL ITCHII ISSN: 0188-9575, </strong>Nevárez Chávez Leonardo, T2 Gazette, Vol.18, Pag.3-6, Revistas Arbitradas .</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>1999&nbsp;</td>
-                                    <td><strong>SELECCIÓN DE UN SISTEMA MANEJADOR DE BASES DE DATOS. ISSN: 0188-9575,</strong>Baldenegro Valdéz Jesús, Blanco Vega Ricardo, Nevárez Chávez Leonardo, T2 Gazette, Vol.2, Pag.4-6, Revistas Arbitradas .</td>
+                                    <td><strong>SELECCIÓN DE UN SISTEMA MANEJADOR DE BASES DE DATOS. ISSN: 0188-9575, </strong>Baldenegro Valdéz Jesús, Blanco Vega Ricardo, Nevárez Chávez Leonardo, T2 Gazette, Vol.2, Pag.4-6, Revistas Arbitradas .</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>1993&nbsp;</td>
-                                    <td><strong>1993   SISTEMA DE INFORMACIÓN PARA LA ADMINISTRACION DE LA INVESTIGACION AGRICOLA (SINAIA) ISSN: 0188-3054,</strong>Nevárez Chávez Leonardo, Fernández de Villaseñor Yolanda, Agrociencia, Vol.4, Pag.179-192, Revistas Arbitradas .</td>
+                                    <td><strong>1993   SISTEMA DE INFORMACIÓN PARA LA ADMINISTRACION DE LA INVESTIGACION AGRICOLA (SINAIA) ISSN: 0188-3054, </strong>Nevárez Chávez Leonardo, Fernández de Villaseñor Yolanda, Agrociencia, Vol.4, Pag.179-192, Revistas Arbitradas .</td>
+                                </tr>
+                            </table>
+                        </blockquote>
+                        <p>ARTÍCULOS INDEXADOS</p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td><strong>APRENDER EL USO DEL TECLADO PARA NIÑOS CON DISCAPACIDAD VISUAL </strong>, Chavira-Celaya, Lorena; Caldera-Franco, Marisela Ivette; Nevárez-Chávez, Leonardo. REVISTA: RECIE. Revista Electrónica Científica de Investigación Educativa.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top> - &nbsp;</td>
+                                    <td><strong>RED DE INVESTIGADORES EDUCATIVOS CHIHUAHUA AC ISSN: 2594-200X, </strong>INDEXADO EN: LatinREV, Actualidad Iberoamericana, Google Académico, PKP.</td>
+                                </tr>
+                            </table>
+                        </blockquote>
+                        <p>CAPÍTULOS DE LIBRO</p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td><strong>APRENDIZAJE ADAPTATIVO MEDIANTE CONOCIMIENTOS PREVIOS PARA LA MATERIA DE FUNDAMENTOS DE PROGRAMACIÓN</strong>, Rivas-Hernández, Gustavo Adolfo; Nevárez -Chávez, Leonardo; Caldera-Franco, Marisela Ivette; Ronquillo-Máynez, Gregorio; De la Garza-Gutiérrez, Hernán. Revista Digital. Memorias Congreso Internacional de Investigación Científica Multidisciplinaria. ISSN: 2395-9711. (1) 7.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td><strong>OBTENCIÓN RÁPIDA DE PREGUNTAS DE OPCIÓN MÚLTIPLE A PARTIR DE UNA LISTA DE ORACIONES TEXTUALES PARA LA GENERACIÓN DE EXÁMENES</strong>, Hernández-Carrasco, Irving Fernando; Caldera-Franco, Marisela Ivette; Blanco-Vega, Ricardo; Nevárez-Chávez, Leonardo; Alvarado-Granadino, Jesús Arturo. Revista Digital. Memorias Congreso Internacional de Investigación Científica Multidisciplinaria. ISSN: 2395-9711. (1) 7.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td><strong>ASISTENTE PARA EJERCICIOS DE REHABILITACIÓN PARA NIÑOS CON CAPACIDADES DIFERENTES</strong>, Quezada-Leyva, Paulina Patricia; Caldera-Franco, Marisela Ivette; Ronquillo-Máynez, Gregorio; Nevárez-Chávez, Leonardo. Revista Digital. Memorias Congreso Internacional de Investigación Científica Multidisciplinaria. ISSN: 2395-9711. (1) 7.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td><strong>APLICACIÓN MÓVIL DE APOYO EN TERAPIA DE LENGUAJE PARA PACIENTES CON CAPACIDADES DIFERENTES</strong>, García-Seáñez, Juana; Nevárez-Chávez, Leonardo; Caldera-Franco, Marisela Ivette; Ronquillo-Máynez, Gregorio. Revista Digital. Memorias Congreso Internacional de Investigación Científica Multidisciplinaria. ISSN: 2395-9711. (1) 7.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2016&nbsp;</td>
+                                    <td><strong>ENFOQUE ADAPTATIVO PARA LA CAPACITACIÓN DE USUARIOS EN EL SISTEMA DE CAJA DE AHORRO Y PRÉSTAMO</strong>, Nevárez-Chávez, Leonardo; Ibarra-Murrieta, Blanca Maricela; Caldera-Franco, Marisela Ivette. Tlamati Sabiduría. Memorias Congreso Internacional de Computación CICOM. ISSN: 2007-2066. (3) 7.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2015&nbsp;</td>
+                                    <td><strong>FACILITAR LA EVALUACIÓN MEDIANTE LA APLICACIÓN DE RÚBRICAS EN UNA PLATAFORMA DE APRENDIZAJE</strong>, Nevárez-Chávez, Leonardo; Caldera-Franco, Marisela Ivette. ANFEI Digital. ISSN: 2395-9878. (2) 1.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2013&nbsp;</td>
+                                    <td><strong>EVALUACIÓN POR COMPETENCIAS UTILIZANDO RÚBRICA EN MOODLE</strong>, Caldera-Franco, Marisela Ivette, Blanco-Vega, Ricardo. 6º Congreso Internacional de Investigación. CIPITECH. ISBN: 978-607-8262-02-1.</td>
+                                </tr>
+                            </table>
+                        </blockquote>
+                        <p>ARTÍCULOS ARBITRADOS</p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>2015&nbsp;</td>
+                                    <td><strong>ESTUDIO DE LA PERTINENCIA PARA LA MAESTRÍA EN SISTEMAS COMPUTACIONALES DEL ITCH II</strong>, Caldera-Franco, Marisela Ivette; Ronquillo-Maynez, Gregorio; Nevarez-Chávez, Leonardo; Ibarra-Murrieta, Blanca Maricela. LIBRO: La Ciencia y Tecnológica al Servicio de la Sociedad. Editorial: Universidad Tecnológica de Cuidad Juárez. México; ISBN: 978-6078262076.</td>
                                 </tr>
                             </table>
                         </blockquote>
