@@ -36,7 +36,7 @@
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h1 class="principal">Maestría en sistemas computacionales</h1>
+                    <h1 class="principal" style="color:rgb(27, 57, 106)">Maestría en sistemas computacionales</h1>
                     <h2>Alumnos por cohorte generacional 2018-1</h2 >
                 </div>
             </div>
@@ -47,6 +47,7 @@
                     <thead>
                         <tr class="success">
                             <th>Nombre</th>
+                            <th>Tema de Tesis</th>
                             <th>Fecha de ingreso</th>
                             <th>Fecha de egreso</th>
                             <th>Grado</th>
@@ -55,36 +56,46 @@
                     <tbody class="text-left">
                         <tr>
                             <th>DAVID FERNANDO ROMO MARIN</th>
+                            <th></th>
                             <th>01/18</th>
                             <th></th>
                             <th></th>
                         </tr>
                         <tr>
                             <th>JESÚS FRANCISCO DUARTE MARTÍNEZ</th>
+                            <th>
+                                <a href="../documentos/tesis/2018/tesisJesusDuarte.pdf">Aplicación móvil para desarrollar y graficar series de fourier</a>
+                            </th>
                             <th>01/18</th>
                             <th></th>
-                            <th></th>
+                            <th>MAESTRO(A)</th>
                         </tr>
                         <tr>
                             <th>DANIELA IRANIA GARCÍA ALMEIDA</th>
+                            <th>
+                                <a href="../documentos/tesis/2018/tesisDanielaGarcia.pdf">Aplicación móvil para resolver ecuaciones difereciales ordinarias (EDO)</a>
+                            </th>
                             <th>01/18</th>
                             <th></th>
-                            <th></th>
+                            <th>MAESTRO(A)</th>
                         </tr>
                         <tr>
                             <th>MICHAEL REYES</th>
+                            <th></th>
                             <th>01/18</th>
                             <th></th>
                             <th></th>
                         </tr>
                         <tr>
                             <th>RUBÉN ARTURO DOMÍNGUEZ ALTAMIRANO</th>
+                            <th></th>
                             <th>01/18</th>
                             <th></th>
                             <th></th>
                         </tr>
                         <tr>
                             <th>RUBÉN ALONSO HERNÁNDEZ CHÁVEZ</th>
+                            <th></th>
                             <th>01/18</th>
                             <th></th>
                             <th></th>
