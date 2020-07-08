@@ -184,7 +184,7 @@
             <div class="thumbnail marcos">
                 <div class="media-left media-middle">
                     <a href="marisela_caldera.php">
-                        <img class="media-object" src="../img/cv/marisela_caldera.png" alt="Marisela Caldera" width="100" height="160">
+                        <img class="media-object" src="../img/cv/marisela_caldera_act.png" alt="Marisela Caldera" width="100" height="160">
                     </a>
                 </div>
                 <div class="media-body">
@@ -237,7 +237,7 @@
             <div class="thumbnail marcos">
                 <div class="media-left media-middle">
                     <a href="jesus_cuevas.php">
-                        <img class="media-object" src="../img/cv/jesus_cuevas.jpg" alt="Dr. Jesús Humberto Cuevas Acosta ">
+                        <img class="media-object" src="../img/cv/Foto_JHCuevas_2020.jpg" width="160" height="160" alt="Dr. Jesús Humberto Cuevas Acosta ">
                     </a>
                 </div>
                 <div class="media-body">
