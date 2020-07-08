@@ -36,7 +36,7 @@
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h1 class="principal">Maestría en sistemas computacionales</h1>
+                    <h1 class="principal" style="color:rgb(27, 57, 106);">Maestría en sistemas computacionales</h1>
                     <h2>Alumnos por cohorte generacional 2016-1</h2 >
                 </div>
             </div>
@@ -58,7 +58,7 @@
                             <th>ROSALBA LÓPEZ MENDOZA</th>
                             <th>
                             <a href="../documentos/tesis/2016/TesisRosalbaLopez.pdf">
-                            SOFTWARE PARA LA ESTIMULACIÓN VISUAL DE NIÑOS CON BAJA VISIÓN</a></th>
+                            Software para la estimulación visual de niños con baja visión</a></th>
                             <th>01/16</th>
                             <th>12/17</th>
                             <th>MAESTRO(A)</th>
