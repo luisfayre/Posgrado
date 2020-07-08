@@ -9,7 +9,7 @@
         <!-- Estilos-->
         <link rel="stylesheet" href="../css/style_tec.css">
         <link rel="stylesheet" href="../css/index.css">
-        <link rel="stylesheet" href="../css/index.css">
+        <link rel="stylesheet" href="../css/style.css">
         <!-- Funete-->
         <link rel="stylesheet" href="../css/font-awesome.css">
         <!-- Scripts-->
@@ -57,6 +57,39 @@
                                 <tr>
                                     <td valign=top>2012&nbsp;</td>
                                     <td><strong>PORCENTAJES DE DESERCIÓN Y SUS CAUSAS</strong>, Luis Armando Acosta , Blanca Maricela Ibarra Murrieta, Angélica Vargas Carrera, Arturo Alvarado Granadino, ISBN: 978-607-8262-01-4, Memoria 5to Congreso Internacional CIPITECH 2012.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td><strong>EXPLORADOR DE OBJETOS DE PROGRAMACIÓN EN UN AMBIENTE ERP. 1A JORNADA DE CIENCIA Y TECNOLÓGICA APLICADA, TECNOLÓGICO NACIONAL DE MÉXICO/CENIDET.</strong>, Torres, E; Alvarado G., J.A.; De la Garza G., H; Sandoval, R. ISSN en trámite. Cuernavaca, Morelos. </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td><strong>CLASIFICACIÓN DE TEXTOS DE INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA CON TÉCNICAS DE INTELIGENCIA ARTIFICIAL</strong>, García, J; Alvarado Granadino, J. A.; De la Garza Gutiérrez, H; Legarda Sáenz, A. 1a Jornada de Ciencia y Tecnológica Aplicada, Tecnológico Nacional de México/CENIDET. ISSN en trámite. Cuernavaca, Morelos. </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td><strong>INSPECCIÓN VISUAL AUTOMÁTICA EN TABLILLAS DE TELÉFONO CELULARES. REVISTA ELECTRÓNICA DE INGENIERÍA Y APLICACIÓN</strong>, Osio, A; De la Garza Gutiérrez, H; Legarda Sáenz, A.;  Alvarado Granadino, J. A. Instituto Tecnológico Superior de Huichapan, ISSN 2448-6817, año 3, núm. 3.</td>
+                                </tr>
+                            </table>
+                        </blockquote>
+                        <p>MEMORIAS EN CONGRESOS</p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>2019&nbsp;</td>
+                                    <td><strong>SOFTWARE DE RECONOCIMIENTO ÓPTICO DE CARACTERES</strong>, Romo Marín, D. F.; Alvarado Granadino, J. A.; Legarda Sáenz, A.; De la Garza Gutiérrez, H., Caldera Franco, M. I. Revista Digital. Memorias Congreso Internacional de Investigación Científica Multidisciplinaria. ISSN: 2395-9711. (1) 7. </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td><strong>SISTEMA WEB PARA LA AUTOMATIZACIÓN DE EDIFICIO</strong>, Portillo O., T.D.; Sandoval R., R.; Legarda Sáenz, A.; Alvarado Granadino, J. A. Revista Digital del Tecnológico de Monterrey, ISSN 2395-9711, Vol. 6 No. 1.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td><strong>DESARROLLO DE UNA APLICACIÓN PARA EL MONITOREO DEL DESEMPEÑO DEL ENLACE INALÁMBRICO ENTRE SENSORES UTILIZANDO xBee.</strong>, García, J; Alvarado Granadino, J. A.; De la Garza Gutiérrez, H; Legarda Sáenz, A. 1a Jornada de Ciencia y Tecnológica Aplicada, Tecnológico Nacional de México/CENIDET. ISSN en trámite. Cuernavaca, Morelos. Memorias Congreso Internacional de Investigación Científica Multidisciplinaria, ISSN 2395-9711, Vol. 6 No. 1. </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2015&nbsp;</td>
+                                    <td><strong>SOFTWARE DE UNIFICACIÓN DE IMÁGENES PROVENIENTES DE CÁMARAS EN MICROSCOPIOS ÓPTICOS.</strong>, Sifuentes, D., A.; Alvarado Granadino, J. A. XXX Congreso de Instrumentación SOMI, Durango, Dgo. </td>
                                 </tr>
                             </table>
                         </blockquote>
