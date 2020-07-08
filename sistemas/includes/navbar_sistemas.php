@@ -17,7 +17,7 @@
     <nav id="navbar" role="navigation">
         <ul class="nav nav-justified text-center" style="background-color: rgb(27, 57, 106);">
             <li>
-                <a href="../"><p id="ppp">INICIO</p></a>
+                <a href="index.php"><p id="ppp">INICIO</p></a>
             </li>
             <li class="dropdown">
                 <a href="perfil.php" target="_top"><p id="ppp">PERFIL</p></a>
