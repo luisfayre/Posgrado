@@ -9,6 +9,7 @@
         <!-- Estilos-->
         <link rel="stylesheet" href="../css/style_tec.css">
         <link rel="stylesheet" href="../css/index.css">
+        <link rel="stylesheet" href="../css/style.css">
         <!-- Funete-->
         <link rel="stylesheet" href="../css/font-awesome.css">
         <!-- Scripts-->
@@ -17,7 +18,6 @@
         <script src="../js/javascript.js"></script>
         <script type="text/javascript" src="../js/jquery.slidepanel.js"></script>
         <link rel="stylesheet" type="text/css" href="../css/jquery.slidepanel.css">
-
         <title>Jesús Humberto Cuevas Acosta</title>
         <script src="../js/ddmenu.js" type="text/javascript"></script>
     </head>
@@ -131,30 +131,29 @@
                         <blockquote>
                             <table>
                                 <tr>
+                                <tr>
                                     <td valign=top>2020&nbsp;</td>
-                                    <td>Cuevas, H., Camacho-Ríos, G., & Solís, C. (2020). Estadística computacional con Julia. Ventajas
-de su enseñanza en la Universidad. Revista Digital Matemática, Educación e Internet, 20(2), 1–19.</td>
+                                    <td><strong>ESTADÍSTICA COMPUTACIONAL CON JULIA. VENTAJAS DE SU ENSEÑANZA EN LA UNIVERSIDAD, </strong>Cuevas, H., Camacho-Ríos, G., & Solís, C. (2020). Revista Digital Matemática, Educación e Internet,
+20(2), 1–19.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>2019&nbsp;</td>
-                                    <td>Cuevas, H., Solís, C. & Silva, I. (2019). Programación computacional y análisis de datos en
-educación estadística. Areté: Revista Digital del Doctorado en Educación de la
+                                    <td><strong>PROGRAMACIÓN COMPUTACIONAL Y ANÁLISIS DE DATOS EN EDUCACIÓN ESTADÍSTICA, </strong>Cuevas, H., Solís, C. & Silva, I. (2019). Areté: Revista Digital del Doctorado en Educación de la
 Universidad Central de Venezuela, 5(9), 11–27.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>2018&nbsp;</td>
-                                    <td>Cuevas, H., & Ramírez, G. (2018). Desempeño en estocástica entre profesores de educación
-secundaria: un estudio exploratorio en dos regiones de Costa Rica y México. Educación
+                                    <td><strong>DESEMPEÑO EN ESTOCÁSTICA ENTRE PROFESORES DE EDUCACIÓN
+SECUNDARIA: UN ESTUDIO EXPLORATORIO EN DOS REGIONES DE COSTA RICA Y MÉXICO, </strong>Cuevas, H., & Ramírez, G. (2018). Educación
 Matemática, 30(1), 93–132.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>2018&nbsp;</td>
-                                    <td>Cuevas, H., & Solís, C. (2018). Reproducibilidad de la Investigación y Educación Estadística con
-Rmarkdown. Revista de Pedagogía, 39(105), 57–81.</td>
+                                    <td><strong>REPRODUCIBILIDAD DE LA INVESTIGACIÓN Y EDUCACIÓN ESTADÍSTICA CON RMARKDOWN, </strong>Cuevas, H., & Solís, C. (2018). Revista de Pedagogía, 39(105), 57–81.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>2017&nbsp;</td>
-                                    <td>Cuevas, H. (2017). Investigación Reproducible: Promoción y uso en Educación Superior. Yulök
+                                    <td><strong>INVESTIGACIÓN REPRODUCIBLE: PROMOCIÓN Y USO EN EDUCACIÓN SUPERIOR, </strong>Cuevas, H. (2017). Yulök
 Revista de Innovación Académica, 1(1), 9–17.</td>
                                 </tr>
 
