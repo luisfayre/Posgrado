@@ -73,12 +73,12 @@
                                     </p>
                                     <table>
                                         <tr>
-                                            <td>19/07/2000 </td>
+                                            <td>01/07/2000 </td>
                                             <td><strong>Doctorado</strong>, Matemática Educativa. Centro De Investigación Y Estudios Avanzados Del Instituto Politécnico Nacional. </td>
                                         </tr>
 
                                         <tr>
-                                            <td>01/02/1993 </td>
+                                            <td>01/07/1992 </td>
                                             <td><strong>Maestria</strong>, Maestria En Matemática Educativa.Centro De Investigación Y Estudios Avanzados Del Instituto Politécnico Nacional. </td>
                                         </tr>
                                     </table>
@@ -164,7 +164,7 @@
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="leonardo_nevarez.php">
-                                        <img class="media-object" src="../img/cv/leonardo_nevárez.jpg" alt="Leonardo Nevárez Chavez">
+                                        <img class="media-object" src="../img/cv/leonardo_nevárez.jpg"  width="160" height="160"  alt="Leonardo Nevárez Chavez">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -180,7 +180,7 @@
                                     <table>
                                         <tr>
                                             <td valign=top>12/06/1992</td>
-                                            <td><strong>MAESTRIA</strong>,Maestria en Ciencias en Cómputo Aplicado. Colegio de Posgraduados, Montecillo EDO. de México. cédula: 4821789 . TESIS: Sistema de información para la administración de la investigación agrícola (SINAIA)
+                                            <td><strong>MAESTRIA</strong>, Maestria en Ciencias en Cómputo Aplicado. Colegio de Posgraduados, Montecillo EDO. de México. cédula: 4821789 . TESIS: Sistema de información para la administración de la investigación agrícola (SINAIA)
                                             </td>
                                         </tr>
                                         <tr>
@@ -277,7 +277,7 @@ Docencia en Educación Técnica. México</td>
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="marisela_caldera.php">
-                                        <img class="media-object" src="../img/cv/marisela_caldera.png" alt="Marisela Ivette Caldera Franco">
+                                        <img class="media-object" src="../img/cv/marisela_caldera_act.png" width="160" height="160" alt="Marisela Ivette Caldera Franco">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -352,90 +352,76 @@ Docencia en Educación Técnica. México</td>
                                 </div>
                             </div>
 
-                            <div class="thumbnail marcos">
-                                <div class="media-left media-middle">
-                                    <a href="#">
-                                        <img class="media-object" src="../img/cv/Rafael_Sandoval.jpg" alt="Rafael Sandoval Rodriguez" width="100" height="160">
-                                    </a>
-                                </div>
-                                <div class="media-body">
-                                    <h4 class="media-heading">Rafael Sandoval Rodriguez</h4>
-                                    <p> CORREO: 
-                                        <a href="mailto:rafael.sr1@chihuahua2.tecnm.mx">
-                                        rafael.sr1@chihuahua2.tecnm.mx
-                                        </a>
-                                    </p>
-
-                                    <table>
-                                        <tr>
-                                            <td> 05/2005 </td>
-                                            <td><strong> Doctorado</strong>, en Ingeniería Electrónica, Universidad de Nuevo Mexico.</td>
-                                        </tr>
-                                        <tr>
-                                            <td> 09/1994 </td>
-                                            <td><strong> Maestría</strong>, en Ciencias en Ingeniería Electrónica, Instituto Tecnológico de Chihuahua.</td>
-                                        </tr>
-                                        <tr>
-                                            <td> 11/1991 </td>
-                                            <td><strong> Ingeniería</strong>, Industrial en Electrónica, Instituto Tecnológico de Chihuahua.</td>
-                                        </tr>
-                                    </table>
-                                    <p>
-                                        <a href="rafael_sandoval.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
-                                    </p>
-                                </div>
-                            </div>
-
                             <!-- NUEVOS -->
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="#">
-                                        <img class="media-object" src="../img/cv/laura_ortega.jpg" alt="Laura Antonia Ortega Chavez" width="100" height="160">
+                                        <img class="media-object" src="../img/cv/DraGochi.jpg" alt="Yadira Gochi Ponce" width="100" height="160">
                                     </a>
                                 </div>
                                 <div class="media-body">
-                                    <h4 class="media-heading">Laura Antonia Ortega Chávez</h4>
+                                    <h4 class="media-heading">Yadira Gochi Ponce</h4>
                                     <p> CORREO: 
-                                        <a href="mailto:laura.oc@chihuahua2.tecnm.mx">
-                                        laura.oc@chihuahua2.tecnm.mx
+                                        <a href="mailto:yadira.gp@chihuahua2.tecnm.mx">
+                                        yadira.gp@chihuahua2.tecnm.mx
                                         </a>
                                     </p>
 
                                     <table>
                                         <tr>
-                                            <td>02/2009</td>
-                                            <td><strong> Doctorado</strong>, en Ciencia y Tecnología Ambiental, Centro de Investigación en Materiales Avanzados A. C.</td>
+                                            <td>08/06/2001</td>
+                                            <td><strong>Licenciatura</strong> en Ingeniería Química, Universidad Michoacana de San Nicolas de Hidalgo.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>11/06/2004</td>
+                                            <td><strong>Maestría</strong> en Ciencias de los materiales, CIMAV.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>13/07/2007</td>
+                                            <td><strong>Doctorado </strong> en Ciencia de Materiales, CIMAV.</td>
                                         </tr>
                                     </table>
+                                    <p>
+                                        <a href="yadira_gochi.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                    </p>
                                 </div>
                             </div>
 
+                            
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="#">
-                                        <img class="media-object" src="../img/cv/martha_garcia.jpg" alt="Martha Patricia García Martínez" width="100" height="160">
+                                        <img class="media-object" src="../img/cv/desconocido.jpg" alt="Arturo Martínez Ayala" width="100" height="160">
                                     </a>
                                 </div>
                                 <div class="media-body">
-                                    <h4 class="media-heading">Martha Patricia García Martínez</h4>
+                                    <h4 class="media-heading">Arturo Martínez Ayala</h4>
                                     <p> CORREO: 
-                                        <a href="martha.gm@chihuahua2.tecnm.mx">
-                                            martha.gm@chihuahua2.tecnm.mx
+                                        <a href="mailto:arturo.ma@chihuahua2.tecnm.mx">
+                                        arturo.ma@chihuahua2.tecnm.mx
                                         </a>
                                     </p>
 
                                     <table>
                                         <tr>
-                                            <td> 01/2012 </td>
-                                            <td><strong> Doctorado</strong>, en Ciencias Ingeniería Industrial, Universidad de Navarra, España.</td>
+                                            <td>30/10/2001</td>
+                                            <td><strong>Ingeniería.</strong> Ingeniería Mecánica, Instituto Politécnico Nacional.</td>
                                         </tr>
                                         <tr>
-                                            <td> 2001 </td>
-                                            <td><strong> Maestría</strong>, en Ciencias en Ingeniería Industrial, New México State Universiy, U.S.A.</td>
+                                            <td>10/10/2005</td>
+                                            <td><strong>Maestría.</strong> Maestría en Ciencias, CINVESTAV.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>17/12/2010</td>
+                                            <td><strong>Doctorado. </strong> Doctor en Ciencias, CINVESTAV).</td>
                                         </tr>
                                     </table>
+                                    <p>
+                                        <a href="arturo_martinez.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                    </p>
                                 </div>
                             </div>
+                            <!-- NUEVOS-FIN-->
 
                         </div>
                         <!-- Termia class col -->
