@@ -36,7 +36,7 @@
         <div class="container" style="text-align:justify;">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h1 class="principal">Maestría en sistemas computacionales</h1>
+                    <h1 class="principal" style="color:rgb(27, 57, 106)">Maestría en sistemas computacionales</h1>
                     <h2>Alumnos por cohorte generacional 2017-1</h2 >
                 </div>
             </div>
