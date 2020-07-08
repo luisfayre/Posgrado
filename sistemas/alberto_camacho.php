@@ -81,26 +81,57 @@
                                     <td><strong>ECITE PROCEEDINGS BOOK,ISBN: 978-607-95042-9-8 </strong>Editores: Alma Reyna RodrdÌguez Gutiérrez, Marcos López Carrasco.
                                     </td>
                                 </tr>
+                            </table>
+                        </blockquote>
+                        <p>ARTÍCULOS JCR E INDIZADOS</p>
+                        <blockquote>
+                            <table>
                                 <tr>
-                                    <td valign=top>2012&nbsp;</td>
-                                    <td><strong>LA REGLA DE LOS CUATRO PASOS. SU TRATAMIENTO EN LOS LIBROS DE TEXTO DE CÁLCULO DIFERENCIAL  </strong>Adriana Engler y Alberto Camacho.
+                                    <td valign=top>2019&nbsp;</td>
+                                    <td><strong>FIDELIDAD EN EL USO DE APP PARA LA RESOLUCIÓN DE ECUACIONES DIFERENCIALES</strong>, Camacho Ríos, A., Caldera Franco, M. I., & Valenzuela González, V. Apertura (Guadalajara, Jal.), 11(1), 74-89.
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td valign=top>2010&nbsp;</td>
-                                    <td><strong>ANÁLISIS SOCIOCULTURAL DE LA NOCIÓN DE VARIABILIDAD  </strong>Alberto Camacho RÌos y Bertha Ivonne Sánchez Luj·n, Revista Latinoamericana de investigación en matemática educativa. </td>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td><strong>MODELIZACIÓN DE UNA ACTIVIDAD DE LA FÍSICA PARA MEJORAR LA ENSEÑANZA DEL CONCEPTO DE FUNCIÓN</strong>, Camacho Ríos, A., Valenzuela González, V., & Caldera Franco, M. I. IE Revista de investigación educativa de la REDIECH, 8(15), 57-67.</td>
                                 </tr>
                                 <tr>
-                                    <td valign=top>2010&nbsp;</td>
-                                    <td><strong>UTILIZACIÓN DE UN MODELO PRAXEOLÓGICO PARA EL DESARROLLO DE ORGANIZACIONES DIDÁCTICAS </strong>Alberto Camacho RÌos, Revista digital Matemática, Educación e Internet . </td>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td><strong>NUEVOS OBJETOS Y NUEVAS TÉCNICAS PARA LA ENSEÑANZA DE LA MATEMÁTICA</strong>, Sánchez Luján, B. I., & Camacho Ríos, A.</td>
                                 </tr>
                                 <tr>
-                                    <td valign=top>2009&nbsp;</td>
-                                    <td><strong>Libro: CÁLCULO DIFERENCIAL ISBN:978-84-7978-892-6 </strong>Alberto Camacho RÌos, Editorial:DÌaz de Santos . </td>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td><strong>PRODUCCIÓN DE CONOCIMIENTOS DESDE INSTITUCIONES NO MATEMÁTICAS</strong>, Camacho, A., & Romo–Vázquez, A. Revista Paradigma, 38(2), 259-279.</td>
                                 </tr>
                             </table>
                         </blockquote>
-                        <p>NIVELES/GRADOS ACADÉMICOS </p>
+                        <p>CAPÍTULOS DE LIBRO</p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>2019&nbsp;</td>
+                                    <td><strong>ANÁLISIS COMPARATIVO DE APLICACIONES MÓVILES QUE GRAFICAN SERIES DE FOURIER</strong>, Duarte-Martínez, Jesús Francisco; Camacho-Ríos, Alberto; Caldera-Franco, Marisela. Proceedings TI. Ciencias de la Tierra, Física y Matemáticas. (Coord. Serrudo González, J.A.). ECORFAN. ISBN: 978-607-8534-90-6.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2019&nbsp;</td>
+                                    <td><strong>DESARROLLO DE UNA APLICACIÓN MÓVIL PARA RESOLVER ECUACIONES DIFERENCIALES ORDINARIAS (EDO)</strong>, García-Almeida, Daniela Irania; Camacho-Ríos, Alberto; Caldera-Franco, Marisela; Cuevas, Humberto. Proceedings TI. Ciencias de la Tierra, Física y Matemáticas. (Coord. Serrudo González, J.A.). ECORFAN. ISBN: 978-6078534937.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2016&nbsp;</td>
+                                    <td><strong>MODELIZACIÓN ESCOLAR DE UNA PRÁCTICA DE INGENIERÍA</strong>, Sánchez-Luján, Bertha Ivonne; Camacho-Ríos, Alberto; Caldera-Franco, Marisela Ivette. LIBRO: La investigación en la educación superior y su vinculación en el estado, sociedad y economía - Cenid Editorial MÉXICO; ISBN: 978-607-8435-34-0.</td>
+                                </tr>
+                            </table>
+                        </blockquote>
+                        <p>CONGRESOS INTERNACIONALES</p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>2015&nbsp;</td>
+                                    <td><strong>ESPACE MATHÉMATIQUE FRANCOPHONE</strong>, Camacho-Ríos Alger 10-14 October.</td>
+                                </tr>
+                            </table>
+                        </blockquote>
+                        <p>NIVELES/GRADOS ACADÉMICOS</p>
                         <blockquote>
                             <table>
                                 <tr>
