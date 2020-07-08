@@ -70,6 +70,64 @@
                                     <td valign=top>1991&nbsp;</td>
                                     <td><strong>HABLA" AMBIENTE DE INTERACCION POR VOZ PARA UNA PC.</strong> ISSN:0185-4607, MARIO IGNACIO CHACON MURGUIA OSCAR MENDOZA VIDAÑA ARTURO LEGARDA SAENZ, MEMORIA ELECTRO 91, Vol.XIII, Pag.61-66, Memorias de congresos.</td>
                                 </tr>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td><strong>CLASIFICACIÓN DE TEXTOS DE INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA CON TÉCNICAS DE INTELIGENCIA ARTIFICIAL. </strong>García, J; Alvarado Granadino, J. A.; De la Garza Gutiérrez, H; Legarda Sáenz, A. 1a Jornada de Ciencia y Tecnológica Aplicada, Tecnológico Nacional de México/CENIDET. ISSN en trámite. Cuernavaca, Morelos. </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td><strong>INSPECCIÓN VISUAL AUTOMÁTICA EN TABLILLAS DE TELÉFONO CELULARES. REVISTA ELECTRÓNICA DE INGENIERÍA Y APLICACIÓN. </strong>Osio, A; De la Garza Gutiérrez, H; Legarda Sáenz, A.;  Alvarado Granadino, J. A. Instituto Tecnológico Superior de Huichapan, ISSN 2448-6817, año 3, núm. 3.</td>
+                                </tr>
+                            </table>
+                        </blockquote>
+                        <p>CONGRESO INTERNACIONAL</p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>2016&nbsp;</td>
+                                    <td><strong>SOFTWARE COMO HERRAMIENTA DIDÁCTICA PARA FORTALECER LA ENSEÑANZA-APRENDIZAJE DEL PROGRAMA DE ESTADÍSTICA INFERENCIAL, </strong>Ibarra M., B.M; Legarda S.  XII Congreso Internacional Sobre el Enfoque Basado en Competencias CIEBC2016.  CIMTED Corporación. ISSN 2500-5987.  Ciudad de Cartagena de Indias, Colombia. </td>
+                                </tr>
+                            </table>
+                        </blockquote>
+                        <p>MEMORIAS DE CONGRESO</p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>2016&nbsp;</td>
+                                    <td><strong>SOFTWARE DE RECONOCIMIENTO ÓPTICO DE CARACTERES. REVISTA DIGITAL. MEMORIAS CONGRESO INTERNACIONAL DE INVESTIGACIÓN CIENTÍFICA MULTIDISCIPLINARIA
+                                    , </strong>Romo Marín, D. F.; Alvarado Granadino, J. A.; Legarda Sáenz, A.; De la Garza Gutiérrez, H., Caldera Franco, M. I. Memorias Congreso Internacional de Investigación Científica Multidisciplinaria. ISSN: 2395-9711. (1) 7. 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td><strong>
+                                    GHSOM EN LA DETECCIÓN DE LA POLARIDAD DE TEXTOS, </strong>Portillo T., E; Alvarado Granadino, J. A.; Legarda Sáenz, A.; De la Garza Gutiérrez. H. Revista Digital del Tecnológico de Monterrey, ISSN 2395-9711, Vol. 6 No. 1.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td><strong>
+                                    SISTEMA WEB PARA LA AUTOMATIZACIÓN DE EDIFICIO </strong>Portillo O., T.D.; Sandoval R., R.; Legarda Sáenz, A.; Alvarado Granadino, J. A. Revista Digital del Tecnológico de Monterrey, ISSN 2395-9711, Vol. 6 No. 1.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td><strong>
+                                    APLICACIÓN MÓVIL PARA EL CONTROL Y GESTIÓN DE UNA RED DE DOMÓTICA, </strong>Alvarado, G., A.C.; Sandoval R., R.; Legarda Sáenz, A.; De la Garza Gutiérrez, H. Revista Digital del Tecnológico de Monterrey, ISSN 2395-9711, Vol. 6 No. 1.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2018&nbsp;</td>
+                                    <td><strong>
+                                    DESARROLLO DE UNA APLICACIÓN PARA EL MONITOREO DEL DESEMPEÑO DEL ENLACE INALÁMBRICO ENTRE SENSORES UTILIZANDO xBee, </strong>Espinoza T., L.F.; Legarda Sáenz, A.; Sandoval R., R.; Alvarado Granadino, J. A. Memorias Congreso Internacional de Investigación Científica Multidisciplinaria, ISSN 2395-9711, Vol. 6 No. 1. 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>2015&nbsp;</td>
+                                    <td><strong>
+                                    MÓDULO DE RECONOCIMIENTO DE PARTÍCULAS MICROSCÓPICAS (REMIC), </strong>Muñoz, E., E.A.; Legarda Sáenz, A. Congreso Internacional de Investigación Academia Journals 2015, ISSN 1946-5351. Cd. Juárez, Chih. 
+                                    </td>
+                                </tr>
                             </table>
                         </blockquote>
                         <p>NIVELES/GRADOS ACADÉMICOS </p>
