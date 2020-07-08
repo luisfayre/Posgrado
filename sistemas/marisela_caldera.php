@@ -39,7 +39,7 @@
                 <div class="jumbotron cv">
                     <div class="container">
                         <div class="text-center">
-                            <img clas="img-responsive" src="../img/cv/marisela_caldera.png" alt="Marisela Ivette Caldera Franco">
+                            <img clas="img-responsive" src="../img/cv/marisela_caldera_act.png" alt="Marisela Ivette Caldera Franco">
                             <h2>Dra. Marisela Ivette Caldera Franco</h2>
                             <p>CORREO: marisela.cf@chihuahua2.tecnm.mx
                                 <br> Instituto Tecnológico de Chihuahua II
