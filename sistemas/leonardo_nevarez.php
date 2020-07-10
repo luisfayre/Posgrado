@@ -76,15 +76,11 @@
                             <table>
                                 <tr>
                                     <td valign=top>2018&nbsp;</td>
-                                    <td><strong>APRENDER EL USO DEL TECLADO PARA NIÑOS CON DISCAPACIDAD VISUAL </strong>, Chavira-Celaya, Lorena; Caldera-Franco, Marisela Ivette; Nevárez-Chávez, Leonardo. REVISTA: RECIE. Revista Electrónica Científica de Investigación Educativa.</td>
-                                </tr>
-                                <tr>
-                                    <td valign=top> - &nbsp;</td>
-                                    <td><strong>RED DE INVESTIGADORES EDUCATIVOS CHIHUAHUA AC ISSN: 2594-200X, </strong>INDEXADO EN: LatinREV, Actualidad Iberoamericana, Google Académico, PKP.</td>
+                                    <td><strong>APRENDER EL USO DEL TECLADO PARA NIÑOS CON DISCAPACIDAD VISUAL </strong>, Chavira-Celaya, L.; Caldera-Franco, M.I.; Nevárez-Chávez, L. REVISTA: RECIE. Revista Electrónica Científica de Investigación Educativa - Red de Investigadores Educativos Chihuahua AC ISSN: 2594-200X. </td>
                                 </tr>
                             </table>
                         </blockquote>
-                        <p>CAPÍTULOS DE LIBRO</p>
+                        <p>MEMORIAS EN CONGRESOS</p>
                         <blockquote>
                             <table>
                                 <tr>
@@ -117,7 +113,7 @@
                                 </tr>
                             </table>
                         </blockquote>
-                        <p>ARTÍCULOS ARBITRADOS</p>
+                        <p>CAPÍTULOS DE LIBRO</p>
                         <blockquote>
                             <table>
                                 <tr>
@@ -131,12 +127,12 @@
                             <table>
                                 <tr>
                                     <td valign=top>12/06/1992&nbsp;</td>
-                                    <td><strong>MAESTRIA</strong>,MAESTRIA EN CIENCIAS EN CÓMPUTO APLICADO. COLEGIO DE POSGRADUADOS, MONTECILLO EDO. DE MÉXICO. CÉDULA: 4821789 . TESIS: Sistema de información para la administración de la investigación agrícola (SINAIA)
+                                    <td><strong>MAESTRIA EN CIENCIAS EN CÓMPUTO APLICADO</strong>. COLEGIO DE POSGRADUADOS, MONTECILLO EDO. DE MÉXICO. CÉDULA: 4821789. TESIS: Sistema de información para la administración de la investigación agrícola (SINAIA).
                                     </td>
                                 </tr>
                                 <tr>
                                     <td valign=top>31/05/1988&nbsp;</td>
-                                    <td><strong>LICENCIATURA</strong>INGENIERO AGRÓNOMO EN SUELOS. UNIVERSIDAD AUTONOMA DE CHIHUAHUA. CÉDULA: 1840846.</td>
+                                    <td><strong>LICENCIATURA</strong>.INGENIERO AGRÓNOMO EN SUELOS. UNIVERSIDAD AUTONOMA DE CHIHUAHUA. CÉDULA: 1840846.</td>
                                 </tr>
                             </table>
                         </blockquote>
@@ -145,21 +141,21 @@
                             <table>
                                 <tr>
                                     <td valign=top>08/2000-08/2011&nbsp;</td>
-                                    <td><strong>ESTADÍA</strong>,DESARROLLO DE LA INTRANET PARA LA EMPRESA COMPONENTES JOHN DEERE SA DE CV, México</td>
+                                    <td><strong>ESTADÍA</strong>. DESARROLLO DE LA INTRANET PARA LA EMPRESA COMPONENTES JOHN DEERE SA DE CV, México</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>02/2013-03/2013&nbsp;</td>
-                                    <td><strong>PROYECTO DE CONSULTORÍA.</strong>DESARROLLO DE APLICACIONES CON VISUAL BASIC.NET, INSTITUTO TECNOLÓGICO DE CHIHUAHUA II.
+                                    <td><strong>PROYECTO DE CONSULTORÍA.</strong> DESARROLLO DE APLICACIONES CON VISUAL BASIC.NET, INSTITUTO TECNOLÓGICO DE CHIHUAHUA II.
                                         <br> Empresas participantes: TAC SA DE CV. </td>
                                 </tr>
                                 <tr>
                                     <td valign=top>05/2012-07/2012&nbsp;</td>
-                                    <td><strong>PROYECTO DE CONSULTORÍA.</strong>CURSO DE CERTIFICACIÓN "ORACLE CERTIFIED JAVA PROGRAMMING LANGUAGE SE6", INSTITUTO TECNOLÓGICO DE CHIHUAHUA II.
+                                    <td><strong>PROYECTO DE CONSULTORÍA. </strong>CURSO DE CERTIFICACIÓN "ORACLE CERTIFIED JAVA PROGRAMMING LANGUAGE SE6", INSTITUTO TECNOLÓGICO DE CHIHUAHUA II.
                                         <br> Empresas participantes: DEVELOP TALENT AND TECHNOLOGY. </td>
                                 </tr>
                                 <tr>
                                     <td valign=top>09/2013&nbsp;</td>
-                                    <td><strong>GRUPOS DE INVESTIGACIÓN</strong>,TECNOLOGÍAS APLICADAS A LA EDUCACIÓN, TECNOLÓGICO NACIONAL DE MÉXICO / INSTITUTO TECNOLÓGICO DE CHIHUAHUA II / SUBDIRECCION ACADEMICA / DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN, MARISELA IVETTE CALDERA FRANCO , JESUS HUMBERTO CUEVAS ACOSTA , LEONARDO NEVAREZ CHAVEZ .</td>
+                                    <td><strong>GRUPOS DE INVESTIGACIÓN</strong>, TECNOLOGÍAS APLICADAS A LA EDUCACIÓN, TECNOLÓGICO NACIONAL DE MÉXICO / INSTITUTO TECNOLÓGICO DE CHIHUAHUA II / SUBDIRECCION ACADEMICA / DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN, MARISELA IVETTE CALDERA FRANCO , JESUS HUMBERTO CUEVAS ACOSTA , LEONARDO NEVAREZ CHAVEZ .</td>
                                 </tr>
                             </table>
                         </blockquote>
