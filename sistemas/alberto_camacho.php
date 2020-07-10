@@ -83,7 +83,7 @@
                                 </tr>
                             </table>
                         </blockquote>
-                        <p>ARTÍCULOS JCR E INDIZADOS</p>
+                        <p>ARTÍCULOS INDIZADOS</p>
                         <blockquote>
                             <table>
                                 <tr>
@@ -136,15 +136,15 @@
                             <table>
                                 <tr>
                                     <td valign=top>19/07/2000&nbsp;</td>
-                                    <td><strong>DOCTORADO</strong>,MATEMÁTICA EDUCATIVA. CENTRO DE INVESTIGACIÓN Y ESTUDIOS AVANZADOS DEL INSTITUTO POLITÉCNICO NACIONAL. </td>
+                                    <td><strong>DOCTORADO EN MATEMÁTICA EDUCATIVA</strong>. CENTRO DE INVESTIGACIÓN Y ESTUDIOS AVANZADOS DEL INSTITUTO POLITÉCNICO NACIONAL.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>01/02/1993&nbsp;</td>
-                                    <td><strong>MAESTRIA</strong>,MAESTRIA EN MATEMÁTICA EDUCATIVA.CENTRO DE INVESTIGACIÓN Y ESTUDIOS AVANZADOS DEL INSTITUTO POLITÉCNICO NACIONAL. </td>
+                                    <td><strong>MAESTRIA EN MATEMÁTICA EDUCATIVA</strong>. CENTRO DE INVESTIGACIÓN Y ESTUDIOS AVANZADOS DEL INSTITUTO POLITÉCNICO NACIONAL.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>01/02/1998&nbsp;</td>
-                                    <td><strong>LICENCIATURA</strong>LICENCIATURA EN LA ENSEÑANZA DE LAS MATEMÁTICAS.UNIVERSIDAD AUTÓNOMA DE CIUDAD JUÁREZ</td>
+                                    <td><strong>LICENCIATURA EN LA ENSEÑANZA DE LAS MATEMÁTICAS</strong>. UNIVERSIDAD AUTÓNOMA DE CIUDAD JUÁREZ.</td>
                                 </tr>
                             </table>
                         </blockquote>
