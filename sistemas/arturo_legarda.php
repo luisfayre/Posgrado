@@ -68,7 +68,7 @@
                                 </tr>
                                 <tr>
                                     <td valign=top>1991&nbsp;</td>
-                                    <td><strong>HABLA" AMBIENTE DE INTERACCION POR VOZ PARA UNA PC.</strong> ISSN:0185-4607, MARIO IGNACIO CHACON MURGUIA OSCAR MENDOZA VIDAÑA ARTURO LEGARDA SAENZ, MEMORIA ELECTRO 91, Vol.XIII, Pag.61-66, Memorias de congresos.</td>
+                                    <td><strong>AMBIENTE DE INTERACCION POR VOZ PARA UNA PC.</strong> ISSN:0185-4607, MARIO IGNACIO CHACON MURGUIA OSCAR MENDOZA VIDAÑA ARTURO LEGARDA SAENZ, MEMORIA ELECTRO 91, Vol.XIII, Pag.61-66, Memorias de congresos.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>2018&nbsp;</td>
@@ -107,7 +107,7 @@
                                 <tr>
                                     <td valign=top>2018&nbsp;</td>
                                     <td><strong>
-                                    SISTEMA WEB PARA LA AUTOMATIZACIÓN DE EDIFICIO </strong>Portillo O., T.D.; Sandoval R., R.; Legarda Sáenz, A.; Alvarado Granadino, J. A. Revista Digital del Tecnológico de Monterrey, ISSN 2395-9711, Vol. 6 No. 1.
+                                    SISTEMA WEB PARA LA AUTOMATIZACIÓN DE EDIFICIO, </strong>Portillo O., T.D.; Sandoval R., R.; Legarda Sáenz, A.; Alvarado Granadino, J. A. Revista Digital del Tecnológico de Monterrey, ISSN 2395-9711, Vol. 6 No. 1.
                                     </td>
                                 </tr>
                                 <tr>
@@ -135,11 +135,11 @@
                             <table>
                                 <tr>
                                     <td valign=top>16/08/2002&nbsp;</td>
-                                    <td><strong>MAESTRIA</strong>,MAESTRÍA EN CIENCIAS EN INGENIERÍA ELECTRÓNICA, 8236961, TECNOLÓGICO NACIONAL DE MÉXICO / INSTITUTO TECNOLÓGICO DE CHIHUAHUA / SUBDIRECCION ACADEMICA / DIVISION DE ESTUDIOS DE POSGRADO E INVESTIGACION, México , CHIHUAHUA , GOBIERNO FEDERAL CENTRALIZADO , LOCALIZACIÓN DE PLACAS EN VEHÍCULOS AUTOMOTORES</td>
+                                    <td><strong>MAESTRIA</strong> EN CIENCIAS EN INGENIERÍA ELECTRÓNICA, 8236961, TECNOLÓGICO NACIONAL DE MÉXICO / INSTITUTO TECNOLÓGICO DE CHIHUAHUA / SUBDIRECCION ACADEMICA / DIVISION DE ESTUDIOS DE POSGRADO E INVESTIGACION, México, CHIHUAHUA, GOBIERNO FEDERAL CENTRALIZADO, LOCALIZACIÓN DE PLACAS EN VEHÍCULOS AUTOMOTORES.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>08/12/1995&nbsp;</td>
-                                    <td><strong>LICENCIATURA</strong>INGENIERO INDUSTRIAL EN ELECTRÓNICA, 2431439, TECNOLÓGICO NACIONAL DE MÉXICO / INSTITUTO TECNOLÓGICO DE CHIHUAHUA / SUBDIRECCION ACADEMICA / DEPARTAMENTO DE ELECTRICA Y ELECTRONICA, México , CHIHUAHUA , GOBIERNO FEDERAL CENTRALIZADO</td>
+                                    <td><strong>LICENCIATURA. </strong>INGENIERO INDUSTRIAL EN ELECTRÓNICA, 2431439, TECNOLÓGICO NACIONAL DE MÉXICO / INSTITUTO TECNOLÓGICO DE CHIHUAHUA / SUBDIRECCION ACADEMICA / DEPARTAMENTO DE ELECTRICA Y ELECTRONICA, México, CHIHUAHUA, GOBIERNO FEDERAL CENTRALIZADO.</td>
                                 </tr>
                             </table>
                         </blockquote>
