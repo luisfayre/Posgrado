@@ -32,7 +32,7 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <h1>
-                        MAESTRIA EN SISTEMAS COMPUTACIONALES
+                        MAESTRÍA EN SISTEMAS COMPUTACIONALES
                     </h1>
                     <h2>
                         NÚCLEO ACADÉMICO BÁSICO
@@ -55,21 +55,24 @@
                 <div class="media-body">
                     <h4 class="media-heading">Alberto Camacho Rios</h4> 
                     <p>CORREO: 
-                        <a href="mailto:camachoalberto@hotmail.com">
-                            camachoalberto@hotmail.com
+                        <a href="mailto:alberto.cr@chihuahua2.tecnm.mx">
+                            alberto.cr@chihuahua2.tecnm.mx
                         </a>
+                    </p>
                     <table>
                         <tr>
-                            <td>19/07/2000 </td>
-                            <td><strong>Doctorado</strong>, Matemática Educativa. Centro De Investigación Y Estudios Avanzados Del Instituto Politécnico Nacional. </td>
-                        </tr>
-                        <tr>
-                            <td>01/02/1993 </td>
-                            <td><strong>Maestria</strong>, Maestria En Matemática Educativa.Centro De Investigación Y Estudios Avanzados Del Instituto Politécnico Nacional. </td>
-                        </tr>
+                            <tr>
+                                <td>01/07/2000 </td>
+                                <td><strong>Doctorado</strong> en Matemática Educativa. Centro de Investigación y Estudios Avanzados del Instituto Politécnico Nacional. </td>
+                            </tr>
+
+                            <tr>
+                                <td>01/07/1992 </td>
+                                <td><strong>Maestría</strong> en Matemática Educativa. Centro de Investigación y Estudios Avanzados del Instituto Politécnico Nacional. </td>
+                            </tr>
                     </table>
                     <p>
-                        <a href="alberto_camacho.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                        <a href="alberto_camacho.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                     </p>
                 </div>
             </div>
@@ -81,24 +84,28 @@
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Jesus Arturo Alvarado Granadino</h4>
-                    <p>alvaradogranadino@yahoo.com.mx </p>
+                    <p>CORREO: 
+                        <a href="jesus.ag@chihuahua2.tecnm.mx">
+                            jesus.ag@chihuahua2.tecnm.mx
+                        </a>
+                    </p>
                     <table>
                         <tr>
                             <td valign=top>25/03/2005</td>
-                            <td><strong>Maestria</strong>, Maestría En Ingeniería En Sistemas Computacionales. Universidad Autónoma De Chihuahua.
+                            <td><strong>Maestría</strong> en Ingeniería en Sistemas Computacionales. Universidad Autónoma De Chihuahua.
                             </td>
                         </tr>
                         <tr>
                             <td>18/12/1998</td>
-                            <td><strong>LICENCIATURA, </strong>INGENIERÍA EN ELECTRÓNICA. INSTITUTO TECNOLÓGICO DE CHIHUAHUA.</td>
+                            <td><strong>Liceciatura. </strong>Ingeniería en Electrónica. Inistituto Tecnológco de Chihuahua.</td>
                         </tr>
                         <tr>
                             <td>28/06/1991</td>
-                            <td><strong>LICENCIATURA, </strong>LICENCIATURA EN SISTEMAS DE COMPUTACIÓN ADMINISTRATIVA. UNIVERSIDAD AUTÓNOMA DE CHIHUAHUA.</td>
+                            <td><strong>Liceciatura. </strong>Licenciatura en Sistemas de Computación Administrativa. Universidad Autónoma De Chihuahua.</td>
                         </tr>
                     </table>
                     <p>
-                        <a href="jesus_alvarado.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                        <a href="jesus_alvarado.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                     </p>
                 </div>
             </div>
@@ -110,19 +117,24 @@
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Arturo Legarda Sáenz</h4>
-                    <p>alfpolitico@yahoo.com.mx </p>
+                    
+                    <p>CORREO: 
+                        <a href="mailto:arturo.ls@chihuahua2.tecnm.mx">
+                            arturo.ls@chihuahua2.tecnm.mx
+                        </a>
+                    </p>
                     <table>
                         <tr>
                             <td valign=top>16/08/2002</td>
-                            <td><strong>MAESTRIA</strong>,Maestría en Ciencias en Ingeniería Electrónica, 8236961, Tecnológico Nacional de México / Instituto Tecnológico de Chihuahua / Subdireccion Academica / Division de Estudios de Posgrado e Investigacion, México , Chihuahua , Gobierno Federal Centralizado , Localización de Placas en Vehículos Automotores</td>
+                            <td><strong>Maestría</strong> en Ciencias en Ingeniería Electrónica, 8236961, Tecnológico Nacional de México / Instituto Tecnológico de Chihuahua / Subdireccion Academica / Division de Estudios de Posgrado e Investigacion, México, Chihuahua, Gobierno Federal Centralizado, Localización de Placas en Vehículos Automotores.</td>
                         </tr>
                         <tr>
                             <td valign=top>08/12/1995</td>
-                            <td><strong>LICENCIATURA</strong>Ingeniero Industrial en Electrónica, 2431439, Tecnológico Nacional de México / Instituto Tecnológico de Chihuahua / Subdireccion Academica / Departamento de Electrica y Electronica, México , Chihuahua , Gobierno Federal Centralizado</td>
+                            <td><strong>Licenciatura. </strong>Ingeniero Industrial en Electrónica, 2431439, Tecnológico Nacional de México / Instituto Tecnológico de Chihuahua / Subdireccion Academica / Departamento de Electrica y Electronica, México, Chihuahua, Gobierno Federal Centralizado.</td>
                         </tr>
                     </table>
                     <p>
-                        <a href="arturo_legarda.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                        <a href="arturo_legarda.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                     </p>
                 </div>
             </div>
@@ -134,20 +146,23 @@
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Leonardo Nevárez Chávez</h4>
-                    <p> leonevarez71@hotmail.com </p>
+                    
+                    <p>CORREO: 
+                        <a href="mailto:leonardo.nc@chihuahua2.tecnm.mx">leonardo.nc@chihuahua2.tecnm.mx</a>
+                    </p>
                     <table>
-                        <tr>
-                            <td valign=top>12/06/1992</td>
-                            <td><strong>MAESTRIA</strong>,Maestria en Ciencias en Cómputo Aplicado. Colegio de Posgraduados, Montecillo EDO. de México. cédula: 4821789 . TESIS: Sistema de información para la administración de la investigación agrícola (SINAIA)
-                            </td>
-                        </tr>
-                        <tr>
-                            <td valign=top>31/05/1988</td>
-                            <td><strong>LICENCIATURA</strong>Ingeniero Agrónomo en Suelos. Universidad Autonoma de Chihuahua. Cédula: 1840846.</td>
-                        </tr>
+                    <tr>
+                        <td valign=top>12/06/1992</td>
+                        <td><strong>Maestría</strong> en Ciencias en Cómputo Aplicado. Colegio de Posgraduados, Montecillo EDO. de México. cédula: 4821789. TESIS: Sistema de información para la administración de la investigación agrícola (SINAIA)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign=top>31/05/1988</td>
+                        <td><strong>Licenciatura</strong>. Ingeniero Agrónomo en Suelos. Universidad Autonoma de Chihuahua. Cédula: 1840846.</td>
+                    </tr>
                     </table>
                     <p>
-                        <a href="leonardo_nevarez.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                        <a href="leonardo_nevarez.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                     </p>
                 </div>
             </div>
@@ -159,26 +174,29 @@
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Hernan de la Garza Gutierrez</h4>
-                    <p>rambientalster@gmail.com </p>
-                    <p>
+                    <p>CORREO:
+                        <a href="mailto:hernan.gg@chihuahua2.tecnm.mx">
+                            hernan.gg@chihuahua2.tecnm.mx
+                        </a>
+                    </p>
                     <table>
                         <tr>
                             <td>22/01/2010 </td>
-                            <td><strong>Doctorado</strong>, Tecnología avanzada. Centro de Investigación en Ciencia Aplicada y Tecnología Avanzada del IPN . </td>
+                            <td><strong>Doctorado</strong> en Tecnología avanzada. Centro de Investigación en Ciencia Aplicada y Tecnología Avanzada del IPN. </td>
                         </tr>
                         <tr>
                             <td>30/06/1996 </td>
-                            <td><strong>Maestria</strong>, Maestria En Ciencias Computacionale.Instituto Tecnológico de Nogales.</td>
+                            <td><strong>Maestría</strong> en Ciencias Computacionales. Instituto Tecnológico de Nogales.</td>
                         </tr>
                         <tr>
                             <td>30/06/2003 </td>
-                            <td><strong>Maestria</strong>, Maestria Materiales Avanzados.Centro De Investigación En Materiales Avanzados.</td>
+                            <td><strong>Maestría</strong> en Materiales Avanzados. Centro de Investigación en Materiales Avanzados.</td>
                         </tr>
                     </table>
                     </p>
                 </div>
                 <p>
-                    <a href="hernan_de_la_garza.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                    <a href="hernan_de_la_garza.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                 </p>
             </div>
             <div class="thumbnail marcos">
@@ -189,17 +207,26 @@
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Marisela Ivette Caldera Franco</h4>
-                    <p>marisela_caldera_franco@yahoo.com.mx</p>
+                    <p>CORREO:
+                        <a href="mailto:marisela.cf@chihuahua2.tecnm.mx">
+                            marisela.cf@chihuahua2.tecnm.mx
+                        </a>
+                    </p>
                     <table>
                         <tr>
-                            <td>30/12/2001 </td>
-                            <td>
-                                <strong>Maestría</strong>, En Educacion Superior . Universidad Autónoma de Chihuahua. 
-                            </td>
+                            <tr>
+                                <td>30/12/2001 </td>
+                                <td><strong>Maestría</strong> en Educación Superior. Universidad Autónoma de Chihuahua. </td>
+                                
+                            </tr>
+                            <tr>
+                                <td> - </td>
+                                <td><strong>Doctora</strong> en Educación.</td>
+                            </tr>
                         </tr>
                     </table> 
                     <p>
-                        <a href="marisela_caldera.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                        <a href="marisela_caldera.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                     </p>
                 </div>
             </div>
@@ -211,26 +238,30 @@
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Rafael Sandoval Rodriguez</h4>
-                    <p>rafael.sandoval@itchihuahuaii.edu.mx</p>
+                    <p>CORREO:
+                        <a href="mailto:rafael.sr1@chihuahua2.tecnm.mx">
+                            rafael.sr1@chihuahua2.tecnm.mx
+                        </a>
+                    </p>
                     <p>
                     <table>
                         <tr>
                             <td> 05/2005 </td>
-                            <td><strong> Doctorado</strong>, en Ingeniería Electrónica, Universidad de Nuevo Mexico.</td>
+                            <td><strong>Doctorado</strong> en Ingeniería Electrónica. Universidad de Nuevo Mexico.</td>
                         </tr>
                         <tr>
                             <td> 09/1994 </td>
-                            <td><strong> Maestría</strong>, en Ciencias en Ingeniería Electrónica, Instituto Tecnológico de Chihuahua.</td>
+                            <td><strong>Maestría</strong> en Ciencias en Ingeniería Electrónica. Instituto Tecnológico de Chihuahua.</td>
                         </tr>
                         <tr>
                             <td> 11/1991 </td>
-                            <td><strong> Ingeniería</strong>, Industrial en Electrónica, Instituto Tecnológico de Chihuahua.</td>
+                            <td><strong>Ingeniería</strong> Industrial en Electrónica. Instituto Tecnológico de Chihuahua.</td>
                         </tr>
                     </table>
                     </p>
                 </div>
                 <p>
-                    <a href="rafael_sandoval.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                    <a href="rafael_sandoval.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                 </p>
             </div>
 
@@ -246,27 +277,35 @@
                             Dr. Jesús Humberto Cuevas Acosta
                         </a>
                     </h4>
-                    <p>jesus.humberto.cuevas@outlook.com</p>
+                    
+                    <p>CORREO: 
+                        <a href="mailto:jesus.ca@chihuahua2.tecnm.mx">jesus.ca@chihuahua2.tecnm.mx</a>
+                    </p>
                     <table>
                         <tr>
                             <td>01/01/2011 </td>
-                            <td><strong>Doctorado</strong>, Educación. Universidad Autónoma de Chihuahua. </td>
+                            <td><strong>Doctorado</strong> en Educación. Universidad Autónoma de Chihuahua. México</td>
                         </tr>
                         <tr>
                             <td>01/08/2002 </td>
-                            <td><strong>Maestria</strong>, Maestria en Enseñanza de las Ciencias. Centro Interdisciplinario de Investigación y Docencia en Educación Técnica.</td>
+                            <td><strong>Maestría</strong> en Enseñanza de las Ciencias. Centro Interdisciplinario de Investigación y Docencia en Educación Técnica. México</td>
                         </tr>
                         <tr>
                             <td>01/03/2000 </td>
-                            <td><strong>Especialidad</strong>, Especialidad en docencia.</td>
+                            <td><strong>Especialidad</strong> en docencia. Centro Interdisciplinario de Investigación y
+Docencia en Educación Técnica. México</td>
                         </tr>
                         <tr>
                             <td>01/01/1996 </td>
-                            <td><strong>Licenciatura</strong>, Ingenieria Industrial.</td>
+                            <td><strong>Licenciatura</strong>. Ingeniería Industrial. Tecnológico Nacional de México / ITD. México</td>
+                        </tr>
+                        <tr>
+                            <td>03/2020 </td>
+                            <td><strong>Maestría</strong>. Máster en Estadística Aplicada con R. Universidad de Nebrija. España.</td>
                         </tr>
                     </table>
                     <p>
-                        <a href="jesus_cuevas.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                        <a href="jesus_cuevas.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                     </p>
                 </div>
             </div>
