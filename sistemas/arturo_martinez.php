@@ -74,7 +74,7 @@
                                 </tr>
                                 <tr>
                                     <td valign=top>2019&nbsp;</td>
-                                    <td><strong>FACILE SYNTHESIS OF Cu2ZnGeS4 THIN FILMS FROM BINARY METAL SULFIDES AND STUDY OF THEIR PHYSICAL PROPERTIES., </strong>. Ayala, A. M., Mathews, N. R., Pal, M., Gupta, G. K., Dixit, A., & Mathew, X. Thin Solid Films, 676, 68-74.</td>
+                                    <td><strong>FACILE SYNTHESIS OF Cu2ZnGeS4 THIN FILMS FROM BINARY METAL SULFIDES AND STUDY OF THEIR PHYSICAL PROPERTIES, </strong> Ayala, A. M., Mathews, N. R., Pal, M., Gupta, G. K., Dixit, A., & Mathew, X. Thin Solid Films, 676, 68-74.</td>
                                 </tr>
                             </table>
                         </blockquote>
