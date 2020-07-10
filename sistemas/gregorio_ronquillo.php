@@ -74,6 +74,11 @@
                                     <td valign=top>2015&nbsp;</td>
                                     <td><strong>ESTUDIO DE LA PERTINENCIA PARA LA MAESTRÍA EN SISTEMAS COMPUTACIONALES DEL ITCH II</strong>, Caldera-Franco, Marisela Ivette; Ronquillo-Maynez, Gregorio; Nevarez-Chávez, Leonardo; Ibarra-Murrieta, Blanca Maricela. LIBRO: La Ciencia y Tecnológica al Servicio de la Sociedad. Editorial: Universidad Tecnológica de Cuidad Juárez. México; ISBN: 978-6078262076.</td>
                                 </tr>
+                            </table>
+                        </blockquote>
+                        <p>MEMORIAS EN CONGRESOS</p>
+                        <blockquote>
+                            <table>
                                 <tr>
                                     <td valign=top>2018&nbsp;</td>
                                     <td><strong>APRENDIZAJE ADAPTATIVO MEDIANTE CONOCIMIENTOS PREVIOS PARA LA MATERIA DE FUNDAMENTOS DE PROGRAMACIÓN</strong>, Rivas-Hernández, Gustavo Adolfo; Nevárez -Chávez, Leonardo; Caldera-Franco, Marisela Ivette; Ronquillo-Máynez, Gregorio; De la Garza-Gutiérrez, Hernán. Revista Digital. Memorias Congreso Internacional de Investigación Científica Multidisciplinaria. ISSN: 2395-9711. (1) 7.</td>
