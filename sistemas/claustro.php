@@ -40,7 +40,7 @@
                     <div class="row">
                         <div class="col-md-12 text-center">
                             <h1>
-                                Maestrìa en Sistemas Computacionales
+                                Maestría en Sistemas Computacionales
                             </h1>
                             <h2>
                                 Claustro de profesores
@@ -74,16 +74,16 @@
                                     <table>
                                         <tr>
                                             <td>01/07/2000 </td>
-                                            <td><strong>Doctorado</strong>, Matemática Educativa. Centro De Investigación Y Estudios Avanzados Del Instituto Politécnico Nacional. </td>
+                                            <td><strong>Doctorado</strong> en Matemática Educativa. Centro de Investigación y Estudios Avanzados del Instituto Politécnico Nacional. </td>
                                         </tr>
 
                                         <tr>
                                             <td>01/07/1992 </td>
-                                            <td><strong>Maestria</strong>, Maestria En Matemática Educativa.Centro De Investigación Y Estudios Avanzados Del Instituto Politécnico Nacional. </td>
+                                            <td><strong>Maestría</strong> en Matemática Educativa. Centro de Investigación y Estudios Avanzados del Instituto Politécnico Nacional. </td>
                                         </tr>
                                     </table>
                                     <p>
-                                        <a href="alberto_camacho.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                        <a href="alberto_camacho.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                                     </p>
                                 </div>
                             </div>
@@ -108,20 +108,20 @@
                                     <table>
                                         <tr>
                                             <td valign=top>25/03/2005</td>
-                                            <td><strong>Maestria</strong>, Maestría En Ingeniería En Sistemas Computacionales. Universidad Autónoma De Chihuahua.
+                                            <td><strong>Maestría</strong> en Ingeniería en Sistemas Computacionales. Universidad Autónoma De Chihuahua.
                                             </td>
                                         </tr>
                                         <tr>
                                             <td>18/12/1998</td>
-                                            <td><strong>LICENCIATURA, </strong>INGENIERÍA EN ELECTRÓNICA. INSTITUTO TECNOLÓGICO DE CHIHUAHUA.</td>
+                                            <td><strong>Liceciatura. </strong>Ingeniería en Electrónica. Inistituto Tecnológco de Chihuahua.</td>
                                         </tr>
                                         <tr>
                                             <td>28/06/1991</td>
-                                            <td><strong>LICENCIATURA, </strong>LICENCIATURA EN SISTEMAS DE COMPUTACIÓN ADMINISTRATIVA. UNIVERSIDAD AUTÓNOMA DE CHIHUAHUA.</td>
+                                            <td><strong>Liceciatura. </strong>Licenciatura en Sistemas de Computación Administrativa. Universidad Autónoma De Chihuahua.</td>
                                         </tr>
                                     </table>    
                                     <p>
-                                        <a href="jesus_alvarado.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                        <a href="jesus_alvarado.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                                     </p>
                                 </div>
                             </div>
@@ -147,15 +147,15 @@
                                     <table>
                                         <tr>
                                             <td valign=top>16/08/2002</td>
-                                            <td><strong>MAESTRIA</strong>,Maestría en Ciencias en Ingeniería Electrónica, 8236961, Tecnológico Nacional de México / Instituto Tecnológico de Chihuahua / Subdireccion Academica / Division de Estudios de Posgrado e Investigacion, México , Chihuahua , Gobierno Federal Centralizado , Localización de Placas en Vehículos Automotores</td>
+                                            <td><strong>Maestría</strong> en Ciencias en Ingeniería Electrónica, 8236961, Tecnológico Nacional de México / Instituto Tecnológico de Chihuahua / Subdireccion Academica / Division de Estudios de Posgrado e Investigacion, México, Chihuahua, Gobierno Federal Centralizado, Localización de Placas en Vehículos Automotores.</td>
                                         </tr>
                                         <tr>
                                             <td valign=top>08/12/1995</td>
-                                            <td><strong>LICENCIATURA</strong>Ingeniero Industrial en Electrónica, 2431439, Tecnológico Nacional de México / Instituto Tecnológico de Chihuahua / Subdireccion Academica / Departamento de Electrica y Electronica, México , Chihuahua , Gobierno Federal Centralizado</td>
+                                            <td><strong>Licenciatura. </strong>Ingeniero Industrial en Electrónica, 2431439, Tecnológico Nacional de México / Instituto Tecnológico de Chihuahua / Subdireccion Academica / Departamento de Electrica y Electronica, México, Chihuahua, Gobierno Federal Centralizado.</td>
                                         </tr>
                                     </table>
                                     <p>
-                                        <a href="arturo_legarda.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                        <a href="arturo_legarda.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                                     </p>
 
                                 </div>
@@ -180,16 +180,16 @@
                                     <table>
                                         <tr>
                                             <td valign=top>12/06/1992</td>
-                                            <td><strong>MAESTRIA</strong>, Maestria en Ciencias en Cómputo Aplicado. Colegio de Posgraduados, Montecillo EDO. de México. cédula: 4821789 . TESIS: Sistema de información para la administración de la investigación agrícola (SINAIA)
+                                            <td><strong>Maestría</strong> en Ciencias en Cómputo Aplicado. Colegio de Posgraduados, Montecillo EDO. de México. cédula: 4821789. TESIS: Sistema de información para la administración de la investigación agrícola (SINAIA)
                                             </td>
                                         </tr>
                                         <tr>
                                             <td valign=top>31/05/1988</td>
-                                            <td><strong>LICENCIATURA</strong>Ingeniero Agrónomo en Suelos. Universidad Autonoma de Chihuahua. Cédula: 1840846.</td>
+                                            <td><strong>Licenciatura</strong>. Ingeniero Agrónomo en Suelos. Universidad Autonoma de Chihuahua. Cédula: 1840846.</td>
                                         </tr>
                                     </table>
                                     <p>
-                                        <a href="leonardo_nevarez.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                        <a href="leonardo_nevarez.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                                     </p>
 
                                 </div>
@@ -211,19 +211,19 @@
                                     <table>
                                         <tr>
                                             <td>22/01/2010 </td>
-                                            <td><strong>Doctorado</strong>, Tecnología avanzada. Centro de Investigación en Ciencia Aplicada y Tecnología Avanzada del IPN . </td>
+                                            <td><strong>Doctorado</strong> en Tecnología avanzada. Centro de Investigación en Ciencia Aplicada y Tecnología Avanzada del IPN. </td>
                                         </tr>
                                         <tr>
                                             <td>30/06/1996 </td>
-                                            <td><strong>Maestria</strong>, Maestria En Ciencias Computacionale.Instituto Tecnológico de Nogales.</td>
+                                            <td><strong>Maestría</strong> en Ciencias Computacionales. Instituto Tecnológico de Nogales.</td>
                                         </tr>
                                         <tr>
                                             <td>30/06/2003 </td>
-                                            <td><strong>Maestria</strong>, Maestria Materiales Avanzados.Centro De Investigación En Materiales Avanzados.</td>
+                                            <td><strong>Maestría</strong> en Materiales Avanzados. Centro de Investigación en Materiales Avanzados.</td>
                                         </tr>
                                     </table>
                                     <p>
-                                        <a href="hernan_de_la_garza.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                        <a href="hernan_de_la_garza.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                                     </p>
                                 </div>
                             </div>
@@ -247,28 +247,28 @@
                                     <table>
                                         <tr>
                                             <td>01/01/2011 </td>
-                                            <td><strong>Doctorado</strong>, Educación. Universidad Autónoma de Chihuahua. México</td>
+                                            <td><strong>Doctorado</strong> en Educación. Universidad Autónoma de Chihuahua. México</td>
                                         </tr>
                                         <tr>
                                             <td>01/08/2002 </td>
-                                            <td><strong>Maestria</strong>, Maestria en Enseñanza de las Ciencias. Centro Interdisciplinario de Investigación y Docencia en Educación Técnica. México</td>
+                                            <td><strong>Maestría</strong> en Enseñanza de las Ciencias. Centro Interdisciplinario de Investigación y Docencia en Educación Técnica. México</td>
                                         </tr>
                                         <tr>
                                             <td>01/03/2000 </td>
-                                            <td><strong>Especialidad</strong>, Especialidad en docencia. Centro Interdisciplinario de Investigación y
+                                            <td><strong>Especialidad</strong> en docencia. Centro Interdisciplinario de Investigación y
 Docencia en Educación Técnica. México</td>
                                         </tr>
                                         <tr>
                                             <td>01/01/1996 </td>
-                                            <td><strong>Licenciatura</strong>, Ingenieria Industrial. Tecnológico Nacional de México / ITD. México</td>
+                                            <td><strong>Licenciatura</strong>. Ingeniería Industrial. Tecnológico Nacional de México / ITD. México</td>
                                         </tr>
                                         <tr>
                                             <td>03/2020 </td>
-                                            <td><strong>Maestria</strong>, Máster en Estadística Aplicada con R. Universidad de Nebrija. España.</td>
+                                            <td><strong>Maestría</strong>. Máster en Estadística Aplicada con R. Universidad de Nebrija. España.</td>
                                         </tr>
                                     </table>
                                     <p>
-                                        <a href="jesus_cuevas.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                        <a href="jesus_cuevas.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                                     </p>
 
                                 </div>
@@ -290,16 +290,16 @@ Docencia en Educación Técnica. México</td>
                                     <table>
                                         <tr>
                                             <td>30/12/2001 </td>
-                                            <td><strong>Maestría</strong>, En Educacion Superior. Universidad Autónoma de Chihuahua. </td>
-                                            <td><strong>Doctora</strong>, En Educacion.</td>
+                                            <td><strong>Maestría</strong> en Educación Superior. Universidad Autónoma de Chihuahua. </td>
+                                            
                                         </tr>
                                         <tr>
                                             <td> - </td>
-                                            <td><strong>Doctora</strong>, En Educacion.</td>
+                                            <td><strong>Doctora</strong> en Educación.</td>
                                         </tr>
                                     </table>
                                     <p>
-                                        <a href="marisela_caldera.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                        <a href="marisela_caldera.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                                     </p>
                                     
                                 </div>
@@ -319,15 +319,15 @@ Docencia en Educación Técnica. México</td>
                                     <table>
                                         <tr>
                                             <td>- </td>
-                                            <td><strong>Doctorado</strong>, en Administración, Universidad Autonoma de Chihuahua.</td>
+                                            <td><strong>Doctorado</strong> en Administración. Universidad Autonoma de Chihuahua.</td>
                                         </tr>
                                         <tr>
                                             <td>09/11/2007 </td>
-                                            <td><strong>Maestria</strong>, En Sistemas de Información, Universidad Autonoma de Chihuahua</td>
+                                            <td><strong>Maestría</strong> en Sistemas de Información. Universidad Autonoma de Chihuahua.</td>
                                         </tr>
                                     </table>
                                     <p>
-                                        <a href="gregorio_ronquillo.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                        <a href="gregorio_ronquillo.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                                     </p>
                                 </div>
                             </div>
@@ -346,7 +346,7 @@ Docencia en Educación Técnica. México</td>
                                     <table>
                                         <tr>
                                             <td> 2013 </td>
-                                            <td><strong> Maestría</strong>, en Sistemas de Informacion</td>
+                                            <td><strong> Maestría</strong> en Sistemas de Información</td>
                                         </tr>
                                     </table>
                                 </div>
@@ -378,11 +378,11 @@ Docencia en Educación Técnica. México</td>
                                         </tr>
                                         <tr>
                                             <td>13/07/2007</td>
-                                            <td><strong>Doctorado </strong> en Ciencia de Materiales, CIMAV.</td>
+                                            <td><strong>Doctorado</strong> en Ciencia de Materiales, CIMAV.</td>
                                         </tr>
                                     </table>
                                     <p>
-                                        <a href="yadira_gochi.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                        <a href="yadira_gochi.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                                     </p>
                                 </div>
                             </div>
@@ -409,15 +409,15 @@ Docencia en Educación Técnica. México</td>
                                         </tr>
                                         <tr>
                                             <td>10/10/2005</td>
-                                            <td><strong>Maestría.</strong> Maestría en Ciencias, CINVESTAV.</td>
+                                            <td><strong>Maestría</strong> en Ciencias, CINVESTAV.</td>
                                         </tr>
                                         <tr>
                                             <td>17/12/2010</td>
-                                            <td><strong>Doctorado. </strong> Doctor en Ciencias, CINVESTAV).</td>
+                                            <td><strong>Doctorado. </strong> Doctor en Ciencias, CINVESTAV.</td>
                                         </tr>
                                     </table>
                                     <p>
-                                        <a href="arturo_martinez.php" class="alignright btn btn-warning" role="button">Producción Academica</a>
+                                        <a href="arturo_martinez.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
                                     </p>
                                 </div>
                             </div>
