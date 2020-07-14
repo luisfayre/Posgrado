@@ -158,6 +158,20 @@
                                 </tr>
                             </table>
                         </blockquote>
+                        <p>NIVELES/GRADOS ACADÉMICOS </p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>30/12/2001&nbsp;</td>
+                                    <td><strong>MAESTRÍA EN EDUCACIÓN SUPERIOR</strong>. Universidad Autónoma de Chihuahua.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>-&nbsp;</td>
+                                    <td><strong>DOCTORA EN EDUCACIÓN.</strong></td>
+                                </tr>
+                            </table>
+                        </blockquote>
                     </div>
                 </div>
             </div>
