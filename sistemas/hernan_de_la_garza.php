@@ -92,6 +92,24 @@
                                 </tr>
                             </table>
                         </blockquote>
+                        <p>NIVELES/GRADOS ACADÉMICOS </p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>22/01/2010&nbsp;</td>
+                                    <td><strong>DOCTORADO EN TECNOLOGÍA AVANZADA</strong>. Centro de Investigación en Ciencia Aplicada y Tecnología Avanzada del IPN.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>30/06/1996&nbsp;</td>
+                                    <td><strong>MAESTRÍA EN CIENCIAS COMPUTACIONALES</strong>. Instituto Tecnológico de Nogales.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>30/06/2003&nbsp;</td>
+                                    <td><strong>MAESTRÍA EN MATERIALES AVANZADOS</strong>. Centro de Investigación en Materiales Avanzados.</td>
+                                </tr>
+                            </table>
+                        </blockquote>
                     </div>
                 </div>
             </div>
