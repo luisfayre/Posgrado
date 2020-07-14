@@ -165,18 +165,19 @@ Revista de Innovación Académica, 1(1), 9–17.</td>
                             <table>
                                 <tr>
                                     <td valign=top>2019&nbsp;</td>
-                                    <td>Cuevas, J.H. (2019). <strong> Aprendizaje Basado en Retos.</strong>  IV Escuela de Verano: Encuentro sobre didáctica de
+                                    <td><strong>APRENDIZAJE BASADO EN RETOS.</strong> Cuevas, J.H. (2019). IV Escuela de Verano: Encuentro sobre didáctica de
 la estadística, probabilidad y el análisis de datos. Costa Rica.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>2017&nbsp;</td>
-                                    <td>Cuevas, J.H. (2017). <strong> Estadística Computacional y Reproducibilidad de la Investigación.</strong>  Foro
-Iberoamericano INGE NEO. Chihuahua, México</td>
+                                    <td><strong>ESTADÍSTICA COMPUTACIONAL Y REPRODUCIBILIDAD DE LA INVESTIGACIÓN.</strong> Cuevas, J.H. (2017). Foro
+Iberoamericano INGE NEO. Chihuahua, México.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>2017&nbsp;</td>
-                                    <td>Cuevas, J.H. (2017). <strong> eproducibilidad de la Investigación y Honestidad Intelectual para la
-Innovación y Desarrollo Tecnológico.</strong>  Presentación de Revista Científica de Innovación
+                                    <td><strong>REPRODUCIBILIDAD DE LA INVESTIGACIÓN Y HONESTIDAD INTELECTUAL PARA LA
+INNOVACIÓN Y DESARROLLO TECNOLÓGICO.
+</strong>Cuevas, J.H. (2017). Presentación de Revista Científica de Innovación
 Académica, Yulök. Universidad Técnica Nacional. Alajuela, Costa Rica.</td>
                                 </tr>
 
@@ -188,92 +189,256 @@ Académica, Yulök. Universidad Técnica Nacional. Alajuela, Costa Rica.</td>
                             <table>
                                 <tr>
                                     <td valign=top>2019&nbsp;</td>
-                                    <td>Cuevas, J.H. (2019). <strong>Taller ECORFAN.</strong>
+                                    <td><strong>TALLER ECORFAN.</strong> Cuevas, J.H. (2019). 1er Congreso Internacional de Investigación Consorcio Paso
+del Norte (CIESPN). Chihuahua, México</td>
                                 </tr>
                                 <tr>
-                                    <td valign=top>2017&nbsp;</td>
-                                    <td>Cuevas, J.H. (2019). <strong>Temas Selectos de Estadística y Computación.</strong> Tecnológico de Costa Rica /
+                                    <td valign=top>2019&nbsp;</td>
+                                    <td><strong>TEMAS SELECTOS DE ESTADÍSTICA Y COMPUTACIÓN.</strong> Cuevas, J.H. (2019). Tecnológico de Costa Rica /
 Escuela de Matemática. Costa Rica.</td>
                                 </tr>
                                 <tr>
-                                    <td valign=top>2017&nbsp;</td>
-                                    <td>Cuevas, J.H. (2019). <strong>Visualización de datos.</strong> IV Escuela de Verano: Encuentro sobre Didáctica de la
+                                    <td valign=top>2019&nbsp;</td>
+                                    <td><strong>VISUALIZACIÓN DE DATOS.</strong> Cuevas, J.H. (2019). IV Escuela de Verano: Encuentro sobre Didáctica de la
 Estadística, la Probabilidad y el Análisis de Datos. Costa Rica.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>2017&nbsp;</td>
-                                    <td>Cuevas, J.H. (2017). <strong>Gestión de Revistas Científicas (Conversatorio).</strong> Presentación de la Revista
+                                    <td><strong>GESTIÓN DE REVISTAS CIENTÍFICAS (CONVERSATORIO). </strong>Cuevas, J.H. (2017). Presentación de la Revista
 Científica de Innovación Académica, Yulök. Universidad Técnica Nacional. Alajuela, Costa Rica</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>2017&nbsp;</td>
-                                    <td>Cuevas, J.H. (2017). <strong>Reflexiones y aportes innovadores al quehacer académico (Foro).</strong> Presentación
+                                    <td><strong>REFLEXIONES Y APORTES INNOVADORES AL QUEHACER ACADÉMICO (FORO).</strong> Cuevas, J.H. (2017). Presentación
 de Revista Científica de Innovación Académica, Yulök. Universidad Técnica Nacional. Alajuela,
 Costa Rica.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>2017&nbsp;</td>
-                                    <td>Cuevas, J.H. (2017). <strong>Importancia de la elaboración de artículos científicos innovadores (Taller).</strong>
-Presentación de la Revista de Innovación Académica, Yulök. Universidad Técnica Nacional,
+                                    <td><strong>IMPORTANCIA DE LA ELABORACIÓN DE ARTÍCULOS CIENTÍFICOS INNOVADORES (TALLER).</strong>
+                                    Cuevas, J.H. (2017). Presentación de la Revista de Innovación Académica, Yulök. Universidad Técnica Nacional,
 Alajuela, Costa Rica.</td>
                                 </tr>
                                 <tr>
-                                    <td valign=top>2019&nbsp;</td>
-                                    <td>Cuevas, J.H. (2017). <strong>Elaboración de Protocolos de Investigación (Taller).</strong> Foro Iberoamericano INGE
+                                    <td valign=top>2017&nbsp;</td>
+                                    <td><strong>ELABORACIÓN DE PROTOCOLOS DE INVESTIGACIÓN (TALLER). </strong>Cuevas, J.H. (2017). Foro Iberoamericano INGE
 NEO. Chihuahua, México.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>2017&nbsp;</td>
-                                    <td>Cuevas, J.H. (2017). <strong>Ingeniería en Gestión Empresarial. Panel de Egresados (Moderador en Mesa de
-Trabajo).</strong> Foro Iberoamericano INGE NEO. Chihuahua, México. </td>
+                                    <td><strong>INGENIERÍA EN GESTIÓN EMPRESARIAL. PANEL DE EGRESADOS (MODERADOR EN MESA DE TRABAJO).</strong> Cuevas, J.H. (2017). Foro Iberoamericano INGE NEO. Chihuahua, México. </td>
                                 </tr>
                                 <tr>
                                     <td valign=top>2017&nbsp;</td>
-                                    <td>Cuevas, J.H. (2017). <strong>Proyectos Integradores en la Enseñanza de la Estadística (Conferencia).</strong> III
+                                    <td><strong>PROYECTOS INTEGRADORES EN LA ENSEÑANZA DE LA ESTADÍSTICA (CONFERENCIA).</strong> Cuevas, J.H. (2017). III
 Escuela de Verano EDEPA. Universidad de Costa Rica, Sede del Atlántico.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>2017&nbsp;</td>
-                                    <td>Cuevas, J.H. (2017). <strong>Elaboración de Secuencias Didácticas desde la Perspectiva de la Investigación</strong>
-Guiada. III Escuela de Verano EDEPA. Universidad de Costa Rica, Sede del Atlántico.</td>
+                                    <td><strong>ELABORACIÓN DE SECUENCIAS DIDÁCTICAS DESDE LA PERSPECTIVA DE LA INVESTIGACIÓN GUIADA.</strong>
+                                    Cuevas, J.H. (2017). Guiada. III Escuela de Verano EDEPA. Universidad de Costa Rica, Sede del Atlántico.</td>
                                 </tr>
                                 <tr>
                                     <td valign=top>2017&nbsp;</td>
-                                    <td>Cuevas, J.H. (2017).<strong>Diseño de Proyectos Multidisciplinares con Actividades Observacionales y
-Experimentales.</strong>III Escuela de Verano EDEPA. Universidad de Costa Rica, Sede del Atlántico.</td>
+                                    <td><strong>DISEÑO DE PROYECTOS MULTIDISCIPLINARES CON ACTIVIDADES OBSERVACIONALES Y EXPERIMENTALES.</strong> Cuevas, J.H. (2017). III Escuela de Verano EDEPA. Universidad de Costa Rica, Sede del Atlántico.</td>
                                 </tr>
 
                             </table>
                         </blockquote>
 
-                        <p>DIRECCIÓN DE TESIS</p>
+                        <p>EVALUADOR DE ARTÍCULOS Y CAPÍTULOS DE LIBRO</p>
                         <blockquote>
                             <table>
                                 <tr>
-                                    <td valign=top>2020&nbsp;</td>
-                                    <td>Aplicación para Resolver Ecuaciones Diferenciales
-Ordinarias (EDO). Tecnológico Nacional de México
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td>Centro de Investigaciones Educativas de la Escuela<br> de
+Educación de la Universidad Central de Venezuela</td>
                                 </tr>
                                 <tr>
-                                    <td valign=top>2019&nbsp;</td>
-                                    <td>Implementación de un Curso Adaptativo Basado en Estilos
-de Aprendizaje Mediante Lógica Difusa. Tecnológico Nacional de México</td>
+                                    <td valign=top>Fecha de inicio&nbsp;</td>
+                                    <td>10/01/2017</td>
                                 </tr>
                                 <tr>
-                                    <td valign=top>2020&nbsp;</td>
-                                    <td>Aplicación Móvil para Desarrollar y Graficar Series de
-Fourier. Tecnológico Nacional de México</td>
+                                    <td valign=top>Fecha fin&nbsp;</td>
+                                    <td>10/02/2017</td>
                                 </tr>
                                 <tr>
-                                    <td valign=top>2021&nbsp;</td>
-                                    <td>Aplicación Móvil para Espacios Vectoriales (en proceso). Tecnológico Nacional de México</td>
+                                    <td valign=top>Cargo desempeñado&nbsp;</td>
+                                    <td>Evaluador</td>
                                 </tr>
-                                
-
+                                <tr>
+                                    <td valign=top>Producto evaluado&nbsp;</td>
+                                    <td>Libros o capítulo de libro</td>
+                                </tr>
                             </table>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td>Consejo Mexicano de Investigación Educativa, A.C.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha de inicio&nbsp;</td>
+                                    <td>09/06/2017</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha fin&nbsp;</td>
+                                    <td>18/08/2017</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Cargo desempeñado&nbsp;</td>
+                                    <td>Dictaminador</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Tipo de evaluación&nbsp;</td>
+                                    <td>Académica</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Producto evaluado&nbsp;</td>
+                                    <td>Ponencia</td>
+                                </tr>
+                            </table>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td>Asociación Colombiana de Educación Estocástica</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha de inicio&nbsp;</td>
+                                    <td>05/01/2018</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha fin&nbsp;</td>
+                                    <td>30/10/2018</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Cargo desempeñado&nbsp;</td>
+                                    <td>Integrante de Comité Científico</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Producto evaluado&nbsp;</td>
+                                    <td>Evaluador - Asesor</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Descripción de la<br> actividad: I&nbsp;</td>
+                                    <td>Evaluador de contribuciones, asesor</td>
+                                </tr>
+                            </table>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td style="text-align:left">Universidad Tecnológica Nacional (República Argentina)</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha de inicio&nbsp;</td>
+                                    <td>05/07/2019</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha fin&nbsp;</td>
+                                    <td>02/08/2019</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Cargo desempeñado&nbsp;</td>
+                                    <td>Evaluador</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Producto evaluado&nbsp;</td>
+                                    <td>Ponencia</td>
+                                </tr>
+                            </table>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td>Revista Investigación y Ciencia de la Universidad<br> 
+Autónoma de Aguascalientes (Indexada en Conacyt…)</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha de inicio&nbsp;</td>
+                                    <td>02/07/2019</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha fin&nbsp;</td>
+                                    <td>14/08/2019</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Cargo desempeñado&nbsp;</td>
+                                    <td>Evaluador</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Producto evaluado&nbsp;</td>
+                                    <td>Artículo de Investigación</td>
+                                </tr>
+                            </table>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td>Educación Matemática (Indexada en Scopus, Conacyt…)</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha de inicio&nbsp;</td>
+                                    <td>17/07/2019</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha fin&nbsp;</td>
+                                    <td>06/09/2019</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Cargo desempeñado&nbsp;</td>
+                                    <td>Evaluador</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Producto evaluado&nbsp;</td>
+                                    <td>Artículo de Investigación</td>
+                                </tr>
+                            </table>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución</td>
+                                    <td style="text-align:left">Consorcio Paso del Norte.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha de inicio&nbsp;</td>
+                                    <td>01/08/2019</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha fin&nbsp;</td>
+                                    <td>06/09/2019</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Cargo desempeñado&nbsp;</td>
+                                    <td>Colaborador/Evaluador/Instructor</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Producto evaluado&nbsp;</td>
+                                    <td>Taller/ECORFAN </td>
+                                </tr>
+                            </table>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td>Revista Latinoamericana de Investigación en Matemática<br> 
+Educativa (Indexada en WOS JCR, Conacyt…)</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha de inicio&nbsp;</td>
+                                    <td>29/01/2020</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha fin&nbsp;</td>
+                                    <td>28/02/2020</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Cargo desempeñado&nbsp;</td>
+                                    <td>Evaluador</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Producto evaluado&nbsp;</td>
+                                    <td>Artículo de Investigación</td>
+                                </tr>
+                            </table>
+                            
                         </blockquote>
 
-                        <p>COMITE CIENTIFICO</p>
+                        <p>COMITE CIENTÍFICO</p>
                         <blockquote>
                             <table>
                                 <tr>
@@ -386,6 +551,133 @@ Académica Yulök</td>
                                 <tr>
                                     <td valign=top>País&nbsp;</td>
                                     <td>Costa Rica</td>
+                                </tr>
+                            </table>
+                        </blockquote>
+
+                        <p>DIRECCIÓN DE TESIS</p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td>Tecnológico Nacional de México
+                                </tr>
+                                <tr>
+                                    <td valign=top>Programa PNPC&nbsp;</td>
+                                    <td>sÍ</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Título de la tesis&nbsp;</td>
+                                    <td>Implementación de un Curso Adaptativo Basado en<br> Estilos
+de Aprendizaje Mediante Lógica Difusa</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Estado de la tesis&nbsp;</td>
+                                    <td>Terminada y defendida</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha de obtención<br> de grado&nbsp;</td>
+                                    <td>26/junio/2019</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Nombre del autor&nbsp;</td>
+                                    <td>Laura Itzel Payán Sivitos</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Grado académico&nbsp;</td>
+                                    <td>Maestría</td>
+                                </tr>
+                            </table>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td>Tecnológico Nacional de México
+                                </tr>
+                                <tr>
+                                    <td valign=top>Programa PNPC&nbsp;</td>
+                                    <td>sÍ</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Título de la tesis&nbsp;</td>
+                                    <td>Aplicación Móvil para Desarrollar y Graficar Series<br> de
+Fourier</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Estado de la tesis&nbsp;</td>
+                                    <td>Terminada y defendida</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha de obtención<br> de grado&nbsp;</td>
+                                    <td>30/06/2020</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Nombre del autor&nbsp;</td>
+                                    <td>Jesús Francisco Duarte Martínez</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Grado académico&nbsp;</td>
+                                    <td>Maestría</td>
+                                </tr>
+                            </table>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td>Tecnológico Nacional de México
+                                </tr>
+                                <tr>
+                                    <td valign=top>Programa PNPC&nbsp;</td>
+                                    <td>sÍ</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Título de la tesis&nbsp;</td>
+                                    <td>Aplicación para Resolver Ecuaciones Diferenciales<br> 
+Ordinarias (EDO)</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Estado de la tesis&nbsp;</td>
+                                    <td>Terminada y defendida</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha de obtención<br> de grado&nbsp;</td>
+                                    <td>30/06/2020</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Nombre del autor&nbsp;</td>
+                                    <td>Daniela Irania García Almeida</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Grado académico&nbsp;</td>
+                                    <td>Maestría</td>
+                                </tr>
+                            </table>
+                            <table>
+                                <tr>
+                                    <td valign=top>Institución&nbsp;</td>
+                                    <td>Tecnológico Nacional de México
+                                </tr>
+                                <tr>
+                                    <td valign=top>Programa PNPC&nbsp;</td>
+                                    <td>sÍ</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Título de la tesis&nbsp;</td>
+                                    <td>Aplicación Móvil para Espacios Vectoriales</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Estado de la tesis&nbsp;</td>
+                                    <td>En proceso</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Fecha de obtención<br> de grado&nbsp;</td>
+                                    <td>Febrero, 2021</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Nombre del autor&nbsp;</td>
+                                    <td>Claudia Cecilia Chávez Molina</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>Grado académico&nbsp;</td>
+                                    <td>Maestría</td>
                                 </tr>
                             </table>
                         </blockquote>
