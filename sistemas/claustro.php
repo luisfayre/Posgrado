@@ -108,7 +108,7 @@
                                     <table>
                                         <tr>
                                             <td valign=top>25/03/2005</td>
-                                            <td><strong>Maestría</strong> en Ingeniería en Sistemas Computacionales. Universidad Autónoma De Chihuahua.
+                                            <td><strong>Maestría</strong> en Ingeniería en Sistemas Computacionales. Universidad Autónoma de Chihuahua.
                                             </td>
                                         </tr>
                                         <tr>
@@ -117,7 +117,7 @@
                                         </tr>
                                         <tr>
                                             <td>28/06/1991</td>
-                                            <td><strong>Liceciatura. </strong>Licenciatura en Sistemas de Computación Administrativa. Universidad Autónoma De Chihuahua.</td>
+                                            <td><strong>Liceciatura. </strong>Licenciatura en Sistemas de Computación Administrativa. Universidad Autónoma de Chihuahua.</td>
                                         </tr>
                                     </table>    
                                     <p>
@@ -180,7 +180,7 @@
                                     <table>
                                         <tr>
                                             <td valign=top>12/06/1992</td>
-                                            <td><strong>Maestría</strong> en Ciencias en Cómputo Aplicado. Colegio de Posgraduados, Montecillo EDO. de México. cédula: 4821789. TESIS: Sistema de información para la administración de la investigación agrícola (SINAIA)
+                                            <td><strong>Maestría</strong> en Ciencias en Cómputo Aplicado. Colegio de Posgraduados, Montecillo EDO. de México. cédula: 4821789. TESIS: Sistema de información para la administración de la investigación agrícola (SINAIA).
                                             </td>
                                         </tr>
                                         <tr>
@@ -319,11 +319,11 @@ Docencia en Educación Técnica. México</td>
                                     <table>
                                         <tr>
                                             <td>- </td>
-                                            <td><strong>Doctorado</strong> en Administración. Universidad Autonoma de Chihuahua.</td>
+                                            <td><strong>Doctorado</strong> en Administración. Universidad Autónoma de Chihuahua.</td>
                                         </tr>
                                         <tr>
                                             <td>09/11/2007 </td>
-                                            <td><strong>Maestría</strong> en Sistemas de Información. Universidad Autonoma de Chihuahua.</td>
+                                            <td><strong>Maestría</strong> en Sistemas de Información. Universidad Autónoma de Chihuahua.</td>
                                         </tr>
                                     </table>
                                     <p>
@@ -335,7 +335,7 @@ Docencia en Educación Técnica. México</td>
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="#">
-                                        <img class="media-object" style="width: 100px; height: 162px" src="../img/cv/ilya_3.jpg" alt="Ilya Lorena Sánchez Rivera">
+                                        <img class="media-object" style="width: 100px; height: 182px" src="../img/cv/ilya_3.jpg" alt="Ilya Lorena Sánchez Rivera">
                                     </a>
                                 </div>
                                 <div class="media-body">
@@ -346,7 +346,7 @@ Docencia en Educación Técnica. México</td>
                                     <table>
                                         <tr>
                                             <td> 2013 </td>
-                                            <td><strong> Maestría</strong> en Sistemas de Información</td>
+                                            <td><strong> Maestría</strong> en Sistemas de Información.</td>
                                         </tr>
                                     </table>
                                 </div>
@@ -374,7 +374,7 @@ Docencia en Educación Técnica. México</td>
                                         </tr>
                                         <tr>
                                             <td>11/06/2004</td>
-                                            <td><strong>Maestría</strong> en Ciencias de los materiales, CIMAV.</td>
+                                            <td><strong>Maestría</strong> en Ciencias de los Materiales, CIMAV.</td>
                                         </tr>
                                         <tr>
                                             <td>13/07/2007</td>
