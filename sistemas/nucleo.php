@@ -92,7 +92,7 @@
                     <table>
                         <tr>
                             <td valign=top>25/03/2005</td>
-                            <td><strong>Maestría</strong> en Ingeniería en Sistemas Computacionales. Universidad Autónoma De Chihuahua.
+                            <td><strong>Maestría</strong> en Ingeniería en Sistemas Computacionales. Universidad Autónoma de Chihuahua.
                             </td>
                         </tr>
                         <tr>
@@ -153,7 +153,7 @@
                     <table>
                     <tr>
                         <td valign=top>12/06/1992</td>
-                        <td><strong>Maestría</strong> en Ciencias en Cómputo Aplicado. Colegio de Posgraduados, Montecillo EDO. de México. cédula: 4821789. TESIS: Sistema de información para la administración de la investigación agrícola (SINAIA)
+                        <td><strong>Maestría</strong> en Ciencias en Cómputo Aplicado. Colegio de Posgraduados, Montecillo EDO. de México. cédula: 4821789. TESIS: Sistema de información para la administración de la investigación agrícola (SINAIA).
                         </td>
                     </tr>
                     <tr>
@@ -284,20 +284,20 @@
                     <table>
                         <tr>
                             <td>01/01/2011 </td>
-                            <td><strong>Doctorado</strong> en Educación. Universidad Autónoma de Chihuahua. México</td>
+                            <td><strong>Doctorado</strong> en Educación. Universidad Autónoma de Chihuahua. México.</td>
                         </tr>
                         <tr>
                             <td>01/08/2002 </td>
-                            <td><strong>Maestría</strong> en Enseñanza de las Ciencias. Centro Interdisciplinario de Investigación y Docencia en Educación Técnica. México</td>
+                            <td><strong>Maestría</strong> en Enseñanza de las Ciencias. Centro Interdisciplinario de Investigación y Docencia en Educación Técnica. México.</td>
                         </tr>
                         <tr>
                             <td>01/03/2000 </td>
                             <td><strong>Especialidad</strong> en docencia. Centro Interdisciplinario de Investigación y
-Docencia en Educación Técnica. México</td>
+Docencia en Educación Técnica. México.</td>
                         </tr>
                         <tr>
                             <td>01/01/1996 </td>
-                            <td><strong>Licenciatura</strong>. Ingeniería Industrial. Tecnológico Nacional de México / ITD. México</td>
+                            <td><strong>Licenciatura</strong>. Ingeniería Industrial. Tecnológico Nacional de México / ITD. México.</td>
                         </tr>
                         <tr>
                             <td>03/2020 </td>
