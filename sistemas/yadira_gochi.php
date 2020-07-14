@@ -91,6 +91,24 @@
                                 </tr>
                             </table>
                         </blockquote>
+                        <p>NIVELES/GRADOS ACADÉMICOS </p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>08/06/20011&nbsp;</td>
+                                    <td><strong>LICENCIATURA EN INGENIERÍA QUÍMICA</strong>. Universidad Michoacana de San Nicolas de Hidalgo.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>11/06/2004&nbsp;</td>
+                                    <td><strong>MAESTRÍA EN CIENCIA DES DE LOS MATERIALES.</strong> CIMAV.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>13/07/2007&nbsp;</td>
+                                    <td><strong>DOCTORADO EN CIENCIA DE MATERIALES.</strong> CIMAV.</td>
+                                </tr>
+                            </table>
+                        </blockquote>
                     </div>
                 </div>
             </div>
