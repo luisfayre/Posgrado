@@ -78,6 +78,24 @@
                                 </tr>
                             </table>
                         </blockquote>
+                        <p>NIVELES/GRADOS ACADÉMICOS </p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>30/10/2001&nbsp;</td>
+                                    <td><strong>INGENIERÍA MECÁNICA</strong>. Instituto Politécnico Nacional.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>10/10/2005&nbsp;</td>
+                                    <td><strong>MAESTRÍA EN CIENCIAS. </strong> CINVESTAV.</td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>17/12/2010&nbsp;</td>
+                                    <td><strong>DOCTORADO EN CIENCIAS. </strong> CINVESTAV.</td>
+                                </tr>
+                            </table>
+                        </blockquote>
                     </div>
                 </div>
             </div>
