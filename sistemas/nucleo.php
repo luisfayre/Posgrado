@@ -70,6 +70,10 @@
                                 <td>01/07/1992 </td>
                                 <td><strong>Maestría</strong> en Matemática Educativa. Centro de Investigación y Estudios Avanzados del Instituto Politécnico Nacional. </td>
                             </tr>
+                            <tr>
+                                <td>01/02/1998</td>
+                                <td><strong>Licenciatura</strong> en la enseñanza de las matemáticas. Universidad Autónoma de Ciudad Juárez. </td>
+                            </tr>
                     </table>
                     <p>
                         <a href="alberto_camacho.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
