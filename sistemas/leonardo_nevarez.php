@@ -122,20 +122,6 @@
                                 </tr>
                             </table>
                         </blockquote>
-                        <p>NIVELES/GRADOS ACADÉMICOS </p>
-                        <blockquote>
-                            <table>
-                                <tr>
-                                    <td valign=top>12/06/1992&nbsp;</td>
-                                    <td><strong>MAESTRIA EN CIENCIAS EN CÓMPUTO APLICADO</strong>. COLEGIO DE POSGRADUADOS, MONTECILLO EDO. DE MÉXICO. CÉDULA: 4821789. TESIS: Sistema de información para la administración de la investigación agrícola (SINAIA).
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td valign=top>31/05/1988&nbsp;</td>
-                                    <td><strong>LICENCIATURA</strong>.INGENIERO AGRÓNOMO EN SUELOS. UNIVERSIDAD AUTONOMA DE CHIHUAHUA. CÉDULA: 1840846.</td>
-                                </tr>
-                            </table>
-                        </blockquote>
                         <p>INVESTIGACIÓN CIENTIFÍCA Y TECNOLÓGICA </p>
                         <blockquote>
                             <table>
@@ -156,6 +142,20 @@
                                 <tr>
                                     <td valign=top>09/2013&nbsp;</td>
                                     <td><strong>GRUPOS DE INVESTIGACIÓN</strong>, TECNOLOGÍAS APLICADAS A LA EDUCACIÓN, TECNOLÓGICO NACIONAL DE MÉXICO / INSTITUTO TECNOLÓGICO DE CHIHUAHUA II / SUBDIRECCION ACADEMICA / DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN, MARISELA IVETTE CALDERA FRANCO , JESUS HUMBERTO CUEVAS ACOSTA , LEONARDO NEVAREZ CHAVEZ .</td>
+                                </tr>
+                            </table>
+                        </blockquote>
+                        <p>NIVELES/GRADOS ACADÉMICOS </p>
+                        <blockquote>
+                            <table>
+                                <tr>
+                                    <td valign=top>12/06/1992&nbsp;</td>
+                                    <td><strong>MAESTRIA EN CIENCIAS EN CÓMPUTO APLICADO</strong>. COLEGIO DE POSGRADUADOS, MONTECILLO EDO. DE MÉXICO. CÉDULA: 4821789. TESIS: Sistema de información para la administración de la investigación agrícola (SINAIA).
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign=top>31/05/1988&nbsp;</td>
+                                    <td><strong>LICENCIATURA</strong>.INGENIERO AGRÓNOMO EN SUELOS. UNIVERSIDAD AUTONOMA DE CHIHUAHUA. CÉDULA: 1840846.</td>
                                 </tr>
                             </table>
                         </blockquote>
