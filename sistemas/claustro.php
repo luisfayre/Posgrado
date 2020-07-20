@@ -249,24 +249,24 @@
 
                                     <table>
                                         <tr>
-                                            <td>01/01/2011 </td>
+                                            <td>31/01/2011</td>
                                             <td><strong>Doctorado</strong> en Educación. Universidad Autónoma de Chihuahua. México</td>
                                         </tr>
                                         <tr>
-                                            <td>01/08/2002 </td>
+                                            <td>23/08/2002</td>
                                             <td><strong>Maestría</strong> en Enseñanza de las Ciencias. Centro Interdisciplinario de Investigación y Docencia en Educación Técnica. México</td>
                                         </tr>
                                         <tr>
-                                            <td>01/03/2000 </td>
+                                            <td>08/03/2000</td>
                                             <td><strong>Especialidad</strong> en docencia. Centro Interdisciplinario de Investigación y
 Docencia en Educación Técnica. México</td>
                                         </tr>
                                         <tr>
-                                            <td>01/01/1996 </td>
+                                            <td>26/01/1996</td>
                                             <td><strong>Licenciatura</strong>. Ingeniería Industrial. Tecnológico Nacional de México / ITD. México</td>
                                         </tr>
                                         <tr>
-                                            <td>03/2020 </td>
+                                            <td>03/2020</td>
                                             <td><strong>Maestría</strong>. Máster en Estadística Aplicada con R. Universidad de Nebrija. España.</td>
                                         </tr>
                                     </table>
@@ -394,7 +394,7 @@ Docencia en Educación Técnica. México</td>
                             <div class="thumbnail marcos">
                                 <div class="media-left media-middle">
                                     <a href="#">
-                                        <img class="media-object" src="../img/cv/desconocido.jpg" alt="Arturo Martínez Ayala" width="100" height="160">
+                                        <img class="media-object" src="../img/cv/arturoMartinez.jpg" alt="Arturo Martínez Ayala" width="100" height="160">
                                     </a>
                                 </div>
                                 <div class="media-body">
