@@ -135,11 +135,11 @@
                         <blockquote>
                             <table>
                                 <tr>
-                                    <td valign=top>19/07/2000&nbsp;</td>
+                                    <td valign=top>01/07/2000&nbsp;</td>
                                     <td><strong>DOCTORADO EN MATEMÁTICA EDUCATIVA</strong>. CENTRO DE INVESTIGACIÓN Y ESTUDIOS AVANZADOS DEL INSTITUTO POLITÉCNICO NACIONAL.</td>
                                 </tr>
                                 <tr>
-                                    <td valign=top>01/02/1993&nbsp;</td>
+                                    <td valign=top>01/07/1992&nbsp;</td>
                                     <td><strong>MAESTRIA EN MATEMÁTICA EDUCATIVA</strong>. CENTRO DE INVESTIGACIÓN Y ESTUDIOS AVANZADOS DEL INSTITUTO POLITÉCNICO NACIONAL.</td>
                                 </tr>
                                 <tr>
