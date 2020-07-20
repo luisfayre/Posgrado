@@ -688,24 +688,24 @@ Ordinarias (EDO)</td>
                         <blockquote>
                             <table>
                                 <tr>
-                                    <td valign=top>2011&nbsp;</td>
+                                    <td valign=top>31/01/2011&nbsp;</td>
                                     <td><strong>DOCTORADO</strong>, Doctorado en Educación Facultad de Filosofía y Letras Universidad Autónoma de Chihuahua. CÉDULA: 7020273 .
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td valign=top>2002&nbsp;</td>
+                                    <td valign=top>23/08/2002&nbsp;</td>
                                     <td><strong>MAESTRÍA</strong>, Maestría en Ciencias en Enseñanza de las Ciencias Centro Interdisciplinario de Investigación y Docencia en Educación Técnica (CIIDET). CÉDULA: 4112403.</td>
                                 </tr>
                                 <tr>
-                                    <td valign=top>2000&nbsp;</td>
+                                    <td valign=top>08/03/2000&nbsp;</td>
                                     <td><strong>ESPECIALIZACIÓN</strong>, Especialización en Docencia (1998 – 2000) Centro Interdisciplinario de Investigación y Docencia en Educación Técnica (CIIDET). CÉDULA: 3247507.</td>
                                 </tr>
                                 <tr>
-                                    <td valign=top>31/05/1988&nbsp;</td>
+                                    <td valign=top>26/01/1996&nbsp;</td>
                                     <td><strong>LICENCIATURA</strong>, Ingeniero Industrial. Instituto Tecnológico de Delicias. CÉDULA: 2404214.</td>
                                 </tr>
                                 <tr>
-                                    <td valign=top>02/2020&nbsp;</td>
+                                    <td valign=top>03/2020&nbsp;</td>
                                     <td><strong>MAESTRÍA</strong>, Máster en Estadística Aplicada con R . Universidad de Nebrija.</td>
                                 </tr>
                             </table>
