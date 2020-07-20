@@ -62,12 +62,12 @@
                     <table>
                         <tr>
                             <tr>
-                                <td>01/07/2000 </td>
+                                <td>01/07/2000</td>
                                 <td><strong>Doctorado</strong> en Matemática Educativa. Centro de Investigación y Estudios Avanzados del Instituto Politécnico Nacional. </td>
                             </tr>
 
                             <tr>
-                                <td>01/07/1992 </td>
+                                <td>01/07/1992</td>
                                 <td><strong>Maestría</strong> en Matemática Educativa. Centro de Investigación y Estudios Avanzados del Instituto Politécnico Nacional. </td>
                             </tr>
                             <tr>
@@ -234,40 +234,6 @@
                     </p>
                 </div>
             </div>
-            <div class="thumbnail marcos">
-                <div class="media-left media-middle">
-                    <a href="rafael_sandoval.php">
-                        <img class="media-object" src="../img/cv/Rafael_Sandoval.jpg" alt="Rafael Sandoval" width="100" height="160">
-                    </a>
-                </div>
-                <div class="media-body">
-                    <h4 class="media-heading">Rafael Sandoval Rodriguez</h4>
-                    <p>CORREO:
-                        <a href="mailto:rafael.sr1@chihuahua2.tecnm.mx">
-                            rafael.sr1@chihuahua2.tecnm.mx
-                        </a>
-                    </p>
-                    <p>
-                    <table>
-                        <tr>
-                            <td> 05/2005 </td>
-                            <td><strong>Doctorado</strong> en Ingeniería Electrónica. Universidad de Nuevo Mexico.</td>
-                        </tr>
-                        <tr>
-                            <td> 09/1994 </td>
-                            <td><strong>Maestría</strong> en Ciencias en Ingeniería Electrónica. Instituto Tecnológico de Chihuahua.</td>
-                        </tr>
-                        <tr>
-                            <td> 11/1991 </td>
-                            <td><strong>Ingeniería</strong> Industrial en Electrónica. Instituto Tecnológico de Chihuahua.</td>
-                        </tr>
-                    </table>
-                    </p>
-                </div>
-                <p>
-                    <a href="rafael_sandoval.php" class="alignright btn btn-warning" role="button">Producción Académica</a>
-                </p>
-            </div>
 
             <div class="thumbnail marcos">
                 <div class="media-left media-middle">
@@ -287,20 +253,20 @@
                     </p>
                     <table>
                         <tr>
-                            <td>01/01/2011 </td>
+                            <td>31/01/2011 </td>
                             <td><strong>Doctorado</strong> en Educación. Universidad Autónoma de Chihuahua. México.</td>
                         </tr>
                         <tr>
-                            <td>01/08/2002 </td>
+                            <td>23/08/2002</td>
                             <td><strong>Maestría</strong> en Enseñanza de las Ciencias. Centro Interdisciplinario de Investigación y Docencia en Educación Técnica. México.</td>
                         </tr>
                         <tr>
-                            <td>01/03/2000 </td>
+                            <td>08/03/2000</td>
                             <td><strong>Especialidad</strong> en docencia. Centro Interdisciplinario de Investigación y
 Docencia en Educación Técnica. México.</td>
                         </tr>
                         <tr>
-                            <td>01/01/1996 </td>
+                            <td>26/01/1996</td>
                             <td><strong>Licenciatura</strong>. Ingeniería Industrial. Tecnológico Nacional de México / ITD. México.</td>
                         </tr>
                         <tr>
