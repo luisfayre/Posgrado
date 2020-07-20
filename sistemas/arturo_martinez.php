@@ -40,7 +40,7 @@
                 <div class="jumbotron cv">
                     <div class="container">
                         <div class="text-center">
-                            <img clas="img-responsive" src="../img/cv/desconocido.jpg" alt="">
+                            <img clas="img-responsive" src="../img/cv/arturoMartinez.jpg" style="width: 150px; height: 220px"  alt="">
                             <h2>Dr. Arturo Martínez Ayala</h2>
                             <p>CORREO: arturo.ma@chihuahua2.tecnm.mx
                                 <br> Instituto Tecnológico de Chihuahua II: (052) 614.4425000.124
