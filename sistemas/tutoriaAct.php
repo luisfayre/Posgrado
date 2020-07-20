@@ -125,14 +125,6 @@
                                 <td>M.S.I. Sergio Antonio Talavera Carbajal</td>
                             </tr>
                             <tr>
-                                <td>Piñon Gaytán Ariel</td>
-                                <td></td>
-                                <td>M.I.S.C. Jesús Arturo Alvarado Granadino</td>
-                                <td>M.C. Rafael Vázquez Pérez</td>
-                                <td>M.C. Arturo Legarda Saénz</td>
-                                <td>M.S.I. Sergio Antonio Talavera Carbajal</td>
-                            </tr>
-                            <tr>
                                 <td>Castañeda Balderas Rubén</td>
                                 <td>
                                     <a href="./../documentos/tesis/2013/Determinación del mapa de deformaciones en probetas planas mediante el método de correlación digital de imágenes - Rubén Castañeda.pdf">
@@ -145,14 +137,6 @@
                                 <td>Dr. Alberto Camacho Ríos</td>
                             </tr>
                             <tr>
-                                <td>Chaparro Díaz Marco Antonio</td>
-                                <td></td>
-                                <td>M.S.I. Gregorio Ronquillo Maynez</td>
-                                <td>Dr. Alberto Camacho Ríos</td>
-                                <td>M.E.S. Marisela Ivette Caldera Franco</td>
-                                <td>M.I.S. Jesús Arturo Alvarado Granadino</td>
-                            </tr>
-                            <tr>
                                 <td>Muñoz Estrada Edgar Armando</td>
                                 <td>
                                     <a href="./../documentos/tesis/2013/Modulo de reconocimiento de particulas microscopicas (REMIC) - Edgar Muñoz.pdf">
@@ -163,38 +147,6 @@
                                 <td>Dr. Caleb Carreño Gallardo</td>
                                 <td>Dr. Hernán de la Garza</td>
                                 <td>M.C. M.C. Leonardo Nevarez Chavez</td>
-                            </tr>
-                            <tr>
-                                <td>De Santiago Nuñez Omar</td>
-                                <td></td>
-                                <td>M.C. Leonardo Nevarez Chavez</td>
-                                <td>Dr. Alberto Camacho Ríos</td>
-                                <td>M.S.I. Gregorio Ronquillo Maynez</td>
-                                <td>M.C. Rafael Vázquez Pérez</td>
-                            </tr>
-                            <tr>
-                                <td>Ortiz Barrio Gabino Alberto</td>
-                                <td></td>
-                                <td>M.E.S. Marisela Ivette Caldera Franco</td>
-                                <td>M.S.I. Sergio Antonio Talavera Carbajal</td>
-                                <td>Dr. Jesús Humberto Cuevas Acosta</td>
-                                <td>M.C. Arturo Legarda Saenz</td>
-                            </tr>
-                            <tr>
-                                <td>Zapata Silva Jose Martín</td>
-                                <td></td>
-                                <td>M.E.S. Marisela Ivette Caldera Franco</td>
-                                <td>M.S.I. Gregorio Ronquillo Maynez</td>
-                                <td>M.C. Leonardo Nevarez Chavez</td>
-                                <td>Dr. Hernán de la Garza</td>
-                            </tr>
-                            <tr>
-                                <td>Anzaldo Moreno Juan Adalberto</td>
-                                <td></td>
-                                <td>M.C. Rafael Vázquez Pérez</td>
-                                <td>Dr. Eduardo Florencio Herrera </td>
-                                <td>M.I.S.C. Jesús Alvarado Granadino</td>
-                                <td>Dr. Jesús Humberto Cuevas Acosta</td>
                             </tr>
                             <tr>
                                 <td>Campos Frías Tania Paola</td>
@@ -247,22 +199,6 @@
                                 <td>M.I.S.C Jesús Arturo Alvarado Granadino</td>
                             </tr>
                             <tr>
-                                <td>Sebastian Iram Acosta Lazalde</td>
-                                <td></td>
-                                <td>M.C. Arturo Legarda Saénz</td>
-                                <td>Dr. Hernán de la Garza Gutiérrez</td>
-                                <td>M.C. Rafael Vázquez Pérez</td>
-                                <td>M.C. Leonardo Nevarez Chavez</td>
-                            </tr>
-                            <tr>
-                                <td>Alfonso Osio Calvillo</td>
-                                <td></td>
-                                <td>Dr. Hernán de la Garza Gutiérrez</td>
-                                <td>M.C. Arturo Legarda Saénz</td>
-                                <td>M.I.S.C. Jesús Arturo Alvarado Granadino</td>
-                                <td>M.S.I. Sergio Antonio Talavera Carbajal</td>
-                            </tr>
-                            <tr>
                                 <td>Lorena Chávira Celaya</td>
                                 <td>
                                     <a href="../documentos/tesis/2014/Aplicación para enseñar el uso del teclado QWERTY a niños con discapacidad visual de entre 6 y 8 años de edad - Lorena Chavira.pdf">
@@ -285,14 +221,6 @@
                                 <td>Dr. Alberto Díaz Díaz</td>
                                 <td>Dr. Hernán de la Garza Gutiérrez</td>
                                 <td>Dr. Jesús Humberto Cuevas Acosta</td>
-                            </tr>
-                            <tr>
-                                <td>Octavio Flores Cano</td>
-                                <td></td>
-                                <td>M.S.I. Gregorio Ronquillo Maynez</td>
-                                <td>M.S.I. Sergio Antonio Talavera Carbajal</td>
-                                <td>M.C. Blanca Maricela Ibarra Murrieta</td>
-                                <td>M.C. Arturo Legarda Saénz</td>
                             </tr>
                         </tbody>
                     </table>
@@ -909,8 +837,8 @@
 
                                 <td class="column1 style34 s">Leonardo Nevárez Porras</td>
                                 <td class="column2 style35 s"></td>
-                                <td class="column4 style35 s">M.I.S.C. Jesús Arturo Alvarado Granadino</td>
-                                <td class="column5 style35 s">Dr. Hernán De La Garza Gutiérrez</td>
+                                <td class="column4 style35 s">Dr. Hernán De La Garza Gutiérrez</td>
+                                <td class="column5 style35 s">M.I.S.C. Jesús Arturo Alvarado Granadino</td>
                                 <td class="column3 style23 s">M.C. Arturo Legarda Sáenz</td>
                                 <td class="column3 style29 s">Dra. Marisela Ivette Caldera Franco</td>
 
