@@ -46,7 +46,7 @@
                 <p style="font-size:19px">Recepción de solicitudes</p>
                 <li> Recepción de solicitudes</a> ASPIRANTES: acudir al Instituto para completar y registrar la solicitud en
                     oficinas de Posgrado ITCH II o enviarlas al correo posgrado@itchihuahuaii.edu.mx o
-                    ilyasanchez@hotmail.com incluir:</li>
+                    ilya.sr@chihuahua2.tecnm.mx incluir:</li>
                 <br>
                 <pre><a href="documentos/FSolIngresoMaestriaFSI-01.docx">Solicitud para ambas maestrías</a></pre>
                 <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Proceso de
