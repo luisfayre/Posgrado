@@ -66,7 +66,7 @@
                             <h2>Información del programa</h2>
 
                             <p>Coordinador: Ilya Lorena Sánchez Rivera</p>
-                            <p>Correo: ilyasanchez@hotmail.com</p>
+                            <p>Correo: ilya.sr@chihuahua2.tecnm.mx</p>
                             <p>Teléfonos: 4-42-50-32</p>
                             <p>Horario de atención: 8 a.m. a 8 p.m.</p>
 
