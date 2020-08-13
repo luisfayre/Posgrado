@@ -30,7 +30,7 @@
                     <h4>M.S.I Ilya Sánchez</h4>
                 </div>
                 <div class="caption">
-                    <p>ilyasanchez@hotmail.com
+                    <p>ilya.sr@chihuahua2.tecnm.mx
                     <p>Teléfono:52 (614) 442-5032</p>
                 </div>
             </div>
