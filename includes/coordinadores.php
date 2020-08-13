@@ -16,7 +16,7 @@
         <h4 class="media-heading">Ilya Lorena Sánchez Rivera</h4>
 
         <p>Correo: 
-            <a href="mailto:ilyasanchez@hotmail.com">ilyasanchez@hotmail.com</a>
+            <a href="mailto:ilya.sr@chihuahua2.tecnm.mx">ilya.sr@chihuahua2.tecnm.mx</a>
         </p>
         <p> 16/09/1998 - 2019 Tecnológico Nacional De México / Instituto Tecnológico De Chihuahua II,
             Coordinadora de la Maesría en Sistemas Computacionales, Tiempo completo</p>
