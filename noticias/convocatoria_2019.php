@@ -75,7 +75,7 @@
                             <p>
                                 Esta papelería deberá traerla a la DEPI del Instituto o bien enviarla por correo electrónico debidamente
                                 firmada, a la siguiente dirección electrónica:
-                                <a href="mailto:ilyasanchez@hotmail.com">ilyasanchez@hotmail.com</a>
+                                <a href="mailto:ilya.sr@chihuahua2.tecnm.mx">ilya.sr@chihuahua2.tecnm.mx</a>
                             </p>
                             <p>
                                 2. Presentar examen CENEVAL.
